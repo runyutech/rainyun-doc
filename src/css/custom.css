@@ -28,3 +28,23 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+[alt*="@25"] {
+  zoom: 25%;
+}
+[alt*="@50"] {
+  zoom: 50%;
+}
+[alt*="@75"] {
+  zoom: 75%;
+}
+[alt*="@100"] {
+  zoom: 100%;
+}
+[alt*="@150"] {
+  zoom: 150%;
+}
+[alt*="@200"] {
+  zoom: 200%;
+}
