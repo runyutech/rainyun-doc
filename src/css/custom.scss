@@ -5,14 +5,29 @@
  */
 
 /* You can override the default Infima variables here. */
+// $purple: #7367f0 !default; //$primary
+// $green: #28c76f !default; //$success
+// $blue: #00cfe8 !default; //$info
+// $orange: #ff9f43 !default; //$warning
+// $red: #ea5455 !default; //$danger
+
+// $rainmain: #37b5c1 !default; 
+
+// $primary: $rainmain !default;
+// $secondary: #82868b !default;
+// $info: $blue !default;
+// $warning: $orange !default;
+// $light: $gray-50 !default;
+// $dark: #4b4b4b !default;
+
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #37b5c1;
+  --ifm-color-primary-dark: #35a6b1;
+  --ifm-color-primary-darker: #2c8a92;
+  --ifm-color-primary-darkest: #226b72;
+  --ifm-color-primary-light: #3dc5d1;
+  --ifm-color-primary-lighter: #3fc8d4;
+  --ifm-color-primary-lightest: #45dbe9;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }

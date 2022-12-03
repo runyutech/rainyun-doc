@@ -16,9 +16,9 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className="button button--warning button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            <span style={{color: 'black'}}>⏱ 10分钟带你上云</span> 
           </Link>
         </div>
       </div>
@@ -30,8 +30,10 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`${siteConfig.title}`}
+      description="雨云文档,解决您80%的服务器问题"
+      keywords="虚拟主机,服务器,云服务器,我的世界服务器,建站技术,我的世界技术,MC服技术"
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
