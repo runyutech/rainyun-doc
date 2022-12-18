@@ -35,11 +35,17 @@ sidebar_position: 2
 
 ### HTTPS网站支持
 
-要开启HTTPS支持，请在域名管理处勾选开启HTTPS支持
+要开启HTTPS，请在域名管理处勾选开启HTTPS支持，**并且要确保在EP/宝塔面板内也同样开启HTTPS并绑定SSL证书，否则无法正常使用HTTPS，并在访问时提示502等。**
+
+您还需要选择证书，**SSL证书需要您提前上传到[SSL证书中心]**，证书中心是统一管理您的证书的地方，您可以在雨云的多个产品里一键选择需要的证书，非常方便。您可以在下拉框内选择您要绑定的证书。
+
+![image-20221218202935799@50](./assets/image-20221218202935799.png)
 
 #### 开启强制SSL跳转
 
-意即如果您绑定的是
+勾选强制SSL跳转会使访问您的网站的时候自动跳转到HTTPS，必须开启了HTTPS支持才可用。
+
+> 例如，别人访问的是 `http://fancy.com`，则会自动跳转到`https://fancy.com`
 
 
 
@@ -50,4 +56,6 @@ sidebar_position: 2
 > 例如：*.oldboy.cn
 
 
+
+[SSL证书中心]: https://app.rainyun.com/apps/ssl/list
 

@@ -1,5 +1,5 @@
 ---
-title: 选购
+title: 选购指南
 description: 看看如何根据自己的需求选购最合适的主机
 sidebar_position: 2
 
