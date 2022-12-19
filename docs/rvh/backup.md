@@ -1,7 +1,7 @@
 ---
 title: 备份与恢复
 description: 使用定时备份来提高主机安全性
-sidebar_position: 2
+sidebar_position: 3
 
 ---
 
