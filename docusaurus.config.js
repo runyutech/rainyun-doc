@@ -147,7 +147,10 @@ const config = {
             ],
           },
         ],
-        copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2022 All Rights Reserved.`,
+        copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2022 All Rights Reserved.<br> 
+        <a style="color:gray;" href="https://beian.miit.gov.cn/">
+          <img style="height:14px" src="/batb.png"/> 粤ICP备19052839号
+        </a>`,
       },
       prism: {
         theme: lightCodeTheme,
