@@ -1,41 +1,20 @@
-# Website
+# 雨云文档
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+这里是雨云文档的存储库，欢迎修改然后发起PR，感谢贡献！
 
-### Installation
+### 安装
 
 ```
 $ yarn
 ```
 
-### Local Development
+### 本地开发
 
 ```
 $ yarn start
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+这个命令会启动本地开发服务器，然后自动调起浏览器窗口，修改文档后可以自动在页面呈现，而不需要重启服务器。
 
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+雨云
+https://www.rainyun.com
