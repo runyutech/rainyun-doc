@@ -10,7 +10,7 @@ const config = {
   tagline: '解决您80%的服务器问题',
   url: 'https://www.rainyun.com',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
