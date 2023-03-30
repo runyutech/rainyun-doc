@@ -117,20 +117,20 @@ const config = {
             items: [
               {
                 label: '虚拟主机',
-                href: '/rvh',
+                href: '/docs/rcs',
               },
               {
                 label: '云服务器',
-                href: '/rcs',
+                href: '/docs/rvh',
               },
               {
                 label: '游戏云（MC服）',
-                href: '/rgs',
+                href: '/docs/rgs',
               },
-              {
-                label: '高防CDN',
-                href: '/cdn',
-              },
+              // {
+              //   label: '高防CDN',
+              //   href: '/cdn',
+              // },
             ],
           },
           {
