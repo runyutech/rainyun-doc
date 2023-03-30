@@ -28,13 +28,13 @@ sidebar_position: 2
 
 :::tip
 
-如果没有附加公网IP，则需要在[端口映射](./)处添加一个到内网22端口的，TCP协议的映射，即可通过外网地址+外网端口来访问
+如果没有附加公网IP，则需要在[端口映射]处添加一个到内网22端口的，TCP协议的映射，即可通过外网地址+外网端口来访问
 
 :::
 
 #### Linux SSH
 
-推荐使用[Tabby](./)这个软件，支持SSH连接，还集成了SFTP的功能，可以快速进行文件管理。
+推荐使用[Tabby]这个软件，支持SSH连接，还集成了SFTP的功能，可以快速进行文件管理。
 
 #### Windows RDP
 
@@ -48,5 +48,5 @@ sidebar_position: 2
 
 
 [Tabby]: https://github.com/Eugeny/tabby
-[端口映射]: rcs/nat.md
+[端口映射]: nat
 

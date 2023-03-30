@@ -8,9 +8,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '雨云百科',
   tagline: '解决您80%的服务器问题',
-  url: 'https://www.rainyun.com',
+  url: 'https://doc.rainyun.cc',
   baseUrl: '/',
-  onBrokenLinks: 'ignore',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
@@ -147,7 +147,7 @@ const config = {
             ],
           },
         ],
-        copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2022 All Rights Reserved.<br> 
+        copyright: `本站服务由美国云计算公司America Owlsee LLC.运营，本域名由润雨科技有限公司所有，仅作信息提供用途<br> 
         <a style="color:gray;" href="https://beian.miit.gov.cn/">
           <img style="height:14px" src="/batb.png"/> 粤ICP备19052839号
         </a>`,
