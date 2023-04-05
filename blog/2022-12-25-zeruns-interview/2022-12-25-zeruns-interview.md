@@ -1,5 +1,5 @@
 ---
-slug: news
+slug: zeruns-interview
 title: 期待已久！宿迁、美国两区域增加高防独立IP啦！
 authors: linyu
 tags: [高防IP, 独立IP]

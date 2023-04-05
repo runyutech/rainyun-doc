@@ -1,5 +1,5 @@
 ---
-slug: news
+slug: new-ddosip
 title: 宿迁、美国两区域增加高防独立IP啦！
 authors: linyu
 tags: [独立IP, 高防]

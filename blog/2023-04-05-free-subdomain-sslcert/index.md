@@ -1,5 +1,5 @@
 ---
-slug: news
+slug: new-free-sslcert
 title: 免费SSL证书重新登录雨云
 authors: linyu
 tags: [二级域名]
