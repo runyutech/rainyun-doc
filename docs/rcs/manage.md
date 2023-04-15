@@ -34,11 +34,15 @@ sidebar_position: 2
 
 #### Linux SSH
 
+如果选择的是Linux系统，您可以通过SSH连接到服务器，用户名通常是root。
+
 推荐使用[Tabby]这个软件，支持SSH连接，还集成了SFTP的功能，可以快速进行文件管理。
 
 #### Windows RDP
+如果选择的是Windows系统，则一般使用微软的远程桌面连接功能（RDP）连接到服务器，就像操作自己的电脑一样，很方便。
 
 一般的Windows10、Windows11的系统已经预装了RDP功能，点击屏幕左下角或中下方的Win图标，又或者按下Win键，输入远程，就会看到远程桌面连接，输入您服务器的公网地址即可进行远程连接。
+用户名通常是Administrator
 
 
 
