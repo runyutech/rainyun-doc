@@ -147,10 +147,11 @@ const config = {
             ],
           },
         ],
-        copyright: `本站服务由美国云计算公司America Owlsee LLC.运营，本域名由润雨科技有限公司所有，仅作信息提供用途<br> 
+        copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2023 润雨云® All Rights Reserved.<br> 
         <a style="color:gray;" href="https://beian.miit.gov.cn/">
           <img style="height:14px" src="/batb.png"/> 粤ICP备19052839号
-        </a>`,
+        </a>
+        <a style="color:gray;" href="https://tsm.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=B1-20231485&type=xuke">《中华人民共和国增值电信业务经营许可证》 B1-20231485</a>`,
       },
       prism: {
         theme: lightCodeTheme,
