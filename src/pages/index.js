@@ -17,7 +17,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--warning button--lg"
-            to="/docs/intro">
+            to="/intro">
             <span style={{color: 'black'}}>⏱ 10分钟带你上云</span> 
           </Link>
         </div>
