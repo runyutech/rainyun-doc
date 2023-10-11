@@ -10,6 +10,8 @@ sidebar_position: 2
 
 [发起工单]是获得雨云支持的最佳手段，雨云的专业客服会在短时间内帮助您解决问题，我们承诺工单的回复率是100%。
 
+
+
 ### 发起工单
 
 #### 标题
@@ -46,7 +48,8 @@ sidebar_position: 2
 
 如果您认为没有解决您的问题，您可以在工单详情页点击重新打开工单，雨云客服将收到您的请求，重新查看回复。
 
-
+如果您还不清楚如何发工单，可以看一下这个视频
+【雨云新手指南：如何提交工单和咨询客服】 https://www.bilibili.com/video/BV1vm4y1V7RM/?share_source=copy_web&vd_source=6b69534ad23c9b396493640950e80f83
 
 [发起工单]: https://app.rainyun.com/support/workorder/create
 [工单列表]: https://app.rainyun.com/support/workorder/list
