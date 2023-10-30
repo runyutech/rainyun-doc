@@ -1,7 +1,7 @@
 ---
 title: 雨云SSL证书
 description: 免费申请SSL证书
-sidebar_position: 6
+sidebar_position: 2
 ---
 
 # SSL证书

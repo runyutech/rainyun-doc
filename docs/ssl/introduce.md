@@ -1,7 +1,7 @@
 ---
 title: SSL证书
 description: 快速了解SSL证书知识
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # SSL证书
