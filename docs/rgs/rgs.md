@@ -17,7 +17,8 @@ sidebar_position: 1
 **对比普通云服务器，游戏云具有更高的性能优势**
 
 - 采用专用高主频CPU
-  - IntelI9 13900K 6.1Ghz
+  - IntelI9 14900KF 6.3Ghz
+  - IntelI9 13900KF 6.1Ghz
   - Ryzen 7950X 5.7Ghz
   - Ryzen 5900X 4.8Ghz
   - Gold 6146 4.2Ghz

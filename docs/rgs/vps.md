@@ -22,7 +22,7 @@ VPS主机相对于独立主机来说，两者功能大体一致，但是VPS的�
 
 1. 多种操作系统自由选择（Windows、Ubuntu、Centos和Debian）。
 2. 配置弹性升级，十分便利（CPU、内存、宽带、容量）。
-3. 多种CPU满足我们的需求,从低配->高配（E5 2666V3 - Gold 6146 - Ryzen 5900X - Ryzen 7950X - Intel9 13900KF）。
+3. 多种CPU满足我们的需求,从低配->高配（E5 2666V3 - Gold 6146 - Ryzen 5900X - Ryzen 7950X - Intel9 13900KF - Intel9 14900KF）。
 4. 独有动态计费方式，闲时帮我们省钱，忙时火力全开！
 
 
