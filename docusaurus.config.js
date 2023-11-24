@@ -84,7 +84,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'http://wpa.qq.com/msgrd?v=3&uin=527125516&site=qq&menu=yes',
+            href: 'https://www.rainyun.com/?show_support=1',
             label: '🎧 咨询',
             position: 'right',
           },
