@@ -2,6 +2,7 @@
 title: 概述
 description: 热情的欢迎
 sidebar_position: 1
+slug: /
 ---
 
 # 概述

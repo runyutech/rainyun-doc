@@ -70,12 +70,6 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: '📖 Wiki文档',
-          },
           {to: '/blog', label: '🧬 技术博客', position: 'left'},
           {
             href: 'https://www.rainyun.com',
@@ -156,7 +150,7 @@ const config = {
         ],
         copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2023 润雨云® All Rights Reserved.<br> 
         <a style="color:gray;" href="https://beian.miit.gov.cn/">
-          <img style="height:14px" src="/batb.png"/> 粤ICP备19052839号
+          <img style="height:14px" src="img/batb.png"/> 粤ICP备19052839号
         </a>
         <a style="color:gray;" href="https://tsm.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=B1-20231485&type=xuke">《中华人民共和国增值电信业务经营许可证》 B1-20231485</a>`,
       },
