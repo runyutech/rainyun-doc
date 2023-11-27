@@ -221,4 +221,12 @@ sudo -v ; curl https://rclone.org/install.sh | sudo bash
 安装好后输入`rclone config`，按上方Windows步骤一样配置。
 
 
+## 在雨云服务器上使用Docker搭建NextCloud并接入雨云对象存储
+
+请阅读我们的[博客](/blog/rainyun-NextCloud)
+
+## 使用雨云ROS搭建Chevereto图床
+
+请阅读我们的[博客](/blog/rainyun-ros-chevereto)
+
 
