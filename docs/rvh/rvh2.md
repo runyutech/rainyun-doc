@@ -1,3 +1,8 @@
+---
+title: 主机介绍
+description: 虚拟主机介绍
+sidebar_position: 2
+---
 # 虚拟主机介绍
 
 虚拟主机是用于快速搭建网站服务的轻量级主机

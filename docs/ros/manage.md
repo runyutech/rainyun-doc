@@ -6,7 +6,8 @@ sidebar_position: 4
 # 管理实例
 
 购买实例后，我们可以前往[对象存储](https://www.rainyun.com/apps/ros/list)页面，找到左侧已购买的实例管理，点击管理进入管理页面。
-![图片](./assets/img3.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/40209677a271358dcd1c18f7a7d99bd7.png)
 
 ## 信息监控
 
@@ -16,7 +17,7 @@ sidebar_position: 4
 * [凭证信息](#凭证信息)
 * [使用情况](#使用情况)
 
-![图片](./assets/img4.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/24d9a2a87e55bdc1e71d5ea6fc44bebd.png)
 
 ### 基本信息
 
@@ -68,7 +69,8 @@ sidebar_position: 4
 
 ### 基本信息
 桶管理页面，可以查询到桶的基本信息。
-![图片](./assets/img5.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154358_17f06b2efec30e86c3ea18d4268e34e8)
 
 | 名称   | 说明                       | 例子       |
 |------|--------------------------|----------|
@@ -85,7 +87,8 @@ sidebar_position: 4
 
 ### 存储桶详情
 在桶详情页面可以查看存储桶的详细信息，以及进行管理操作。
-![图片](./assets/img6.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154457_c104aa9ccfd05066ee20c547a6d69208)
 
 #### 基本信息
 | 名称   | 说明        | 例子                  |
@@ -125,24 +128,24 @@ sidebar_position: 4
 
 #### 生成预签名URL
 在这里可以生成文件的预签名URL，可以通过链接直接访问文件，不需要密钥。
-生成时间最长10小时，可以通过设置有效期来控制链接的有效期。
+生成时间最长**24小时**，可以通过设置有效期来控制链接的有效期。
 
-![图片](./assets/img7.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154532_d5ff2a57ed8e5cfda6f199e9d495c46a)
+
 
 ### 域名管理
 在这里可以管理当前桶的域名，可以自定义访问域名并通过域名访问当前桶内的文件。
 
-![图片](./assets/img20.png)
-
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154825_09e883bbd9833417ac23b7fd42fb09e0)
 ### 访问控制
 在这里可以设置CC防火墙，开启防盗链，IP白名单等功能。
 
-![图片](./assets/img21.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154780_47d30b375f4c5a31151ed523334de7af)
 
 ### SSL支持
 在这里可以开启SSL支持，开启后可以通过https访问存储桶内的文件。
 
-![图片](./assets/img22.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701154701_08d53bb4e654f28912ce62b65dce3119)
 
 :::tip
 开启SSL前需要对您的域名进行所有权验证。<br/>

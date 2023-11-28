@@ -23,11 +23,11 @@ sidebar_position: 98
 
 1. 打开[RaiDrive](https://www.raidrive.com/)官网，下载并安装客户端(如果需要按照环境按提示安装即可)。
 
-   ![图片](./assets/img11.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155195_fd683a25d83c160f0b7c13cd3d0468bc)
 
    2.安装成功后打开软件，显示该界面即为安装成功。
 
-   ![图片](./assets/img10.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155216_ed886164d9caf3726370c6e024f87214)
 
 ### 配置RaiDrive
 
@@ -38,15 +38,14 @@ sidebar_position: 98
 5. 桶需要输入在雨云设置的存储桶名字
 6. 点击连接即可完成配置。
 
-   ![图片](./assets/img12.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155248_e638ef1e2a7b5ac34f7f0c64b3f8f94e)
 
 :::tip
 密钥信息可以在信息与监控找到，详细可以看[凭证信息](/docs/ros/manage#信息监控)
 :::
 
 如果链接成功，资源管理器，并且可以看到存储桶里面的文件。
-![图片](./assets/img13.png)
-
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155267_f872cc43739e662d3f17f410a21ce4bb)
 :::tip
 RaiDrive免费版挂载S3只有只读权限，需要付费才可以读写
 :::
@@ -73,16 +72,16 @@ RaiDrive免费版挂载S3只有只读权限，需要付费才可以读写
 
 1. 打开[Rclone](https://rclone.org/downloads/)官网，下载适合自己系统的版本(Windows 64位下载红框版本)。
 
-   ![图片](./assets/img14.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155296_88aee4a3877240b03d12d77ef2987733)
 
 2. 下载完成后我们得到一个压缩包，直接解压即可
 3. 解压后进入文件夹，右键空白处，选择在此处打开命令窗口。
 
-   ![图片](./assets/img15.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155314_ec9018cc0730475a0a459c16cb55e401)
 
 4. 在命令窗口输入`rclone`，然后回车，如果看到以下提示即可运行。
 
-   ![图片](./assets/img16.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155334_33dd461426f01be24fb134ff7ef6d6b4)
 
 5. 前往雨云对象存储，点击信息与监控，找到`API端点`，`AccessKey`，`SecretKey`，备用。
 
@@ -110,7 +109,8 @@ RaiDrive免费版挂载S3只有只读权限，需要付费才可以读写
 
 输入`n`，新建一个，并将该新 remote 命名，假设我们命名为`雨云`。
 之后会出现：
-![图片](./assets/img17.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155355_b09efe92625f6c06e1663837acebb4bd)
 
 这里需要选择**Amazon S3 Compliant**，不同版本 Rclone 的数字可能不同，我这里的 **Amazon S3 Compliant** 对应的是 5，所以输入 5。
 
@@ -185,7 +185,7 @@ RaiDrive免费版挂载S3只有只读权限，需要付费才可以读写
 
 之后会出现我们的配置信息：
 
-![图片](./assets/img18.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155377_7d106ff5911023a4e7a1f7993f640cbf)
 
 确认信息无误后，输入`y`，然后输入`q`退出，至此我们完成Rclone配置。
 
@@ -199,7 +199,8 @@ RaiDrive免费版挂载S3只有只读权限，需要付费才可以读写
 :::
 成功后在资源管理器中可以看到挂载的盘符，可以像本地硬盘一样使用。
 
-![图片](./assets/img19.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155390_88c64def6601f9cbce68e3c215c93277)
+
 
 双击进入即可看到桶内的文件。
 这时我们可以新建一个文件并保存，然后在雨云对象存储中查看，可以看到我们新建的文件已经同步到云端了。

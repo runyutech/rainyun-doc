@@ -39,7 +39,7 @@ sidebar_position: 3
 3. 点击右下角上传按钮，选择需要上传的文件，点击上传
 4. 点击上传后弹出上传窗口，可以查看上传进度
 
-![图片](./assets/img1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/e6edb2bae8342cc9a6bb7c8506345ad7.png)
 
 :::tip
 * 暂不能直接上传文件夹，可以点击上传旁边按钮创建文件夹后在批量上传文件
@@ -47,7 +47,8 @@ sidebar_position: 3
 :::
 
 5. 上传完成后，可以在文件列表中看到上传的文件,以及文件信息
-![图片](./assets/img2.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/d6d73616240fefed89eb2653bbaebd10.png)
 
 
 [对象存储]: https://www.rainyun.com/apps/ros/list
