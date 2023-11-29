@@ -24,11 +24,11 @@ sidebar_position: 2
 
 然后，在域名列表输入我们的域名 比如 ab.tingyu.icu
 
-![ssl@50](ssl.png)
+![ssl@50](assets/ssl.png)
 
 然后进入我们的域名DNS界面，下面以阿里云的为例
 
-![dns@50](dns.png)
+![dns@50](assets/dns.png)
 
 :::tip
 1、记录类型 选择 TXT

@@ -1,0 +1,8 @@
+{
+  "label": "对象存储",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "S3 兼容的对象存储服务储。"
+  }
+}

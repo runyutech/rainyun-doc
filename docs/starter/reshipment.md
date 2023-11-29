@@ -14,20 +14,20 @@ sidebar_position: 2
 
 1. 进入您的服务器后台界面
 
-![Server@50](server.png)
+![Server@50](../account/assets/server.png)
 
 2. 重装系统之前需要确保您的服务器处于关机状态（在此之前请确保您的重要数据已经完成备份）
 
-![shutdown@50](shutdown.png)
-![stop@50](stop.png)
+![shutdown@50](../account/assets/shutdown.png)
+![stop@50](../account/assets/stop.png)
 
 3. 进入重装系统界面选择需要更换的系统
 
-![system@50](system.png)
+![system@50](../account/assets/system.png)
  
    #### 选择自己需要的系统，执行操作
 
-![change@50](change.png)
+![change@50](../account/assets/change.png)
 
 4. 回到信息与监控界面，运行状态会变成“创建中”耐心等待几分钟，当运行状态变成“运行中”时，您的新系统就已经安装成功了
 

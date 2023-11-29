@@ -19,15 +19,15 @@ sidebar_position: 3
   
 1. 进入服务器之后，打开服务器管理器界面
    
-   ![pserver@50](pserver.png)
+   ![pserver@50](../account/assets/pserver.png)
   
 2. 在右上角选择“工具”->"计算机管理"
    
-   ![pserver1@50](pserver1.png)
+   ![pserver1@50](../account/assets/pserver1.png)
    
 3. 选择 “本地用户和组” -> 双击 “用户” 进入 -> 选择 “Administrator” 并右键 选择 “设置密码” 
    
-   ![pserver2@50](pserver2.png)
+   ![pserver2@50](../account/assets/pserver2.png)
 
 4. 设置成功之后，记得重启服务器和记住我们设置的密码
 
@@ -39,7 +39,7 @@ sidebar_position: 3
 
 3. 根据提示，输入我们要更改的密码
    
-   ![Alt text](centospassword.png)
+   ![Alt text](../account/assets/centospassword.png)
    
 :::tip
  “New password” 输入我们要修改的新密码，然后 Enter 回车。 注意，输入的密码是不会显示出来的
