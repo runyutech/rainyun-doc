@@ -4,42 +4,42 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '快速上手',
+    img: "img/img2.png",
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          精心自研系统，抛开复杂模板
+          一键式操作，为您带来更易用的体验（雨云CMS v3.8.0）
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
+    title: '长期稳定',
+      img: "img/img_1.png",
+      description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          五年运营经验，超过30,000个网站在雨云运行
+          我们一直在为客户提供稳定长久的服务
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '知识社区',
+      img: "img/img_2.png",
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          我们提供各种疑难教程，欢迎加入雨云（9000人社区）
+          共同交流，完善雨云百科知识库。
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img} alt=""/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
