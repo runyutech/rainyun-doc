@@ -82,10 +82,6 @@ sudo apt-get upgrade
 ```
 
 
-[itdog]: https://www.itdog.cn/tcping
-[Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
-
-
 
 ### 无法连接我的mc服务器
 
@@ -100,3 +96,8 @@ sudo apt-get upgrade
 
 ### 服务器节点连接慢，能否更换节点
 服务器节点是随机分配的，无法手动选择。
+
+
+
+[itdog]: https://www.itdog.cn/tcping
+[Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
