@@ -1,7 +1,7 @@
 ---
 title: 网络速度 & 存储差异
 description: Mbps和MB的区别
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # 网络速度 & 存储差异
@@ -14,7 +14,7 @@ sidebar_position: 1
 是一种用于衡量存储容量或数据大小的单位。1 MB等于1兆字节，而1兆字节又等于8,000,000位。相比之下，1Mbps等于1兆比特，即相当于8,000,000位。这就意味着Mbps和MB之间存在一个8倍的差距。
 
 ### 举例
-![Alt text@50](KVM1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701417119_59642a2438f1d43241687bedb7b7b9d5)
 
 假设我们的服务器有一个30Mbps的带宽，我们想要计算每秒可以传输多少兆字节的数据。根据换算关系，我们知道1兆字节等于8兆比特。所以，我们可以通过以下计算来得到结果：
 :::tip
