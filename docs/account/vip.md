@@ -1,7 +1,7 @@
 ---
 title: 雨云会员
 description: 介绍雨云会员
-sidebar_position: 1
+sidebar_position: 5
 
 ---
 
@@ -27,7 +27,9 @@ sidebar_position: 1
 
 升级是自动的，当您满足条件升级的时候，您会收到来自雨云发出的邮件和微信通知，告知您升级到什么会员。
 
-
+:::tip
+3级以上会员需要实名认证后才可升级。
+:::
 
 ### 会员降级
 

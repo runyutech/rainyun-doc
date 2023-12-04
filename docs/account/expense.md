@@ -48,7 +48,7 @@ sidebar_position: 1
 | 金额   | 退款金额     |
 
 
-## 充值记录
+## [充值记录](https://app.rainyun.com/logs/pay)
 在这里，您可以查看到您的充值记录，里面包含了所有在雨云上的充值记录。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701425562_0b31300bb7b177747ed08773e8365d24)

@@ -1,7 +1,7 @@
 ---
 title: 找回密码
 description: 如果您忘记雨云密码，可以进行找回
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 找回密码
@@ -13,6 +13,8 @@ sidebar_position: 2
 需要找回密码的账号需要绑定手机号码或者邮箱才能找回，否则雨云是不知道如何验证账号所有权的。
 
 :::
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701680923_d6aac9e8ecc5b49ab1da9a93eeb8456e)
 
 ### 操作步骤
 
