@@ -1,7 +1,7 @@
 ---
 title: 个人信息
 description: 为雨云账号绑定邮箱、手机、微信、QQ、支付宝等
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 个人信息

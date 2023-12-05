@@ -1,7 +1,7 @@
 ---
 title: 独立IP地址
 description: 为宝塔主机附加独立IP地址，避免攻击波及
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 

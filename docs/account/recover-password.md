@@ -1,7 +1,7 @@
 ---
 title: 找回密码
 description: 如果您忘记雨云密码，可以进行找回
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # 找回密码

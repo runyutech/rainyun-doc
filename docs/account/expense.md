@@ -1,7 +1,7 @@
 ---
 title: 费用中心
 description: 跟钱有关系的都在这里
-sidebar_position: 1
+sidebar_position: 4
 ---
 如果您需要充值余额到雨云账户上，或者查看您的消费记录，都可以在这里找到。
 

@@ -1,7 +1,7 @@
 ---
 title: 套餐升级
 description: 升级配置来应对弹性需求
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 
