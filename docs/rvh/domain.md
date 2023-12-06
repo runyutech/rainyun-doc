@@ -1,7 +1,7 @@
 ---
 title: 域名管理
 description: 需要为虚拟主机绑定域名才可使用
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 

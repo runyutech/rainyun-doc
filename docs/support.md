@@ -222,8 +222,16 @@ NAT服务器：使用对外地址进行测试。
 ### 免费机器什么时候补货
 每晚八点。
 
+### 想把原来机器的时长转移到新机器上
+雨云支持这样的操作，可访问[迁移页面](https://app.rainyun.com/expense/other)后按以下步骤操作。
 
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701851501_ae4e6c9544b126072901b6e0c0abb1ce)
 
+:::caution
+* 折算迁移产品剩余时长到目标产品，会根据各产品的续费价进行等价折算，如10元每月的产品剩余一个月折算到20元每月的产品，则意味着给目标产品+15天。<br/>
+* 操作成功后，旧产品默认会保留3天供迁移数据用，之后将自动回收。（旧产品的数据不会直接传到新产品上）。<br/>
+* 用户每月只能进行2次产品折算迁移操作。<br/>
+:::
 
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
