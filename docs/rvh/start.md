@@ -17,3 +17,7 @@ sidebar_position: 3
 3. 购买成功后，即可在管理页面找到服务器信息。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701830370_3a19ff9c46bdce5e02f17a55cacacaf2)
+
+等待主机状态变为**运行中**即可点击前往管理面板，复制账号密码，点击确认即可前往面板。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701929890_51e183e775f048862e436e0607dff82f)
