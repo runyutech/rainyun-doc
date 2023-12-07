@@ -37,4 +37,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: ${{ github.event_name != 'pull_request' }}
-          tags: ${{ secrets.REGISTRY_URL }}/vue-rainyun/doc:${{ github.sha }}
+          tags: ${{ secrets.REGISTRY_URL }}/vue-rainyun/doc/doc:${{ github.sha }}
