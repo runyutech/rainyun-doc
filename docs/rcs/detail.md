@@ -1,7 +1,7 @@
 ---
 title: 信息与监控
 description: 信息与监控
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 在管理主页面，可以获取到服务器的基本信息，服务器IP地址，性能监控等。
@@ -36,7 +36,7 @@ sidebar_position: 1
 
 这里提供服务器的基本信息，包括服务器的IP地址，服务器的CPU、内存、硬盘信息等。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701937114_befe187f56277471c822191918972c57)                       |
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701937114_befe187f56277471c822191918972c57)                       
 
 
 ### IP、域名设置
