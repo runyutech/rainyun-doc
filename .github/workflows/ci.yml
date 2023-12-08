@@ -38,3 +38,23 @@ jobs:
           platforms: linux/amd64
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ secrets.REGISTRY_URL }}/vue-rainyun/doc/doc:${{ github.sha }}
+
+      - name: Sleep for 10 seconds
+        run: sleep 10s
+        shell: bash
+        
+      - name: Run scraper
+        env:
+          APPLICATION_ID: ${{ secrets.APPLICATION_ID }}
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          CONFIG="$(cat docsearch-config.json)"
+          docker run -i --rm \
+                  -e APPLICATION_ID=$APPLICATION_ID \
+                  -e API_KEY=$API_KEY \
+                  -e CONFIG="${CONFIG}" \
+                  algolia/docsearch-scraper
+
+
+      
+
