@@ -39,8 +39,8 @@ jobs:
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ secrets.REGISTRY_URL }}/vue-rainyun/doc/doc:${{ github.sha }}
 
-      - name: Sleep for 10 seconds
-        run: sleep 10s
+      - name: Sleep for 60 seconds
+        run: sleep 60s
         shell: bash
         
       - name: Run scraper
