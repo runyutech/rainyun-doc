@@ -1,7 +1,7 @@
 ---
 title: NAT端口映射
 description: 学习如何使用端口映射，来让外网访问您共享IP的云服务器上面的服务
-sidebar_position: 2
+sidebar_position: 4
 
 ---
 
