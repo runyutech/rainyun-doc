@@ -22,17 +22,17 @@ tags: [高防IP, 独立IP]
 
 用户可以在购买时选择**附加200G DDoS防御**的选项，前提是选择了独立公网IP的模式。
 
-![image-20221227141555063@50](./assets/image-20221227141555063.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103134_9c63edb666c4f867a6577bacc64d5442.png)
 
 附加了独立IP后，在控制面板可以看到如下提示，代表已经成功是高防IP了。
 
-![image-20221227142225645@50](./assets/image-20221227142225645.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103134_e2dd49bc7ba00325b56cbc8b930b2ce1.png)
 
 #### 宿迁1区
 
 宿迁的IP地址均为带DDoS防御的IP地址，以前都没货，现在有货啦！只需要在购买的时候选择独享公网IP模式即可~
 
-![image-20221227153610069](./assets/image-20221227153610069.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103135_8dfd4e299bf6e196850d7c733b4fd67c.png)
 
 
 
@@ -42,7 +42,7 @@ tags: [高防IP, 独立IP]
 
 在管理面板开启附加200G DDoS防御选项即可将现在的IP地址替换为带防御的IP，只需要补差价即可。
 
-![image-20221227142334767@50](./assets/image-20221227142334767.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103135_5251d3b04a01b3146f523ca07937dd34.png)
 
 
 
@@ -50,5 +50,5 @@ tags: [高防IP, 独立IP]
 
 宿迁已购用户可以在服务器管理面板处开启附加独立公网IP的按钮即可，也是只需补差价即可！
 
-![image-20221227153856655@50](./assets/image-20221227153856655.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103136_8fa85d79851da33c0dd0e49c10df0296.png)
 

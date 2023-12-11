@@ -5,7 +5,7 @@ sidebar_position: 3
 ---
 
 # VPS介绍
-![vps@50](assets/vps.jpg)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102742_9bb97f529b65ccd7ddabaee3d26fcce1.jpg)
 
 虚拟专用服务器(VPS)，是将一台服务器分割成多个虚拟专享服务器的优质服务。每个VPS都可选配独立公网IP地址、独立操作系统、实现不同VPS间磁盘空间、内存、CPU资源、进程和系统配置的隔离，为用户和应用程序模拟出“独占”使用计算资源的体验。VPS可以像独立服务器一样，重装操作系统，安装程序，单独重启服务器。
 

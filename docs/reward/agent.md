@@ -19,7 +19,7 @@ sidebar_position: 3
 
 在面板上可以查看您的会员等级、也可以看到一些推广数据的概览。
 
-包括本月的总收益、历史的总收益、今日的销售额（即客户的消费金额）、本月的销售额、 ![image-20221130114426656](./assets/image-20221130114426656.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102705_dd3e1aaff64afab0cac33e149d696eb1.png)
 
 
 
@@ -38,7 +38,7 @@ sidebar_position: 3
 
 通过是通过您的推广链接来到雨云，但是没有显示如下的字样，请给优惠码给您的客户填写。
 
-![](./assets/image-20221130204407755.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102705_a7cab8b52f5b48f17e4dbc491968575d.png)
 
 :::
 
@@ -48,7 +48,7 @@ sidebar_position: 3
 
 推广信息处已经为您编写好了一些推广用的文案，您可以直接复制粘贴这些文案到**Q群、贴吧、论坛、B站、知乎**等各种渠道
 
-![image-20221130201533741](./assets/image-20221130201533741.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102706_1bc09310782fc03932bfa50a007d3b71.png)
 
 
 
@@ -60,7 +60,7 @@ sidebar_position: 3
 
 您可以在推广中心生成新的优惠券，上传到积分商城，或者直接生成专属的优惠券直接发放到客户的账号内。
 
-![image-20221206131722783@50](./assets/image-20221206131722783.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102706_d6c8b493baf36d558096be446630a678.png)
 
 #### 上架到商城
 
@@ -100,7 +100,7 @@ sidebar_position: 3
 
 您获得了积分，要如何使用或者变现呢？请查看[积分机制](points.md)。
 
-![image-20221206150511908@50](./assets/image-20221206150511908.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102706_1245390835d364d2f9d823cb2887f22f.png)
 
 
 

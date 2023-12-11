@@ -51,7 +51,7 @@ EP面板十分轻量，操作简单
 
 ### 宝塔主机
 
-![image-20221206192126417@50](./assets/image-20221206192126417.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102913_760f03d70dc2016bf030be683a696bc1.png)
 
 即采用宝塔面板的主机。宝塔面板是国内非常流行的服务器运维面板，可以用非常简单的鼠标操作对服务器进行一键管理。对比EP主机，为独享的环境，即完全掌握主机的权限，数据库亦可以自己安装。支持多种语言编写的web网站，主要支持PHP+Mysql如Golang，Java，Python等。
 
@@ -70,7 +70,7 @@ EP面板十分轻量，操作简单
 
 ### EP主机
 
-![image-20221206192106767@50](./assets/image-20221206192106767.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102913_cb47fc51b8014763669fa2b1333dc48e.png)
 
 全称为EasyPanel主机，EasyPanel是由国内Kangle公司开发的一套虚拟主机管理面板，其web服务器为自家开发的kangle，其性能优秀，bilibili曾经采用kangle作为B站的web服务器。EP主机支持使用PHP+Mysql建站的情况，不支持其他如Java开发的网站。
 

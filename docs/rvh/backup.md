@@ -14,7 +14,7 @@ sidebar_position: 5
 
 同时还有自动备份的功能，到点的时候系统会自动执行备份。
 
-![image-20221219121109837@50](./assets/image-20221219121109837.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102817_086e278946db084081ebe4bbdf622980.png)
 
 ### 创建备份
 
@@ -24,7 +24,7 @@ sidebar_position: 5
 
 创建过程按您的数据量而不同，EP主机的备份比较慢，会进行比较长的时间，需要耐心等待，您可以在备份列表查看备份的状态。宝塔主机因为使用了快照技术，所以备份的速度很快。
 
-![image-20221219121319141@50](./assets/image-20221219121319141.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102817_ac3f8a6be2013baced0da0f96dae971f.png)
 
 ### 删除备份
 
