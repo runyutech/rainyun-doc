@@ -24,11 +24,11 @@ sidebar_position: 4
 
 ## 重要概念
 在使用之前，我们首先捋清楚一些重要概念，理解了之后，才知道如何创建规则。
-![img_1.png](assets/img_1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112935_49cc2e9f6ab373ff703c7dc06885c873.png)
 
 ## 使用方法
 在服务器管理面板（从服务器列表点进去）的右侧会有一个NAT端口管理，在这里可以快速预览目前服务器有哪些端口映射规则。
-![img.png](assets/img.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112936_b798abe6e1b1318ee36b0dcb3fb9e4d3.png)
 
 跟随指引，进入 **端口映射管理**
 
@@ -37,7 +37,7 @@ sidebar_position: 4
 :::
 
 ### 创建规则
-![img_2.png](assets/img_2.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112936_f14e6f1a355519ff566fab7bb1b557c4.png)
 1. 首先选择协议，请根据您的服务来选择，例如网页服务通常是TCP协议，但是如果不清楚，那选择TCP+UDP是最保险的。
 2. 然后填入内网端口，请参考 [重要概念](#重要概念) 处的说明，填写您本地服务所使用的端口。
 3. 接下来写外网端口，通常这有限制，您不能使用一些常用的端口，因为这会对其他用户不公平，例如80,443,25565等都是不行的，如果您要用这些端口，请购买附加独立IP使用。
@@ -45,7 +45,7 @@ sidebar_position: 4
 创建完毕后，您可以在端口映射列表处看到，通常需要1-2分钟来使映射生效。
 
 ### 宝塔案例
-![bt@50](assets/bt.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112937_6920626369b1f05844f5e3d6f93b5f6e.png)
 
 :::tip  
 下边是新客户常会碰到的一个问题
@@ -56,11 +56,11 @@ sidebar_position: 4
 
 1. 创建NAT端口映射，设置内网端口为 8889
 
-![btnat@50](assets/btnat.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112937_cbc3bc62b0fb410740f1e280d6304823.png)
 
 1. 创建完成之后，如何访问我们的宝塔面板？
 
-![btnat1@50](assets/btnat1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112937_e50d7bbc5dcf8602ae69bc66a16c1937.png)
 
 :::tip  
 访问方式：IP:外网端口/rainy 或 对外地址/rainy

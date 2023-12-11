@@ -37,7 +37,7 @@ tags: [产品介绍]
 
 工作方式非常简单，大家看下图：
 
-![img.png](img.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103203_b798abe6e1b1318ee36b0dcb3fb9e4d3.png)
 
 裸金属服务器都连接到了路由器，然后每台裸金属服务器都已经设置了第一启动项为网络启动，当从网络启动时，DHCP服务器会负责返回一个IP地址给裸金属服务器，而且告诉这个服务器，PXE服务器在哪里。
 
@@ -51,7 +51,7 @@ tags: [产品介绍]
 
 第一批雨云裸金属服务器在美国2区可用，大家可以在 [购买裸金属独立机] 处选购。
 
-![img_1.png](img_1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103203_49cc2e9f6ab373ff703c7dc06885c873.png)
 
 ### 特点
 + 全SSD存储，超过1GB/s读写速度，不限I/O。

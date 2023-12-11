@@ -32,22 +32,22 @@ SSL证书是一种加密技术，它可以保护你的网站和用户之间的�
 国外的话，也还有zerossl.com，又有诸多限制，推荐您使用雨云（https://www.rainyun.cc）来申请证书，方便快捷，雨云是新一代的云服务提供商。
 
 1. 先注册一个雨云账号（可以通过邀请链接注册：https://www.rainyun.cc/?ref=official ）这样会获得一张5元的优惠券，即使现在不用，以后也可以有优惠，比直接注册好。
-2. 前往SSL证书中心（https://app.rainyun.cc/apps/ssl/list） ![img.png](img.png) 验证方式推荐DNS，您也可以选择HTTP方式，区别是前者要去DNS解析处添加解析，或者要在您的网站创建一个指定的文件和内容，如果您已经有HTTP的网站，可以选择后者。
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103136_b798abe6e1b1318ee36b0dcb3fb9e4d3.png)
 3. 输入您的域名，如果要多个域名的话，可以用逗号分隔，如果您想给您网站所有的二级域名都加上证书保护，可以写：*.yourdomain.com，记得把yourdomain.com换成你自己的域名！😂
 4. 接下来需要验证您的域名所有权，确认您是域名的主人，您可以点击立即创建，按您选择的验证方式不同，请参考以下步骤：
    1. DNS验证：
       1. 弹出的提示框会给您相应的信息，根据提示操作（图片内的仅供示例，请按您自己的提示来做）。
-        ![img_1.png](img_1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103136_49cc2e9f6ab373ff703c7dc06885c873.png)
       2. 前往您的DNS解析商（您首先需要一个域名。。）添加一个解析，以下以阿里云为例，记得修改记录类型为TXT。
-      ![img_2.png](img_2.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103137_f14e6f1a355519ff566fab7bb1b557c4.png)
    2. HTTP验证：
       1. 提示框会提示您相应的文件名和文件内容（图片内的仅供示例，请按您自己的提示来做）。
-         ![img_4.png](img_4.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103137_9e9cd3f79cf1a7fb61c354a07ef8fe8b.png)
       2. 前往您的网站根目录，按提示创建对应的文件，并确保访问如图所示的链接可以访问到您的文件。
       3. 以雨云EasyPanel虚拟主机为例，创建对应的文件，文件内容为如图所示的文件内容。
-         ![img_5.png](img_5.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103137_3a9062813f80ff078fbd516894116d26.png)
 5. 当您完成操作，证书创建成功，将会自动上传到雨云的证书列表内，方便您在使用虚拟主机时一键选择，如果您想把证书用到其他地方，点击"查看&下载"键，就可以下载您的证书，上传到您自己的服务器。
-   ![img_3.png](img_3.png)![img_6.png](img_6.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211103138_26dfdefeb2cfa635551f2ff3c45cc95e.png)
 
 ### 结语
 至此，本教程结束啦，欢迎加入雨云的用户Q群：234786632，一起讨论技术问题啦！如果您有服务器的需求，也可以看看雨云的服务器，很不错的哦！

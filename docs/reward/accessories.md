@@ -10,7 +10,7 @@ sidebar_position: 2
 
 
 ## 润雨无声帆布袋
-![img.png](img.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102655_b798abe6e1b1318ee36b0dcb3fb9e4d3.png)
 
 
 
@@ -26,7 +26,7 @@ sidebar_position: 2
 尺寸：40cm x 35cm
 
 ## 雨云新版logo钥匙扣
-![img_1.png](img_1.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102655_49cc2e9f6ab373ff703c7dc06885c873.png)
 
 高清印刷的新版雨云的钥匙扣，做了圆滑边缘处理，不会割手，双面可见。带有钥匙圈，可以挂在钥匙、书包、笔盒、帆布袋等，美观大方。
 
