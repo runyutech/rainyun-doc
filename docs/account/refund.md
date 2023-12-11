@@ -23,7 +23,8 @@ sidebar_position: 8
 ### 如果您符合退订条件
 则产品的管理页面会出现如图的退订按钮：
 
-![图 1@50](./assets/1eca43d372820dcc8160b9847ff085588cab4e81bac4253f0d7fcdd3e3cc59b2.png)  
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231210192644_7124b3b8c971adb682c40b91a6d342ed.png)
+
 然后您可以根据弹出的提示对产品进行退订，款项将返还至您的雨云余额。
 
 
