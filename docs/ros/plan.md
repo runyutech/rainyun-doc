@@ -5,11 +5,11 @@ sidebar_position: 4
 ---
 ## 续费套餐
 
-如需续费实例，可以前往[对象存储](https://www.rainyun.com/apps/ros/list)页面，在左侧找到需要续费的实例，点击管理，页面跳转后点击续费，按照自己的需求选择下单即可。
+如需续费实例，可以前往[对象存储](https://app.rainyun.com/apps/ros/list)页面，在左侧找到需要续费的实例，点击管理，页面跳转后点击续费，按照自己的需求选择下单即可。
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155023_1f8476ec43efe8c65f2f92e23b46fc7f)
 ## 变更套餐
 
-如需变更套餐，可以前往[对象存储](https://www.rainyun.com/apps/ros/list)页面，在左侧找到需要变更套餐的实例，点击管理，页面跳转后点击变更套餐，按照自己的需求选择下单即可。
+如需变更套餐，可以前往[对象存储](https://app.rainyun.com/apps/ros/list)页面，在左侧找到需要变更套餐的实例，点击管理，页面跳转后点击变更套餐，按照自己的需求选择下单即可。
 
 :::warning
 更换套餐后套餐立即生效，更换套餐**不会影响您的数据**，也不会改变套餐的到期时间。<br/>
