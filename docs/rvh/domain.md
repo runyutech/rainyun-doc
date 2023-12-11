@@ -23,7 +23,7 @@ sidebar_position: 6
 
 在绑定域名时，您还需要将您的域名添加一个CNAME记录解析到面板域名管理处所显示的地址。
 
-![image-20221218122940470@50](./assets/image-20221218122940470.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102859_69b46710b9d2c2b8d27e99cd6efc62aa.png)
 
 通常购买域名处提供了DNS解析服务，您可以添加一个CNAME类型的记录，主机名和您绑定的域名一致。
 
@@ -39,7 +39,7 @@ sidebar_position: 6
 
 您还需要选择证书，**SSL证书需要您提前上传到[SSL证书中心]**，证书中心是统一管理您的证书的地方，您可以在雨云的多个产品里一键选择需要的证书，非常方便。您可以在下拉框内选择您要绑定的证书。
 
-![image-20221218202935799@50](./assets/image-20221218202935799.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102900_eec13dc27019fb1c351f2b7a180f9b53.png)
 
 #### 开启强制SSL跳转
 

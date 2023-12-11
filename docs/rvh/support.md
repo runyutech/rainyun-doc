@@ -86,7 +86,7 @@ sudo apt-get upgrade
 ### 宝塔无法连接
 
 #### NAT端口检查
-![natbt@50](assets/natbt.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102935_73d7758c0da602ce2f3b7c9586cc1727.png)
 
 如果购买的是NAT服务器（没有独立IP）,使用预装宝塔centos系统的话，先检查端口映射，内网端口需要为8889。
 然后，使用 对外地址/rainy 来访问宝塔。
@@ -98,7 +98,7 @@ sudo apt-get upgrade
 默认情况下，NAT服务器或者是有独立IP的服务器，防火墙规则都是不用去动的。
 有独立IP的话，所有端口（除了部分机房限制外）都是开放着的。
 
-![firewall@50](assets/firewall.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102935_36e5371ad91c9d2d09e9d7c0e76055db.png)
 
 无需新建任何防火墙规则,如果有新建的话，请把他删除(删除后，建议重启一下服务器，然后等几分钟)
 
@@ -107,7 +107,7 @@ sudo apt-get upgrade
 如果非红色，说明通了。
 
 #### 检查面板SSL
-![btssl@50](assets/btssl.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102936_0db1de3a8b21dc52d4e62ab436c936a1.png)
 
 回想一下，有没有给宝塔面板设置过SSL，如果设置了SSL，是需要使用HTTPS进行访问的。
 我们在服务器后台面板单击访问宝塔面板，仍然是使用HTTP访问，需要我们手动用HTTPS访问。

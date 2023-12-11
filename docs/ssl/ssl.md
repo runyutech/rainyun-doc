@@ -24,11 +24,11 @@ sidebar_position: 2
 
 然后，在域名列表输入我们的域名 比如 ab.tingyu.icu
 
-![ssl@50](assets/ssl.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102959_f9d5c16a7f42203f8c195432354a3271.png)
 
 然后进入我们的域名DNS界面，下面以阿里云的为例
 
-![dns@50](assets/dns.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102959_b3bf60b851ebaeb2768b01a32e2ef32f.png)
 
 :::tip
 1、记录类型 选择 TXT

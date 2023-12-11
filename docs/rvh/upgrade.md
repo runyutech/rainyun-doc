@@ -23,7 +23,7 @@ sidebar_position: 7
 
 :::
 
-![image-20221219112135648@50](./assets/image-20221219112135648.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102935_e75fafbadc891e0f1984b55e1bcbeb56.png)
 
 
 

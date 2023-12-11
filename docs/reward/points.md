@@ -23,7 +23,7 @@ sidebar_position: 2
 
    如果您的产品可以领取积分，则在产品的管理页面可以看到。
 
-   ![image-20221127171246356@50](./assets/image-20221127171246356.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102714_1103f656d7e106b72647921dc10ab8c3.png)
 
    :::caution
 
@@ -61,7 +61,7 @@ sidebar_position: 2
 
 3. 通过积分免费续费产品。
 
-   ![image-20221127185038117@50](./assets/image-20221127185038117.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102715_2f6637637095b54711c1254e31d0a5be.png)
 
 4. 提现。
 
