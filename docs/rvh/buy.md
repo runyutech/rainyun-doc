@@ -8,7 +8,7 @@ sidebar_position: 3
 
 # 选购
 
-如果您不太了解我们的虚拟主机产品，建议先查看[产品介绍](./)。
+如果您不太了解我们的虚拟主机产品，建议先查看[产品介绍](/docs/rvh)。
 
 在控制台打开[购买虚拟主机]页面来进行虚拟主机的选购，里面有诸多配置和区域任君选择，一定可以满足您的需求。
 
@@ -126,6 +126,6 @@ EP和宝塔的区别请见：[EP主机和宝塔主机](./#ep主机与宝塔主�
 
 
 [购买虚拟主机]: https://app.rainyun.com/apps/rvh/buy
-[7天无理由退订退款]: /account/refund.md
+[7天无理由退订退款]: /rvh/plan.md
 [积分商城]:https://app.rainyun.com/account/reward/store
-[弹性补差价升级]: /rvh/upgrade.md
+[弹性补差价升级]: /rvh/plan.md
