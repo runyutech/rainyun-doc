@@ -4,5 +4,6 @@
   "link": {
     "type": "generated-index",
     "description": "对象存储。"
-  }
+  },
+  "className": "icon-ros"
 }

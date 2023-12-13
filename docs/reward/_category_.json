@@ -4,5 +4,6 @@
   "link": {
     "type": "generated-index",
     "description": "查看和积分、推广相关的一切指南。"
-  }
+  },
+  "className": "icon-reward"
 }
