@@ -1,8 +1,9 @@
 ---
-title: 概述
 description: 热情的欢迎
-sidebar_position: 1
 slug: /
+id: intro
+sidebar_position: 0
+sidebar_label: 概述
 ---
 
 # 概述

@@ -4,5 +4,6 @@
   "link": {
     "type": "generated-index",
     "description": "快速上手云服务器产品。"
-  }
+  },
+  "className": "icon-rcs"
 }

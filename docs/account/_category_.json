@@ -4,5 +4,6 @@
   "link": {
     "type": "generated-index",
     "description": "关于您的雨云账户的一切事宜。"
-  }
+  },
+  "className": "icon-account"
 }
