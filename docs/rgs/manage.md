@@ -26,8 +26,14 @@ sidebar_position: 4
 
 ### 服务器信息
 这里提供服务器的基本信息，包括服务器的IP地址，服务器的CPU、内存、硬盘信息等。
+#### VPS服务器
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231218171725_163cc0e637f69603bb18bc276badb757.png)
+
+#### MCSM面板
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219161535_e2780f52d848a1117d4464f73c36c9db.png)
+
 
 ### IP、域名设置
 在这里可以设置服务器端口映射，添加修改更换公网IP，绑定域名等。

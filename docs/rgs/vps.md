@@ -1,7 +1,7 @@
 ---
 title: VPS服务器
 description: 虚拟专用服务器
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # VPS介绍
