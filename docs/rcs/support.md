@@ -151,5 +151,23 @@ NAT服务器：使用对外地址进行测试。
 
 当上面两者检查方法都试过后，仍然无效的，请尝试切换一个IP，然后重启一下服务器，等待几分钟后再试。
 
+### 云服务器的每月消耗流量有限制吗。
+不限制流量。
+
+### 域名绑定宝塔登不上去
+
+#### 可能的原因
+1. 您没有将此域名或IP绑定到对应站点！<br/>
+2. 配置文件未生效！
+
+#### 如何解决
+1. 检查是否已经绑定到对应站点，若确认已绑定，请尝试重载Web服务；<br/>
+2. 检查端口是否正确；<br/>
+3. 若您使用了CDN产品，请尝试清除CDN缓存；<br/>
+4. 普通网站访客，请联系网站管理员；<br/>
+
+### 云服务器无法连接
+可以检查宝塔，雨云防火墙等是否放行相关端口/ip。
+
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
