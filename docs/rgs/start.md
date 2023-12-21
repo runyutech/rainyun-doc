@@ -27,4 +27,10 @@ sidebar_position: 2
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1702016773_4ea0ec3a30e90fa7677c9ce983e77e35)
 
-                
+## 开服教学
+
+* [雨云VPS搭建我的世界Mohist1.20.2版服务器教程，MOD和插件服](/docs/blog/2023/12/18/mc/mc)
+* [小白开服利器：雨云VPS助你轻松搭建MCSM面板，开启Paper服务器！](/docs/blog/rainyun-mc-mcsm-vps)
+* [雨云VPS搭建我的世界服务器教程，开启Paper服务器！](/docs/blog/rainyun-mc-mcsm-vps)
+* [雨云NAT云服务器，小白也能搭建MCSM面板和Minecraft服务器！让你轻松开服！](/docs/blog/rainyun-mc-mcsm-nat)
+
