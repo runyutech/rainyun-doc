@@ -22,3 +22,7 @@ sidebar_position: 3
 
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701929890_51e183e775f048862e436e0607dff82f)
+
+## 购买演示
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231221123144_f3c328cde8dc5ee709854969150aa5cd.gif)
