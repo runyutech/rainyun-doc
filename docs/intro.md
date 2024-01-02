@@ -25,7 +25,7 @@ sidebar_label: 概述
 * [虚拟主机](/docs/rvh)
 * [云服务器](/docs/rcs)
 * [游戏云服务器](/docs/rgs)
-* [域名服务](/docs/Domain/introduce)
+* [域名服务](/docs/domain/introduce)
 * [对象存储](/docs/ros/introduce)
 * 云盾CDN(暂未上线)
 

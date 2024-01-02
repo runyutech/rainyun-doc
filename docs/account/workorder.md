@@ -49,7 +49,11 @@ sidebar_position: 8
 如果您认为没有解决您的问题，您可以在工单详情页点击重新打开工单，雨云客服将收到您的请求，重新查看回复。
 
 如果您还不清楚如何发工单，可以看一下这个视频
-【雨云新手指南：如何提交工单和咨询客服】 https://www.bilibili.com/video/BV1vm4y1V7RM/?share_source=copy_web&vd_source=6b69534ad23c9b396493640950e80f83
+
+
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=704067521&cid=1282496388&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
 [发起工单]: https://app.rainyun.com/support/workorder/create
 [工单列表]: https://app.rainyun.com/support/workorder/list
