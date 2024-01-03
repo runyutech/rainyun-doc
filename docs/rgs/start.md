@@ -29,8 +29,9 @@ sidebar_position: 2
 
 ## 开服教学
 
-* [雨云VPS搭建我的世界Mohist1.20.2版服务器教程，MOD和插件服](/docs/blog/2023/12/18/mc/mc)
-* [小白开服利器：雨云VPS助你轻松搭建MCSM面板，开启Paper服务器！](/docs/blog/rainyun-mc-mcsm-vps)
-* [雨云VPS搭建我的世界服务器教程，开启Paper服务器！](/docs/blog/rainyun-mc-mcsm-vps)
-* [雨云NAT云服务器，小白也能搭建MCSM面板和Minecraft服务器！让你轻松开服！](/docs/blog/rainyun-mc-mcsm-nat)
+* [雨云VPS搭建我的世界服务器教程，开启Paper服务器！](/docs/guide/Minecraft/VPS-MSSM)
+* [雨云NAT云服务器，小白也能搭建MCSM面板和Minecraft服务器！让你轻松开服！](/docs/guide/Minecraft/NAT-MCSM)
+* [用雨云VPS搭建我的世界Mohist1.20.2版服务器](/docs/guide/Minecraft/Mohist)
+* [3分钟开一个Minecraft服！自己当腐竹，实现服主梦！零基础搭建我的世界服务器！](/docs/guide/Minecraft/mc1)
+* [5分钟免费开一个MC服！雨云免费服务器领取教程&我的世界开服教程](/docs/guide/Minecraft/mc2)
 

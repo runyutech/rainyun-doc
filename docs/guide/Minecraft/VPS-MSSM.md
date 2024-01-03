@@ -382,6 +382,10 @@ paper-1.20.2-263 [雨云ROS](https://forum.rainyun.com/t/topic/5573/)下载地�
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/20231104153022_b59fcd10b494427c6d92300f4ec891ec.png)
 
+## 视频教程
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=620555052&cid=1322382432&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
 
 ## 推荐阅读

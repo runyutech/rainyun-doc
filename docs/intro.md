@@ -50,6 +50,7 @@ sidebar_label: 概述
 > 大学生MHU希望为寝室搭建游戏服务器，满足寝室伙伴的游戏需求。为了高性能游戏体验，他选择游戏云服务器，雨云游戏云提供高性能的硬件和网络资源，确保游戏流畅运行
 
 
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=449635652&cid=1300615117&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 
 您可以通过左边的导航菜单开始，了解您感兴趣的项目。

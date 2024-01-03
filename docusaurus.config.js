@@ -170,6 +170,9 @@ const config = {
                             {
                                 label: '论坛',
                                 href: 'https://forum.rainyun.com/',
+                            },{
+                                label: '哔哩哔哩',
+                                href: 'https://space.bilibili.com/77954745/video',
                             },
                         ],
                     },
