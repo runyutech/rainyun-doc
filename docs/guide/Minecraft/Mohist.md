@@ -280,6 +280,11 @@ mohist-1.20.2-122 [雨云ROS](https://forum.rainyun.com/t/topic/5573/)下载地�
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/image-20231217221824896_4230123d0a9f46bc40b874cda4540e67.png)
 
+## 视频教程
+
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=750124703&cid=1374895803&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 ## 推荐阅读
 
 - 雨云服务器快速搭建Cloudreve网盘网站并挂载雨云对象存储的教程：[https://forum.rainyun.com/t/topic/6201](https://forum.rainyun.com/t/topic/6201)

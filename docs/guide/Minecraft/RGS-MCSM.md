@@ -239,6 +239,10 @@ MOD安装看这篇文章：[https://blog.zeruns.tech/archives/696.html](https://
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/10/image-20231023210938520_f2d421f0cfc76328dec8d76701a4277a.png)
 
+## 视频教程
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=535120572&cid=1310057813&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 ## 推荐阅读
 
 - 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)

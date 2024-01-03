@@ -242,6 +242,11 @@ AccessKey和SecretKey填雨云对象存储控制台里的，存储策略名称�
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/image-20231204232930554_9197e01a7f0b5e4216d7b34e34b9160f.png)
 
+## 视频教程
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=706941702&cid=1358303908&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
 ## 推荐阅读
 
 - 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)

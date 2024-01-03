@@ -128,6 +128,11 @@ Chevereto是目前最好的图床之一。功能非常强大。其免费版和�
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/10/4472241c516169b76b54282c6ae145ae.png)
 
+## 视频教程
+
+<iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=321916011&cid=1293278878&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
 
 
 ## 结语
