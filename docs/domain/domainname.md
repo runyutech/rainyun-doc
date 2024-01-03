@@ -40,7 +40,8 @@ sidebar_position: 5
 
 为什么需要过白域名？
 
-![域名备案@50](putonrecords.jpg)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240103100420_853576ce16bef7d5067eda89eb4ce847.jpg)
+
 :::tip
 如果我们购买的是国内（宿迁）地区的服务器，那么我们的域名就必须备案，备案之后，需要进行过白，
 这样才可以访问。
