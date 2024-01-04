@@ -49,3 +49,33 @@ mcsm的缓存bug,在当前页面清理一下浏览器cookie即可
 
 ### 服务器主频上不去
 服务器使用了虚拟化等技术，主频查询是显示错误的，实际主频是正常的，可以使用测试工具测试。
+
+### MCSM服务器报错无法开启
+可以检查一下服务器日志，如果服务器日志有报错可以在搜索引擎如百度搜索一下该报错解决。<br/>
+如果服务器报错给出一个路径，可以访问该路径找到最后一次报错日志然后复制该报错到搜索引擎搜索一下。
+
+### MCSM版本切换Java版本
+
+#### windows
+set_java.bat xx(xx代表java版本)
+win+r打开cmd或者远程连接
+
+> ##### 切换到java8
+> set_java.bat 8
+> ##### 切换到java11
+> set_java.bat 11
+> ##### 切换到java17
+> set_java.bat 17
+> 运行java -version检查是否成功
+
+#### Linux
+set_java.sh xx(xx代表java版本)
+ssh到你的服务器
+
+> ##### 切换到java8
+> set_java.sh 8
+> ##### 切换到java11
+> set_java.sh 11
+> ##### 切换到java17
+> set_java.sh 17
+> 运行java -version检查是否成功
