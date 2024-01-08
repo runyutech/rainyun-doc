@@ -241,12 +241,3 @@ MOD安装看这篇文章：[https://blog.zeruns.tech/archives/696.html](https://
 
 ## 视频教程
 <iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=535120572&cid=1310057813&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-## 推荐阅读
-
-- 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)
-- PicGo+雨云ROS搭建自己的图床，可配合Typora使用：[https://forum.rainyun.com/t/topic/5659/](https://forum.rainyun.com/t/topic/5659/)
-- 给网站加SSL证书有什么用？浅显易懂附申请方法：[https://blog.csdn.net/m0_62052959/article/details/133700343](https://blog.csdn.net/m0_62052959/article/details/133700343)
-- 雨云账号注册&云服务器购买和使用教程（翼龙面板）：[https://www.bilibili.com/video/BV1Kj411x7G6/](https://www.bilibili.com/video/BV1Kj411x7G6/)
-- 雨云新手指南：如何提交工单和咨询客服：[https://www.bilibili.com/video/BV1vm4y1V7RM/](https://www.bilibili.com/video/BV1vm4y1V7RM/)

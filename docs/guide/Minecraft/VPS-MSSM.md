@@ -384,15 +384,3 @@ paper-1.20.2-263 [雨云ROS](https://forum.rainyun.com/t/topic/5573/)下载地�
 
 ## 视频教程
 <iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=620555052&cid=1322382432&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
-
-
-
-## 推荐阅读
-
-- 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)
-- PicGo+雨云ROS搭建自己的图床，可配合Typora使用：[https://forum.rainyun.com/t/topic/5659/](https://forum.rainyun.com/t/topic/5659/)
-- 雨云游戏云MCSM面板服使用&我的世界Forge服务端开服教程：[https://forum.rainyun.com/t/topic/5727](https://forum.rainyun.com/t/topic/5727)
-- 雨云虚拟主机使用教程&WordPress博客网站搭建教程：[https://forum.rainyun.com/t/topic/5769](https://forum.rainyun.com/t/topic/5769)
-- 雨云游戏云面板服使用教程&我的世界Forge服务端开服教程（翼龙面板）：[https://forum.rainyun.com/t/topic/5671](https://forum.rainyun.com/t/topic/5671)
-
