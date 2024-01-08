@@ -32,6 +32,9 @@ sidebar_position: 5
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215103736_38cd4bb11ab1a02e7d56b007dee31a09.png)
 
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105103127_9507192e88dad5b7e27b15cf1baa77e8.png)
+
+
 ## 连接到Windows服务器
 
 ### 使用远程桌面连接
