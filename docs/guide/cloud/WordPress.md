@@ -272,9 +272,3 @@ EP主机有如下特点：
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/10/image-20231028183518479_f50bd5663d47811c11c24d2e8b5ee3dd.png)
 
 你可以自己登陆后台设置主题和插件，WordPress拥有丰富的主题。
-
-## 推荐阅读
-
-- 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)
-- PicGo+雨云ROS搭建自己的图床，可配合Typora使用：[https://forum.rainyun.com/t/topic/5659/](https://forum.rainyun.com/t/topic/5659/)
-- 雨云游戏云MCSM面板服使用&我的世界Forge服务端开服教程：[https://forum.rainyun.com/t/topic/5727](https://forum.rainyun.com/t/topic/5727/)

@@ -313,13 +313,3 @@ TeStore是一个非官方的插件仓库插件，安装了就可以在后台一�
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/image-20231224195349902_344c3ff48ddd1fa8cf9b3c2942e852eb.png)
 
 教程到此结束了，更多功能和细节请自己探索。
-
-## 推荐阅读
-
-- 雨云服务器快速搭建Cloudreve网盘网站并挂载雨云对象存储的教程：[https://forum.rainyun.com/t/topic/6201](https://forum.rainyun.com/t/topic/6201)
-- PicGo+雨云ROS搭建自己的图床，可配合Typora使用：[https://forum.rainyun.com/t/topic/5659/](https://forum.rainyun.com/t/topic/5659/)
-- 雨云游戏云MCSM面板服使用&我的世界Forge服务端开服教程：[https://forum.rainyun.com/t/topic/5727](https://forum.rainyun.com/t/topic/5727)
-- 雨云VPS用Linux搭建我的世界Mohist服务器教程，MOD和插件服开服教程：[https://forum.rainyun.com/t/topic/6353](https://forum.rainyun.com/t/topic/6353)
-- 雨云游戏云VPS搭建MCSM面板和我的世界Paper服务器教程：[https://forum.rainyun.com/t/topic/5836](https://forum.rainyun.com/t/topic/5836)
-- 雨云服务器搭建内网穿透服务器教程，NPS搭建和使用教程：[https://forum.rainyun.com/t/topic/6008](https://forum.rainyun.com/t/topic/6008)
-

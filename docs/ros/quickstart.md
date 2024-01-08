@@ -50,6 +50,8 @@ sidebar_position: 3
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/d6d73616240fefed89eb2653bbaebd10.png)
 
+## 视频演示
+<video class="iframe_video" controls src="https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108111229_d36b548c4c7a2369249fb4cc0e2eba46.mp4"/>
 
 [对象存储]: https://www.rainyun.com/apps/ros/list
 

@@ -261,15 +261,3 @@ docker run \
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/image-20231125213437383_869fffa348fb59b4f80bf3b51af99a4d.png)
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/image-20231125213516429_b326b2c818a333513c2cc92d143d08e3.png)
-
-## 推荐阅读
-
-- 雨云OSS服务介绍和使用教程，Chevereto图床使用雨云OSS的教程：[https://forum.rainyun.com/t/topic/5573/](https://forum.rainyun.com/t/topic/5573/)
-- PicGo+雨云ROS搭建自己的图床，可配合Typora使用：[https://forum.rainyun.com/t/topic/5659/](https://forum.rainyun.com/t/topic/5659/)
-- 雨云游戏云MCSM面板服使用&我的世界Forge服务端开服教程：[https://forum.rainyun.com/t/topic/5727](https://forum.rainyun.com/t/topic/5727)
-- 雨云虚拟主机使用教程&WordPress博客网站搭建教程：[https://forum.rainyun.com/t/topic/5769](https://forum.rainyun.com/t/topic/5769)
-- 雨云游戏云VPS搭建MCSM面板和我的世界Paper服务器教程：[https://forum.rainyun.com/t/topic/5836](https://forum.rainyun.com/t/topic/5836)
-- 雨云服务器搭建内网穿透服务器教程，NPS搭建和使用教程：[https://forum.rainyun.com/t/topic/6008](https://forum.rainyun.com/t/topic/6008)
-
-
-

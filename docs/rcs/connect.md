@@ -26,6 +26,11 @@ sidebar_position: 5
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215103254_1d6133e4b7943b038b8c2667a056ea04.png)
 
+#### 使用SSH工具连接
+如果您会使用ssh工具的话，只需要将获取到的账号，密码，ip，端口等信息填入后点击连接即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108142815_234f1ce4a3a1eaf70e328bba756774f9.png)
+
 ### 使用VNC连接
 
 如果您的服务器无法通过SSH连接，可以尝试使用VNC连接，我们可以在[云服务器](https://app.rainyun.com/apps/rcs/list)页面找到，点击管理，点击远程连接（VNC），等待加入后，按回车，输入信息即可连接到服务器。
@@ -33,6 +38,18 @@ sidebar_position: 5
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215103736_38cd4bb11ab1a02e7d56b007dee31a09.png)
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105103127_9507192e88dad5b7e27b15cf1baa77e8.png)
+
+### 移动设备连接
+
+移动端的连接方法与上面提到的方法大同小异，下面我使用[termius](https://termius.com/)演示。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144302_eb60eab9979e3fb70e7da7392b7baf18.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144552_2487db6e01033215cc1d111d4f2edd92.png)
+
+按提示点击，连接成功后即可操作。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144646_0a281197985d1169d4c05c8ec5093562.png)
 
 
 ## 连接到Windows服务器
@@ -51,6 +68,21 @@ sidebar_position: 5
 如果您的服务器无法通过远程桌面连接，可以尝试使用VNC连接，我们可以在[云服务器](https://app.rainyun.com/apps/rcs/list)页面找到，点击管理，点击远程连接（VNC），等待加入后，按照页面提示，输入信息即可连接到服务器。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215105544_f089a47dd53d63b6921b65d5b7e2bc25.png)
+
+### 移动设备连接
+
+在移动端连接Windows服务器主要通过[Microsoft Remote Desktop](https://www.bing.com/search?form=&q=microsoft+remote+desktop)连接。
+
+在安装好app之后按下面流程操作。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108150126_0dee033a68b4e62f9667cd410040c478.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108150311_9f76e9d1e59bdf2174b0f23c0daca409.png)
+
+填好保存之后点击刚才保存的配置，然后输入账号密码即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108150411_04114355939e09d0cafdb08cec001ab2.png)
+
 
 ## 连接到MacOS服务器
 
