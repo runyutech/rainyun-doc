@@ -236,5 +236,23 @@ NAT服务器：使用对外地址进行测试。
 * 用户每月只能进行2次产品折算迁移操作。<br/>
 :::
 
+### VNC提示401 No Ticket，无法连接
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105144844_d027cc12fb46980a31f9979916bdcdff.png)
+
+#### 原因
+因为浏览器禁止了第三方Cookie所致。
+
+#### 解决方法
+**Chrome**
+访问：chrome设置`chrome://settings/cookies?search=cookie`(复制到地址栏打开)<br/>
+点击**允许第三方cookie**
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105145600_88da196eee188ce88bdbdd1ec7d46eb1.png)
+
+或者按照序号点击。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105151847_14ff565a18217f9f3b5942c72138735a.png)
+
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US

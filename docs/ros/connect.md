@@ -14,3 +14,5 @@ sidebar_position: 5
 
 ## FTP协议连接
 我们的面板还还兼容FTP协议，您可以使用FTP协议连接到存储桶，访问端口为：**8021**，账号密码分别是你的**AccessKey**和**SecretKey**。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105153442_73a16966bc34cea38f3f79d5fe522654.png)
