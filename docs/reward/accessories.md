@@ -1,7 +1,7 @@
 ---
 title: 周边产品
 description: 您可以用积分兑换我们精心定制的周边产品
-sidebar_position: 2
+sidebar_position: 4
 ---
 
 # 周边产品

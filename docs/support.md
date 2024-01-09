@@ -254,5 +254,12 @@ NAT服务器：使用对外地址进行测试。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240105151847_14ff565a18217f9f3b5942c72138735a.png)
 
+
+### 宝塔访问缓慢，无法访问等问题
+可以执行一下命令更新到最新版本后重试一下，如果仍然出现访问缓慢等问题可以在[宝塔论坛反馈](https://www.bt.cn/bbs/)。
+
+```shell
+curl https://download.bt.cn/install/update_panel.sh|bash
+```
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US

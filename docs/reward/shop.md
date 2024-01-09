@@ -1,7 +1,7 @@
 ---
 title: 积分商城
 description: 积分商城
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # 积分商城
