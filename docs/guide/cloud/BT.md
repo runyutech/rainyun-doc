@@ -64,6 +64,7 @@ cd .. && rm -f LinuxPanel-*.zip && rm -rf panel
 
 ## 修复宝塔
 如果遇到宝塔卡顿等问题，可以执行一下脚本升级并修复宝塔服务。
+
 ```shell
 curl https://download.bt.cn/install/update_panel.sh|bash
 ```
