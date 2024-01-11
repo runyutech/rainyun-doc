@@ -62,6 +62,8 @@ bash update.sh
 cd .. && rm -f LinuxPanel-*.zip && rm -rf panel
 ```
 
-:::tip
-工单暂不处理有关宝塔相关问题，有疑问可以访问[宝塔论坛](https://www.bt.cn/bbs/)反馈
-:::
+## 修复宝塔
+如果遇到宝塔卡顿等问题，可以执行一下脚本升级并修复宝塔服务。
+```shell
+curl https://download.bt.cn/install/update_panel.sh|bash
+```

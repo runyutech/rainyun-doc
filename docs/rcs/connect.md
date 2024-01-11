@@ -41,15 +41,14 @@ sidebar_position: 5
 
 ### 移动设备连接
 
-移动端的连接方法与上面提到的方法大同小异，下面我使用[termius](https://termius.com/)演示。
+移动端的连接方法与上面提到的方法大同小异，下面我使用[termius](https://www.termius.com/download)演示。
+安卓可以点击[这里下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240110155756_c8367dae9b2aba038dd7a2ea52ddf83f.apk)
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144302_eb60eab9979e3fb70e7da7392b7baf18.png)
+安装并登陆后，进入Hosts，点击➕号，添加服务器配置后保存，然后连接即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144552_2487db6e01033215cc1d111d4f2edd92.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240110160216_e3519aa8b505c1c3cb07bf1df0ed7ca0.png)
 
-按提示点击，连接成功后即可操作。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108144646_0a281197985d1169d4c05c8ec5093562.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240110160334_1ad54539267b865507abc3ae402607e8.png)
 
 
 ## 连接到Windows服务器
