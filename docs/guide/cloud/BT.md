@@ -1,4 +1,9 @@
-# 云服务器宝塔相关
+---
+title: 安装、降级宝塔
+description: 安装、降级宝塔
+sidebar_position: 2
+---
+# 安装、降级宝塔
 
 ## 安装宝塔
 如需要在服务器上安装宝塔，可以前往[宝塔官网](https://www.bt.cn/new/download.html)，选择Linux版本，

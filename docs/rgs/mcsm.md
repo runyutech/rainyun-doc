@@ -1,5 +1,5 @@
 ---
-title: MCSM指南
+title: MCSM
 description: 一键开服
 sidebar_position: 5
 ---
@@ -108,4 +108,4 @@ MCSManager是一个开源、分布式、轻量级、一键开服、支持大部�
 
 ## 服务器搭建
 
-如果您不会搭建服务器，可以查看我们的[技术博客](http://localhost:3000/docs/blog/rainyun-mc-mcsm-rgs)进一步学习。
+如果您不会搭建服务器，可以查看我们的[使用指南](/docs/guide/Minecraft/Minecraft_Guidebook)进一步学习。
