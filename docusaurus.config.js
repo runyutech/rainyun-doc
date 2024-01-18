@@ -78,7 +78,7 @@ const config = {
                 },
                 items: [
                     {to:'/docs',label: '📚 文档', position: 'left'},
-                    {to:'/docs/guide/Minecraft/Mohist',label: '📖 指南', position: 'left'},
+                    {to:'/docs/guide/Minecraft/Minecraft_Guidebook',label: '📖 指南', position: 'left'},
                     {to: '/blog', label: '🧬 技术博客', position: 'left'},
                     {
                         type: 'dropdown',

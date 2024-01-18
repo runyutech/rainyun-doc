@@ -154,7 +154,7 @@ SSH进入服务器后执行以下命令：
 yum install cloud-utils-growpart gdisk xfsprogs e2fsprogs
 ```
 
-使用 `fdisk -l `命令根据大小及其他信息查看要扩容的云盘，本例子中要扩容的分区为/dev/sda1
+使用 `fdisk -l `命令根据大小及其他信息查看要扩容的云盘，本例子中要扩容的分区为/dev/sda·1
 
 ``` shell
 growpart /dev/sda 1
@@ -261,5 +261,25 @@ NAT服务器：使用对外地址进行测试。
 ```shell
 curl https://download.bt.cn/install/update_panel.sh|bash
 ```
+
+### 网络带宽是指M还是Mbps
+如无特殊说明一般指Mbps，即兆比特每秒。
+
+### 1panel获取不到密码
+如图这种情况可以SSH连接到服务器输入`1pctl update password`更新密码。连接服务器方式可以看[这里](/docs/rcs/connect)。
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240118144312_8eba0107aace2bbef2db883044fb01ef.png)
+
+
+### 雨云是否支持搭建代理
+不支持。
+
+### 是否支持挖矿等操作
+禁止。
+
+### 积分商城兑换机器有货但提示库存不足
+积分商城的商品数量还上架着有显示库存
+但是，仓库中，其实已经卖完了，所以才会出现这种情况。
+
+
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US

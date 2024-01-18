@@ -20,7 +20,7 @@ sidebar_position: 2
 
 ### 如何申请SSL证书？
 
-首先进入[域名服务][ssl]界面
+首先进入[域名服务](https://app.rainyun.com/apps/domain/list)界面
 
 然后，在域名列表输入我们的域名 比如 ab.tingyu.icu
 
@@ -51,4 +51,3 @@ sidebar_position: 2
    密钥内容（.key）
 
    请直接打开对应文件，全选复制所有内容，然后粘贴到指定的框内，最后单击“保存证书”。
-[ssl]: https://app.rainyun.com/apps/ssl/list
