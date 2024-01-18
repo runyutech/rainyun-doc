@@ -169,5 +169,18 @@ NAT服务器：使用对外地址进行测试。
 ### 云服务器无法连接
 可以检查宝塔，雨云防火墙等是否放行相关端口/ip。
 
+### apache,phpmyadmin等提示权限不足
+如果出现以下情况：
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240118112639_9e39e455a2e7111801ba38c8f02c443b.png)
+
+可以SSH连接到服务器，设置路径权限
+```shell
+chmod -R 777 /www/wwwroot/网站目录
+```
+
+
+
+
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
