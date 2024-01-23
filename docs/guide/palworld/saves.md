@@ -55,7 +55,7 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240123164133_a540f8a2bcfc885780dea06a1d7b0baf.png)
 
-进入面板后，上传刚才的压缩包，解压，文件夹名字随意，解压后进入刚才的文件夹，剪切移动到上个存档的文件夹。
+进入面板后，上传刚才的压缩包，解压，文件夹名字随意，解压后进入刚才的文件夹，剪切移动到上个存档的文件夹，然后**进入config文件夹**，将WindowsServer，改为LinuxServer，然后启动实例即可
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240123164647_e1e964958d063f96a3a51aa58d249939.png)
 
