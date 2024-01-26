@@ -14,6 +14,9 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240123160529_8ed6f8730cab7bf3aab41d5c944e3b3f.png)
 
+## 存档转移脚本
+https://github.com/xNul/palworld-host-save-fix
+
 ## 面板存档转移到Windows
 
 按**前置操作**保存好文档后，在新的vps机器安装steam，然后找到图上的服务端，
