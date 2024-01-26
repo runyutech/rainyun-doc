@@ -144,7 +144,7 @@ flush privileges;
 
 #### Windows:
 
-进入**服务器管理器**，磁盘管理，找到要扩展的分区，右键扩展卷，按提示完成操作即可。
+进入**计算机管理**，磁盘管理，找到要扩展的分区，右键扩展卷，按提示完成操作即可。
 
 #### CentOS 7 / CentOS 8 / RockyLinux 8 / RockyLinux 9:
 
