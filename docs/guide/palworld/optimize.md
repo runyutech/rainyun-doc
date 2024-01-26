@@ -15,7 +15,7 @@ Bug未知，请自行测试
 下载.exe后缀版本，替换下面路径的**PalServer-Win64-Test-Cmd**<br/>
 `PalServer\Pal\Binaries\Win64\`
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240126163601_3ef7d1c4e0be2133b59a5164d1c4877e.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240126163923_79e56ae6fcdeb7e17fc0be692664b303.png)
 
 
 #### linux/面板
