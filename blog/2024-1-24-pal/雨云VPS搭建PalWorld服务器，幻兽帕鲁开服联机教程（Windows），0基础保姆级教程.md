@@ -282,18 +282,18 @@ OptionSettings=(Difficulty=None, ; 难度，None 或 Difficulty
 
 如果要使用命令，需要设置管理员密码后并使用 `/AdminPassword 密码` 命令在聊天框获取管理权限。
 
-|           命令格式           |                       作用                       |
-| :--------------------------: | :----------------------------------------------: |
-| /shutdown {秒} {messageText} | 服务器在秒数后关闭 将收到您的 MessageText 的通知 |
-|           /DoExit            |                  强制停止服务器                  |
-|   /Broadcast {MessageText}   |           向服务器中的所有玩家发送消息           |
-|    /KickPlayer {SteamID}     |               将玩家从服务器上踢出               |
-|     /BanPlayer {SteamID}     |               将玩家从服务器上封禁               |
-| /TeleportToPlayer {SteamID}  |             传送到目标玩家的当前位置             |
-|   /TeleportToMe {SteamID}    |            目标玩家传送到您当前的位置            |
-|         /ShowPlayers         |             显示所有已连接玩家的信息             |
-|            /Info             |                  显示服务器信息                  |
-|            /Save             |                  保存服务器数据                  |
+|            命令格式             |               作用               |
+|:---------------------------:|:------------------------------:|
+| /shutdown 「S」 「messageText」 | 服务器**后关闭 将收到您的 MessageText 的通知 |
+|           /DoExit           |            强制停止服务器             |
+|  /Broadcast 「MessageText」   |         向服务器中的所有玩家发送消息         |
+|    /KickPlayer 「SteamID」    |           将玩家从服务器上踢出           |
+|    /BanPlayer 「SteamID」     |           将玩家从服务器上封禁           |
+| /TeleportToPlayer 「SteamID」 |          传送到目标玩家的当前位置          |
+|   /TeleportToMe 「SteamID」   |         目标玩家传送到您当前的位置          |
+|        /ShowPlayers         |          显示所有已连接玩家的信息          |
+|            /Info            |            显示服务器信息             |
+|            /Save            |            保存服务器数据             |
 
 ## 内存优化（可选）
 
