@@ -124,11 +124,11 @@ sidebar_position: 98
 
 Windows的一键部署需要借助 PowerShell 来完成。PowerShell是一种任务自动化和配置管理框架，它提供了一个命令行Shell和脚本语言，用于管理和控制Windows操作系统和相关应用程序。那么要如何找到 PowerShell ？方法如下：
 
-| **方法**           | **描述**                                                     |
-| :----------------- | :----------------------------------------------------------- |
-| 使用开始菜单       | 点击Windows开始按钮，然后在搜索框中输入"PowerShell"。你应该能够看到"Windows PowerShell"或"PowerShell"的搜索结果。点击该结果即可打开PowerShell。 |
-| 使用运行对话框     | 按下Win + R键组合，打开运行对话框。在对话框中输入"powershell"，然后点击"确定"按钮即可打开PowerShell。 |
-| 使用文件资源管理器 | 打开文件资源管理器（Windows资源管理器），导航到所需的目录，然后在地址栏中输入"powershell"并按下回车键。这将在当前目录中打开PowerShell。 |
+| **方法**    | **描述**                                                                                                 |
+|:----------|:-------------------------------------------------------------------------------------------------------|
+| 使用开始菜单    | 点击Windows开始按钮，然后在搜索框中输入"PowerShell"。你应该能够看到"Windows PowerShell"或"PowerShell"的搜索结果。点击该结果即可打开PowerShell。 |
+| 使用运行对话框   | 按下Win + R键组合，打开运行对话框。在对话框中输入"powershell"，然后点击"确定"按钮即可打开PowerShell。                                     |
+| 使用文件资源管理器 | 打开文件资源管理器（Windows资源管理器），导航到所需的目录，然后在地址栏中输入"powershell"并按下回车键。这将在当前目录中打开PowerShell。                     |
 
 右键单击左下角的开始菜单键，点击"Windows PowerShell"
 
@@ -286,18 +286,18 @@ OptionSettings=(Difficulty=None, ; 难度，None 或 Difficulty
 
 如果要使用命令，需要设置管理员密码后并使用 `/AdminPassword 密码` 命令在聊天框获取管理权限。
 
-|            命令格式             |               作用                |
-|:---------------------------:|:-------------------------------:|
-| /shutdown 「S」 「messageText」 | 服务器在秒数后关闭 将收到您的 MessageText 的通知 |
-|           /DoExit           |             强制停止服务器             |
-|  /Broadcast 「MessageText」   |         向服务器中的所有玩家发送消息          |
-|    /KickPlayer 「SteamID」    |           将玩家从服务器上踢出            |
-|    /BanPlayer 「SteamID」     |           将玩家从服务器上封禁            |
-| /TeleportToPlayer 「SteamID」 |          传送到目标玩家的当前位置           |
-|   /TeleportToMe 「SteamID」   |          目标玩家传送到您当前的位置          |
-|        /ShowPlayers         |          显示所有已连接玩家的信息           |
-|            /Info            |             显示服务器信息             |
-|            /Save            |             保存服务器数据             |
+|            命令格式             |               作用               |
+|:---------------------------:|:------------------------------:|
+| /shutdown 「S」 「messageText」 | 服务器**后关闭 将收到您的 MessageText 的通知 |
+|           /DoExit           |            强制停止服务器             |
+|  /Broadcast 「MessageText」   |         向服务器中的所有玩家发送消息         |
+|    /KickPlayer 「SteamID」    |           将玩家从服务器上踢出           |
+|    /BanPlayer 「SteamID」     |           将玩家从服务器上封禁           |
+| /TeleportToPlayer 「SteamID」 |          传送到目标玩家的当前位置          |
+|   /TeleportToMe 「SteamID」   |         目标玩家传送到您当前的位置          |
+|        /ShowPlayers         |          显示所有已连接玩家的信息          |
+|            /Info            |            显示服务器信息             |
+|            /Save            |            保存服务器数据             |
 
 ## 内存优化（可选）
 
