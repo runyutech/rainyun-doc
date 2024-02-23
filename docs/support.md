@@ -275,6 +275,9 @@ curl https://download.bt.cn/install/update_panel.sh|bash
 积分商城的商品数量还上架着有显示库存
 但是，仓库中，其实已经卖完了，所以才会出现这种情况。
 
+### Windows家庭版无法使用远程连接
+因为Windows版本限制原因，可以使用[rdpwrap](https://github.com/stascorp/rdpwrap)启用远程连接服务.
+
 
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
