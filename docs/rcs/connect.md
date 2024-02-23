@@ -42,7 +42,7 @@ sidebar_position: 5
 ### 移动设备连接
 
 移动端的连接方法与上面提到的方法大同小异，下面我使用[termius](https://www.termius.com/download)演示。
-安卓可以点击[这里下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240110155756_c8367dae9b2aba038dd7a2ea52ddf83f.apk)
+安卓可以点击[这里下载](https://termius.cn.aptoide.com/app)
 
 安装并登陆后，进入Hosts，点击➕号，添加服务器配置后保存，然后连接即可。
 
