@@ -183,6 +183,11 @@ chmod -R 777 /www/wwwroot/网站目录
 如图这种情况可以SSH连接到服务器输入`1pctl update password`更新密码。连接服务器方式可以看[这里](/docs/rcs/connect)。
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240118144312_8eba0107aace2bbef2db883044fb01ef.png)
 
+### 宝塔无法获取ssl证书
+如图，如果使用雨云提供的免费域名获取ssl证书，可能会提示创建过多，建议更换其他二级域名。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240223114402_bf2075c41b42903af7eda254fede08f7.png)
+
 
 
 [itdog]: https://www.itdog.cn/tcping
