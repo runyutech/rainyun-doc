@@ -2,11 +2,6 @@
 
 使用显卡云服务器远程串流到主机游玩游戏。
 
-实际效果：
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240226150429_0c5f32ffd710685a417807f202900630.png)
-
-
 ## 0、准备工具
 > Windows远程连接
 > [Parsec](https://parsec.app/)账号
@@ -35,7 +30,7 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240226151411_a779b56fdbd14fe3d5dfb68fbd90b0a2.png)
 
-3、使用parsec连接到服务器
+## 3、使用parsec连接到服务器
 
 如果已经安装并运行了parsec，可以将Windows自带的远程访问关闭掉，然后在本地计算机下载parsec。
 
@@ -48,12 +43,35 @@
 :::
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240226152749_8f5106da7eeb6e5e74969cc8c38bca3a.png)
 
-## 3、测试运行
+### 测试运行
 
 连接成功后即可游玩游戏。
 
 <iframe class="iframe_video" src="//player.bilibili.com/player.html?aid=1501180369&cid=1451579814&page=1&autoplay=false&muted=true&highQuality=true" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+## 使用手柄远程串流游玩
+因为***Windows Server缺少手柄驱动***，所以我们需要额外安装手柄驱动。
+
+### 下载驱动
+
+> [Xbox手柄驱动](https://xbox-360-controller-for-windows.en.lo4d.com/download)<br/ >
+> [远程虚拟手柄驱动](https://github.com/nefarius/ViGEmBus/releases/tag/setup-v1.17.333)
+
+### 安装驱动
+
+直接打开下载的驱动，按提示一路安装即可。
+
+### 测试连接
+
+将手柄连接到机器，打开parsec，连接到服务器，等待系统安装驱动后。
+
+打开Parsec，侧边栏点击设置->gamepad，如果显示手柄信息即为成功连接(如下图)。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240227150538_01f98670c3527410cd3552c81796d4ad.png)
+
+### 测试运行
+
+<video class="iframe_video" controls src="https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240227145355_6f95903e99ff4a9228be329a46b16196.mp4"></video>
 
 
 
