@@ -1,7 +1,7 @@
 ---
 title: 常见问题
 description: 有问题先看这里
-sidebar_position: 99
+sidebar_position: 98
 slug: support
 ---
 
@@ -146,7 +146,7 @@ flush privileges;
 
 进入**计算机管理**，磁盘管理，找到要扩展的分区，右键扩展卷，按提示完成操作即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240227101907_d5ad7e30eb693e2100ba5ecb37fd3b43.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240229102129_2a3d92054b6611a0a1f0654d764608ef.png)
 
 
 #### CentOS 7 / CentOS 8 / RockyLinux 8 / RockyLinux 9:
