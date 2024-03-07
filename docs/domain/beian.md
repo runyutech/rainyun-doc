@@ -1,7 +1,7 @@
 ---
 title: 添加白名单
 description: 域名添加添加白名单
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # 域名白名单
@@ -10,10 +10,11 @@ sidebar_position: 2
 
 ## 如何添加
 
-来到[域名管理页面](https://app.rainyun.com/apps/domain/list)，点击域名过白，按照提示操作即可。
+来到[域名管理页面](https://app.rainyun.com/apps/domain/list/white)，，输入需要过白的域名，点击添加，然后按提示操作即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240307104525_5801d43f89fd415fc5d80a14a7092049.png)
+
 
 :::info
 需要添加域名白名单之前，需要您账号**已经通过实名认证**
 :::
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240229105113_083bf0304039b1ffe2b35b5fb0740680.png)
