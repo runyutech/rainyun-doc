@@ -63,3 +63,10 @@ sidebar_position: 2
 :::
 
 
+### 域名所有权认证
+
+要进行域名所有权认证，需要在[域名管理页面](https://app.rainyun.com/apps/domain/list/certify)进行操作，输入需要认证的域名，然后点击认证按钮后按照提示操作即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240307150519_1ba252dca1277bd5e912cfc4a98feb3d.png)
+
+
