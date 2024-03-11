@@ -18,7 +18,7 @@ sidebar_position: 2
 提高网站的可信度：使用户更信任安全的网站，提高网站的访问量以及交易的成功率。
 :::info
 
-### 如何申请SSL证书？
+## 如何申请SSL证书？
 
 首先进入[域名服务](https://app.rainyun.com/apps/domain/list)界面
 
@@ -40,7 +40,7 @@ sidebar_position: 2
 
 最后，等一两分钟，再单击一下 “我已完成解析” 这样就成功创建SSL证书了。
 
-### 如何上传自己的SSL证书？
+## 如何上传自己的SSL证书？
 
 1、单击“上传证书”
 
@@ -51,3 +51,15 @@ sidebar_position: 2
    密钥内容（.key）
 
    请直接打开对应文件，全选复制所有内容，然后粘贴到指定的框内，最后单击“保存证书”。
+
+## 常见问题
+
+## 未成功被证书提供商验证成功，请稍后再试
+
+这种情况一般都是因为DNS解析还未生效，或者设置错误。
+
+例如申请的域名列表的是a.abc.com和b.abc.com，需要添加_acme-challenge.a和_acme-challenge.b两个主机头的DNS解析，而不是直接_acme-challenge
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240311153931_723493bbbc8715d7135cc28057ecf950.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240311153041_09530fb0f8605a74482dc50c1fd1d272.png)
