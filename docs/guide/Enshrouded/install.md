@@ -1,6 +1,6 @@
 # Windows服务器搭建雾锁王国服务器
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240312163609_feddaf2c5d5f308b34c4c5e9f3ae532a.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240314102044_56b505e7943133671ec500de50df38b2.png)
 
 
 ## 前提准备：部署雾锁王国服务器前提条件
