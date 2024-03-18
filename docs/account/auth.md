@@ -39,7 +39,7 @@ sidebar_position: 2
 
 除了邮箱/手机号外，动态令牌也能很好的保护您的账号,在[账号设置](https://app.rainyun.com/account/settings)页面点击账号密码与令牌，点击绑定即可。
 
-安卓下载地址(google Play)：
+安卓下载地址(Google Play)：
 [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=zh_TW&gl=US)
  | [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW&gl=US)
 
