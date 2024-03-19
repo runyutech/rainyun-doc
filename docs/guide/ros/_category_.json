@@ -1,5 +1,10 @@
 {
   "position": 1,
   "label": "对象存储",
-  "className": "icon-storage"
+  "className": "icon-storage",
+  "link": {
+    "type": "generated-index",
+    "description": "对象存储指南",
+    "slug": "/guide/category/storage"
+  }
 }

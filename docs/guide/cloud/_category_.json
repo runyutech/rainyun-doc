@@ -1,5 +1,10 @@
 {
   "position": 1,
   "label": "云服务器",
-  "className": "icon-cloud"
+  "className": "icon-cloud",
+  "link": {
+    "type": "generated-index",
+    "description": "云服务器指南",
+    "slug": "/guide/category/rcs"
+  }
 }
