@@ -1,5 +1,10 @@
 {
   "position": 2,
   "label": "雾锁王国",
-  "className": "icon-enshrouded"
+  "className": "icon-enshrouded",
+  "link": {
+    "type": "generated-index",
+    "description": "雾锁王国指南",
+    "slug": "/guide/category/enshrouded"
+  }
 }

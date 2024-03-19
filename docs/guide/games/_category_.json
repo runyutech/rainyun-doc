@@ -1,5 +1,10 @@
 {
   "position": 1,
   "label": "游戏云",
-  "className": "icon-games"
+  "className": "icon-games",
+  "link": {
+    "type": "generated-index",
+    "description": "游戏云指南",
+    "slug": "/guide/category/games"
+  }
 }

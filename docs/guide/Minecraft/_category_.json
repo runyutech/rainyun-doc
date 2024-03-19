@@ -1,4 +1,9 @@
 {
   "position": 1,
-  "className": "icon-minecraft"
+  "className": "icon-minecraft",
+  "link": {
+    "type": "generated-index",
+    "description": "Minecraft指南",
+    "slug": "/guide/category/minecraft"
+  }
 }

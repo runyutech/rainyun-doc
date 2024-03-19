@@ -1,5 +1,10 @@
 {
   "position": 1,
   "label": "Palworld",
-  "className": "icon-palworld"
+  "className": "icon-palworld",
+  "link": {
+    "type": "generated-index",
+    "description": "palworld指南",
+    "slug": "/guide/category/palworld"
+  }
 }
