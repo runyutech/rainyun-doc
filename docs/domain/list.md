@@ -7,7 +7,6 @@ sidebar_position: 99
 > .com<br/>
 > .net<br/>
 > .cn<br/>
-> .org<br/>
 > .cc<br/>
 > .biz<br/>
 > .top<br/>
@@ -48,7 +47,6 @@ sidebar_position: 99
 > .pro<br/>
 > .hznet<br/>
 > .beer<br/>
-> .app<br/>
 > .club<br/>
 > .dev<br/>
 > .group<br/>
