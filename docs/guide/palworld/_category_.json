@@ -1,10 +1,10 @@
 {
   "position": 1,
-  "label": "Palworld",
+  "label": "幻兽帕鲁",
   "className": "icon-palworld",
   "link": {
     "type": "generated-index",
-    "description": "palworld指南",
+    "description": "幻兽帕鲁指南",
     "slug": "/guide/category/palworld"
   }
 }

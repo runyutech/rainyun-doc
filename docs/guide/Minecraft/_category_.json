@@ -1,9 +1,10 @@
 {
   "position": 1,
+  "label": "我的世界",
   "className": "icon-minecraft",
   "link": {
     "type": "generated-index",
-    "description": "Minecraft指南",
+    "description": "我的世界指南",
     "slug": "/guide/category/minecraft"
   }
 }
