@@ -3,7 +3,6 @@ sidebar_position: 99
 ---
 
 # 可选域名列表
-
 > .com<br/>
 > .net<br/>
 > .cn<br/>
@@ -56,7 +55,6 @@ sidebar_position: 99
 > .xin<br/>
 > .hzcom<br/>
 > .ing<br/>
-> .biz<br/>
 > .name<br/>
 > .me<br/>
 > .uk<br/>
@@ -170,7 +168,6 @@ sidebar_position: 99
 > .luxe<br/>
 > .shopping<br/>
 > .technology<br/>
-> .tv<br/>
 > .click<br/>
 > .diet<br/>
 > .flowers<br/>
