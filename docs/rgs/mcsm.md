@@ -7,7 +7,12 @@ sidebar_position: 5
 # MCSM面板介绍
 
 
-MCSManager是一个开源、分布式、轻量级、一键开服、支持大部分游戏服务端和控制台程序的管理工具，我们可以用它来一键部署搭建Minecraft我的世界服务器，跟小伙伴们联机。
+[MCSManager](https://www.mcsmanager.com/)是一个开源、分布式、轻量级、一键开服、支持大部分游戏服务端和控制台程序的管理工具，我们可以用它来一键部署搭建Minecraft我的世界服务器，跟小伙伴们联机。
+
+MCSManager GitHub：https://github.com/MCSManager/MCSManager
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240402170501_d2b0b29110077dce013d29342cf49c50.png)
+
 
 ## 新手友好
 

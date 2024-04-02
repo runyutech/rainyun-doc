@@ -16,15 +16,16 @@ sidebar_position: 2
 提高网站排名：有助于提高网站在搜索引擎中的排名。
 
 提高网站的可信度：使用户更信任安全的网站，提高网站的访问量以及交易的成功率。
-:::info
+:::
 
 ## 如何申请SSL证书？
 
-首先进入[域名服务](https://app.rainyun.com/apps/domain/list)界面
+首先进入[免费SSL证书申请页面](https://app.rainyun.com/apps/ssl/list/free-ssl)
 
 然后，在域名列表输入我们的域名 比如 ab.tingyu.icu
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102959_f9d5c16a7f42203f8c195432354a3271.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240401110214_83d0f4b3353e3b8b50ca1742c98d5b55.png)
+
 
 然后进入我们的域名DNS界面，下面以阿里云的为例
 
@@ -41,6 +42,9 @@ sidebar_position: 2
 最后，等一两分钟，再单击一下 “我已完成解析” 这样就成功创建SSL证书了。
 
 ## 如何上传自己的SSL证书？
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240401110241_d3cb06c2db3f2e47f8ac95e007c804c6.png)
+
 
 1、单击“上传证书”
 
