@@ -1,0 +1,10 @@
+{
+  "position": 1,
+  "label": "使用技巧",
+  "className": "icon-tips",
+  "link": {
+    "type": "generated-index",
+    "description": "使用技巧",
+    "slug": "/guide/category/tips"
+  }
+}
