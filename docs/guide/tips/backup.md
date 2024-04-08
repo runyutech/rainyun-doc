@@ -54,3 +54,12 @@
 :::tip
 如果机器上nat机器，需要设置nat端口映射将5244映射到任意公网端口然后使用，http:// nat地址:端口访问
 :::
+
+
+## 宝塔一键迁移
+
+迁移教程可以参考宝塔论坛：https://www.bt.cn/bbs/thread-33070-1-1.html
+
+##  1Panel备份
+
+备份以及转移教程可以参考1panel论坛：https://1panel.cn/docs/user_manual/websites/website_backup
