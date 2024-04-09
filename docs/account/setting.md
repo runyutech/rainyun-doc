@@ -9,16 +9,7 @@ sidebar_position: 3
 
 如果您需要查看雨云用户ID，修改用户名等操作，可以在[个人信息](https://app.rainyun.com/account/settings)页面进行操作。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701675972_3cb9ca14f5d7cc59eeab9e9db3a0ce01)
-
-1. [基本信息](#基本信息)
-2. [修改密码](#修改密码)
-3. [绑定邮箱&手机号](#绑定邮箱手机号)
-4. [绑定微信&QQ](#绑定微信qq)
-5. [绑定支付宝](#绑定支付宝)
-6. [实名认证](#实名认证)
-7. [API密钥](#api密钥)
-
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409142306_f4bc810913bb9fc65eb1b019bddc23bb.png)
 
 
 ## 基本信息
@@ -44,12 +35,13 @@ sidebar_position: 3
 
 ## 绑定邮箱&手机号
 
-在这里可以绑定您的邮箱和手机号，绑定后可以使用邮箱或者手机号登录雨云。
+1. 首先我们来到[账号设置页面](https://app.rainyun.com/account/settings),在左侧找到**绑定邮箱&手机号**，点击。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701676901_3886e7cb3b3b6e41c886ec9b4a6f78b3)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240408172418_818a3d518469e5a9a9e0e1da04059e9d.png)
 
-如果您未绑定邮箱或者手机号，在对应的输入框输入您需要绑定的信息，然后点击按钮，根据提示操作即可。<br/>
-如果您已经绑定了邮箱或者手机号,绑定后**无法自行修改**，如需要修改请联系客服。
+2. 在这里，可以选择输入**常用的邮箱或者手机号**，点击绑定，将**获取到的验证码**输入后点击**确认**即可完成绑定。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240408172725_b981c069ae2819d1f5fa95ddba0dbcb1.png)
 
 
 ## 绑定微信&QQ
@@ -69,28 +61,50 @@ sidebar_position: 3
 
 如果需要绑定支付宝，按步骤填入您的信息，点击绑定即可。
 
-## 实名认证
-根据相关政策法规规定，购买云服务必须要进行实名认证，否则无法购买云服务。<br/>
-雨云采用支付宝身份验证接口，严格保密您的数据且不会泄露给第三方。<br/>
-我们可以在[账号设置页面](https://app.rainyun.com/account/settings)的左侧找到**实名认证**。
-
-1. 点击**实名认证**，输入您的真实姓名和身份证号码，点击**开始实名**，打开支付宝APP，扫码二维码。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701326468_c9cc5f08fdc7d8eeed1ad98b2377f1f9)
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701326881_0c2ccf817b66147fa9a2cc0c51255c9d)
-
-2. 支付宝扫描二维码后，点击同意协议并认证，完成相应操作后即可完成实名
-
-   ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701327376_9279f041f94ee4ddb01f135358137853)
-
-3. 实名认证完成后,返回页面即可查询状态。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701327587_5a01150564fa9387a7d5718b2a190cfd)
-
-
 ## API密钥
 
 如果您需要使用我们的[API接口](https://apifox.com/apidoc/shared-a4595cc8-44c5-4678-a2a3-eed7738dab03/api-69942942)，需要在此处获取密钥。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701678689_2e35b100aa033acaca0e6fbfe50208e7)
+
+## 解除绑定
+
+如果已经绑定了手机号/邮箱，需要解除绑定，可以在[账号设置](https://app.rainyun.com/account/settings)页面自行操作，点击解绑后按提示操作即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409141928_41610abc4208347cdeaceda16773e44c.png)
+
+
+## 二次验证
+
+为了您的账户安全，您可以在账号设置页面，点击开启二次验证。开启之后每次执行敏感操作都会需要验证您的身份哦。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240305142447_e94170b1e6783590a2486396f5a4b55a.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409142706_9906a04ab2b23d67f6f260d8dea5d381.png)
+
+
+## 动态令牌
+
+除了邮箱/手机号外，动态令牌也能很好的保护您的账号,在[账号设置](https://app.rainyun.com/account/settings)页面点击账号密码与令牌，点击绑定即可。
+
+安卓下载地址(Google Play)：
+[Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator&hl=zh_TW&gl=US)
+| [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=zh_TW&gl=US)
+
+Apple下载：
+[Microsoft Authenticator](https://apps.apple.com/cn/app/microsoft-authenticator/id983156458) |
+[Google Authenticator(大陆未上架)](https://apps.apple.com/us/app/google-authenticator/id388497605)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409141028_dc47f71c2586d19bc43e2152d8efdd23.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409140822_2867b9b7666983a7617430464c21ea4d.png)
+
+
+可以使用Google Authenticator, Microsoft Authenticator,1Password 等扫码，扫码后进行二次确认即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409141318_fa2dde4a69e9b8228e42bf39ffcecc36.jpeg)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409141542_f70c08c4e239cebaeb46486a2e302f46.jpeg)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409141621_643c4819c6a4a1687d53e046053f082b.png)
+
