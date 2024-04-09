@@ -4,6 +4,8 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const currentYear = new Date().toJSON().substring(0, 4)
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: '雨云百科',
@@ -168,7 +170,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-2023 润雨云® All Rights Reserved.<br> 
+                copyright: `广州润雨科技有限公司 版权所有 Copyright © 2018-${currentYear} 润雨云® All Rights Reserved.<br> 
         <a style="color:gray;" href="https://beian.miit.gov.cn/">
           <img style="height:14px" src="https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701157590_2b0fefb17fb634dae7aa04ac94a2d9cb"/> 粤ICP备19052839号
         </a>
