@@ -5,7 +5,7 @@ sidebar_position: 4
 ---
 如果您需要充值余额到雨云账户上，或者查看您的消费记录，都可以在这里找到。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701423282_c680b503f11a4e0a45b10a9dc632c22a)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409143206_9c534c8126729a4b4f409496835a5db6.png)
 
 ## [充值中心](https://app.rainyun.com/expense/pay)
 
@@ -13,7 +13,7 @@ sidebar_position: 4
 
 目前只支持微信，支付宝支付，如果使用国际借记卡/信用卡的话建议使用微信支付，单次付款200元以上微信需要收取手续费。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701424343_c5eb1074d46a8d90d918a11946224007)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409143335_b2028c531e41346ab158a17aeb2fa594.png)
 
 在左侧余额栏，您可以查到目前可用余额，在雨云上购买任何服务都可以使用余额进行支付。<br/>
 

@@ -19,7 +19,7 @@ Apple Store国区未上架
 
 ## 网络连通性测试
 
-[ping.pe(全球多地Ping)](https://ping.pe/)
+[ping.pe(全球多地测试)](https://ping.pe/)
 
 [dns查询](https://ipw.cn/dns/)
 
