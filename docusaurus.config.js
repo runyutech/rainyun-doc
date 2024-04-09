@@ -120,7 +120,7 @@ const config = {
                         items: [
                             {
                                 label: '雨云官网',
-                                href: '/',
+                                href: 'https://www.rainyun.com',
                             },
                             {
                                 label: '售前咨询',
