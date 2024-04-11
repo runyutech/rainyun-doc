@@ -1,7 +1,10 @@
 # 1panel面板
 
 ## [1panel面板](https://1panel.cn/docs/)是什么？
-[1panel面板](https://1panel.cn/docs/) Linux 服务器运维管理面板。
+[1panel面板](https://1panel.cn/docs/) 开源，现代化 新一代的 Linux 服务器运维管理面板
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409150826_5cc21e45cd825a2ee162144f829b9a92.png)
+
 
 ## 产品优势
 

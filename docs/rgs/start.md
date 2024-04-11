@@ -15,11 +15,12 @@ sidebar_position: 2
 
 ### 选择VPS
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219155502_2a0083613b3dbb803f36484b5d176747.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409152413_a1b7f2128090d28ebb9876a91904e3e7.png)
+
 
 ### 选择MCSM面板
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219160313_dfaf0c1fc7f7c9eae0bc92408c9c8ad0.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409152544_3ecb913f5deb3b5923ad833f9eea28f0.png)
 
 ## 三、测试访问
 

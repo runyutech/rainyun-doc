@@ -34,8 +34,7 @@ sidebar_position: 4
 
 这里提供服务器的基本信息，包括服务器的IP地址，服务器的CPU、内存、硬盘信息等。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701937114_befe187f56277471c822191918972c57)                       |
-
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701937114_befe187f56277471c822191918972c57)
 
 ### IP、域名设置
 

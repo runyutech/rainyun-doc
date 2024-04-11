@@ -19,7 +19,8 @@ sidebar_position: 5
 ## 续费套餐
 如需续费实例，可以前往[游戏云](https://app.rainyun.com/apps/rgs/list)页面，在左侧找到需要续费的实例，点击管理，页面跳转后点击续费，按照自己的需求选择下单即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219164410_2491e2c5fd32b3933ac6bde4d27b85fd.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409152713_32610804cae4a08d50d7673afabe5a75.png)
+
 
 ## 退款
 

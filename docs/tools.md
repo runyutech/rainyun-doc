@@ -61,3 +61,12 @@ Apple Store国区未上架
 
 [xshell](https://www.xshell.com/zh/xshell/)
 
+## 游戏云相关依赖
+
+[Microsoft Visual C++ Redistributable](https://microsoft-visual-c-plus-plus.en.uptodown.com/windows)
+
+[DirectX修复工具](https://soft.3dmgame.com/down/148077.html)
+
+[Xbox手柄驱动](https://xbox-360-controller-for-windows.en.lo4d.com/download)
+
+[远程虚拟手柄驱动](https://github.com/nefarius/ViGEmBus/releases/tag/setup-v1.17.333)
