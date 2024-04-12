@@ -39,6 +39,20 @@ Apple Store国区未上架
 
 ## 远程连接
 
+### 串流
+
+[向日葵远程](https://sunlogin.oray.com/)
+
+[todesk](https://todesk.com/)
+
+[parsec](https://parsec.app/)
+
+[moonlight](https://moonlight-stream.org/)
+
+[Sunshine](https://github.com/LizardByte/Sunshine)
+
+
+
 ### Microsoft Remote Desktop
 
 [Mac OS](https://aka.ms/rdmacbeta)
@@ -53,13 +67,19 @@ Apple Store国区未上架
 
 [tightvnc](https://www.tightvnc.com/download.php)
 
-### ssh
+### SSH
 
 [juicessh](https://juicessh.com/)
 
 [termius](https://www.termius.com/)
 
 [xshell](https://www.xshell.com/zh/xshell/)
+
+### 远程文件管理
+
+[winscp(仅Windows)](https://winscp.net/eng/download.php)
+
+[Forklift(仅Mac OS)](https://binarynights.com/)
 
 ## 游戏云相关依赖
 

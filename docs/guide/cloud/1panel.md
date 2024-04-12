@@ -26,7 +26,7 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240311103038_49c9dd47f8b2aac1c0bbf083de61ddb3.png)
 
-预安装的1panel面板可能没有显示密码，需要您手动连接到服务器重置密码,**修改密码可执行命令：1pctl update password**。
+预安装的1panel面板可能没有显示密码，需要您**手动连接**到服务器重置密码,**修改密码可执行命令：1pctl update password**。
 
 ### 手动安装
 
@@ -49,7 +49,7 @@
 安装成功后，控制台会打印面板访问信息，可通过浏览器访问 1Panel： <br/>
 `http://目标服务器 IP 地址:目标端口/安全入口`<br/>
 如果使用的是云服务器，请至安全组开放目标端口。<br/>
-ssh 登录 1Panel 服务器后，执行 1pctl user-info 命令可获取安全入口（entrance）<br/>
+ssh 登录 1Panel 服务器后，执行`1pctl user-info` 命令可获取安全入口（entrance）<br/>
 
 更多教程可以查询[1panel官方文档](https://1panel.cn/docs/)或者[雨云官方论坛](https://forum.rainyun.com/search?q=1panel)。
 
