@@ -110,7 +110,7 @@ sidebar_position: 99
 > .support<br/>
 > .taipei<br/>
 > .yoga<br/>
-> .comtw<br/>
+> .com.tw<br/>
 > .cloud<br/>
 > .love<br/>
 > .auction<br/>
@@ -132,7 +132,7 @@ sidebar_position: 99
 > .cash<br/>
 > .chat<br/>
 > .coffee<br/>
-> .comhk<br/>
+> .com.hk<br/>
 > .construction<br/>
 > .cool<br/>
 > .digital<br/>
