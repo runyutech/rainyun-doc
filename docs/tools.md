@@ -83,7 +83,7 @@ Apple Store国区未上架
 
 ## 游戏云相关依赖
 
-[Microsoft Visual C++ Redistributable](https://microsoft-visual-c-plus-plus.en.uptodown.com/windows)
+[Microsoft Visual C++ Redistributable](https://learn.microsoft.com/zh-tw/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 [DirectX修复工具](https://soft.3dmgame.com/down/148077.html)
 
