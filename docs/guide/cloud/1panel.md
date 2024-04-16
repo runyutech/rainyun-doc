@@ -1,7 +1,7 @@
-# 1panel面板
+# 1Panel面板
 
-## [1panel面板](https://1panel.cn/docs/)是什么？
-[1panel面板](https://1panel.cn/docs/) 开源，现代化 新一代的 Linux 服务器运维管理面板
+## [1Panel面板](https://1panel.cn/docs/)是什么？
+[1Panel面板](https://1panel.cn/docs/) 开源，现代化 新一代的 Linux 服务器运维管理面板
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409150826_5cc21e45cd825a2ee162144f829b9a92.png)
 
@@ -30,7 +30,7 @@
 
 ### 手动安装
 
-如果您需要自己手动安装1panel面板，可以连接到服务器之后执行下面安装命令，安装完成后会显示面板的登录地址和初始密码，安装脚本请选择对应的系统执行即可。
+如果您需要自己手动安装1Panel面板，可以连接到服务器之后执行下面安装命令，安装完成后会显示面板的登录地址和初始密码，安装脚本请选择对应的系统执行即可。
 
 > **RedHat / CentOS**
 > ```bash
@@ -51,8 +51,8 @@
 如果使用的是云服务器，请至安全组开放目标端口。<br/>
 ssh 登录 1Panel 服务器后，执行`1pctl user-info` 命令可获取安全入口（entrance）<br/>
 
-更多教程可以查询[1panel官方文档](https://1panel.cn/docs/)或者[雨云官方论坛](https://forum.rainyun.com/search?q=1panel)。
+更多教程可以查询[1Panel官方文档](https://1panel.cn/docs/)或者[雨云官方论坛](https://forum.rainyun.com/search?q=1panel)。
 
 ## 常见问题
 
-如果在使用过程中1panel遇到问题，可以到[1panel文档](https://1panel.cn/docs/faq/faq/)查询一下，如果未能解决，可以到1panel官方社区提问。
+如果在使用过程中1panel遇到问题，可以到[1Panel文档](https://1panel.cn/docs/faq/faq/)查询一下，如果未能解决，可以到1Panel官方社区提问。

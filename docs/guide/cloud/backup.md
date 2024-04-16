@@ -62,4 +62,17 @@
 
 ##  1Panel备份
 
-备份以及转移教程可以参考1panel论坛：https://1panel.cn/docs/user_manual/websites/website_backup
+1panel提供了完整的备份还原数据功能。
+
+我们可以到1panel面板中，选择面板设置，快照，创建快照，备份账号与下载地址选择本地磁盘。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240416150608_74069590c727d7c8db9687369ae00cf3.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240416150646_91d1e5b817373f54e41acbf47c3eb5ef.png)
+
+创建好之后我们就可以点击恢复备份，或者文件管理，进入`/opt/1panel/backup`，下载并转移到其他的1panel面板中。
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240416151159_839e0ffb3d3cdf3096045a1569408843.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240416151042_700906002c6a7114f02c8fa92cbb1d9f.png)
+
+或者可以参考官方文档：https://1panel.cn/docs/user_manual/websites/website_backup
