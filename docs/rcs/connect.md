@@ -27,13 +27,17 @@ sidebar_position: 5
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215103254_1d6133e4b7943b038b8c2667a056ea04.png)
 
 #### 使用SSH工具连接
-如果您会使用ssh工具的话，只需要将获取到的账号，密码，ip，端口等信息填入后点击连接即可。
+如果您会使用ssh工具的话，只需要将获取到的账号，密码，ip，端口等信息填入后点击连接即可，这里以[Termius](https://www.termius.com/)为例。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108142815_234f1ce4a3a1eaf70e328bba756774f9.png)
 
 ### 使用VNC连接
 
-如果您的服务器无法通过SSH连接，可以尝试使用VNC连接，我们可以在[云服务器](https://app.rainyun.com/apps/rcs/list)页面找到，点击管理，点击远程连接（VNC），等待加入后，按回车，输入信息即可连接到服务器。
+如果您的服务器无法通过SSH连接，或者您没有合适的ssh工具，可以尝试使用VNC连接，我们可以在[云服务器](https://app.rainyun.com/apps/rcs/list)页面找到，点击管理，点击远程连接（VNC），等待加入后，按回车，输入信息即可连接到服务器。
+
+:::info
+在输入密码时，终端是不会显示输入的，直接输入/粘贴密码即可。
+:::
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215103736_38cd4bb11ab1a02e7d56b007dee31a09.png)
 
@@ -70,7 +74,7 @@ sidebar_position: 5
 
 ### 移动设备连接
 
-在移动端连接Windows服务器主要通过[Microsoft Remote Desktop](https://www.bing.com/search?form=&q=microsoft+remote+desktop)连接。
+在移动端连接Windows服务器主要通过[Microsoft Remote Desktop](https://www.rainyun.com/docs/tools#microsoft-remote-desktop)连接。
 
 在安装好app之后按下面流程操作。
 
@@ -98,14 +102,14 @@ sidebar_position: 5
 除了SSH外，我们可以用VNC的方式连接。
 
 #### 使用访达
-如果您的电脑恰巧也是**macOS**，可以使用**访达**直接连接到远程macOS服务器。
+如果您的电脑也是**Mac OS**，可以使用**访达**直接连接到远程Mac OS服务器。
 
 打开访达，状态栏点击`前往`，`连接服务器`，输入`vnc://IP地址`，点击连接，输入用户名和密码即可连接到服务器。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215111001_afa9e9d4774d1d79f2a4921e0d2558bf.png)
 
 #### 使用VNC工具
-如果您的电脑**不是macOS**，可以使用**VNC工具**连接到远程macOS服务器，这边使用VNC VIEW演示。
+如果您的电脑**不是Mac OS**，可以使用**VNC工具**连接到远程Mac OS服务器，这边使用VNC VIEW演示。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215111740_db170980ffffa19ba8e57c69163a83c6.png)
 
