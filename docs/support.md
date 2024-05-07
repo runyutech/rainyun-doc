@@ -281,6 +281,7 @@ curl https://download.bt.cn/install/update_panel.sh|bash
 ### Windows家庭版无法使用远程连接
 因为Windows版本限制原因，可以使用[rdpwrap](https://github.com/stascorp/rdpwrap)启用远程连接服务.
 
-
+### 机器支持长时间占用带宽吗
+为了保证其他用户体验，目前在售所有机器均不支持长时间占用带宽。
 [itdog]: https://www.itdog.cn/tcping
 [Microsoft Remote Desktop]: https://apps.microsoft.com/detail/9WZDNCRFJ3PS?activetab=pivot%3Aoverviewtab&hl=en-us&gl=US
