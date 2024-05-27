@@ -88,7 +88,6 @@ sidebar_position: 99
 > .wiki<br/>
 > .fyi<br/>
 > .lol<br/>
-> .hk<br/>
 > .comco<br/>
 > .company<br/>
 > .email<br/>
@@ -132,7 +131,6 @@ sidebar_position: 99
 > .cash<br/>
 > .chat<br/>
 > .coffee<br/>
-> .com.hk<br/>
 > .construction<br/>
 > .cool<br/>
 > .digital<br/>
