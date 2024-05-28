@@ -105,6 +105,9 @@ MCSManager GitHub：https://github.com/MCSManager/MCSManager
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163918_c4119ba0134d291b241b1eb907d49205.png)
 
+除了mcsm自带的文件管理外，我们还支持使用SFTP协议进行文件管理，可以使用`FileZilla`等软件进行连接。
+
+
 :::tip
 上传的压缩包需要是`ZIP格式`才可以在线解压。
 :::
