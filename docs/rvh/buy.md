@@ -25,7 +25,7 @@ sidebar_position: 3
 
 ## EP还是宝塔
 
-EP和宝塔的区别请见：[EP主机和宝塔主机](./#ep主机与宝塔主机)
+EP和宝塔的区别请见：[EP主机和宝塔主机](/rvh/buy#ep还是宝塔)
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102845_ceeacc95862c287c7d93c43963f63e0e.png)
 

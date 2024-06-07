@@ -53,13 +53,17 @@ id: 乔尔加速器使用教程与常见问题解决
 可能被Windows Defender误报删除了。
 
 #### 解决方法
-1. **按下win键搜索病毒，打开病毒与威胁防护**
+
+**1. 按下win键搜索病毒，打开病毒与威胁防护**  
   ![](https://cn-sy1.rains3.com/rainyun-assets/2024/06/79f7d8d7e414a44be5d5c7aa6e1a968b.png)
-2. **点击允许的威胁**
-  ![](https://cn-sy1.rains3.com/rainyun-assets/2024/06/b417a29c44780e915b3f49607c6fedc0.png)
-3. **找到对应的条目**
+
+**2. 点击允许的威胁**  
+   ![](https://cn-sy1.rains3.com/rainyun-assets/2024/06/b417a29c44780e915b3f49607c6fedc0.png)
+
+**3. 找到对应的条目**  
   ![](https://cn-sy1.rains3.com/rainyun-assets/2024/06/01a5fa3149059d1b1c7ebfe7cfabe8ed.png)
-4. **点击操作->还原**
+
+**4. 点击操作->还原**
 
 ## 👇🏻 下载与安装
 
