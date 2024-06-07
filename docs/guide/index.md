@@ -15,7 +15,7 @@ sidebar_label: 雨云指南
 
 我们为你准备了一系列详细的教程，帮助你更好地使用我们的产品和服务。你准备好开始你的云计算之旅了吗？点击下面的链接开始吧：
 
-- [云服务器](/docs/guide/cloud/BT)
+- [云服务器](/docs/guide/cloud/bt)
 - [游戏云](/docs/guide/games/terraria)
 - [Palworld](/docs/guide/palworld/config)
 - [雾锁王国](/docs/guide/Enshrouded/install)
