@@ -19,7 +19,7 @@ sidebar_position: 4
 
 ### Visa/Master Card
 
-使用国际卡付款可以在微信绑定该卡后直接扫描微信二维码付款，超过200元微信将会收取服务费。
+使用国际卡付款可以在微信/支付宝绑定该卡后直接扫描对应的二维码付款，**超过200元支付方将会收取服务费**。
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704164151_3196a0747bf7536a52997f51e10f3458.png)
 
 
@@ -45,27 +45,17 @@ sidebar_position: 4
 
 ## [消费记录](https://app.rainyun.com/logs/cost)
 
-在这里，您可以查看到您的消费记录，里面包含了所有在雨云上的消费记录。
+在[这里(点击打开)](https://app.rainyun.com/logs/cost)，您可以查看到您的消费记录，里面包含了所有在雨云上的消费记录。
 
-| 类别 | ID    | 时间    | 产品       | 产品ID  | 金额    |
-|:---|:------|:------|:---------|:------|:------|
-| 说明 | 记录的ID | 消费的时间 | 您购买的产品名称 | 产品的ID | 消费的金额 |
-
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701425033_388a94b6c84d9648d2a0caf4272829d6)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704165329_ee42356a289f86b014690b7a15a56a43.png)
 
 ### [退订记录](https://app.rainyun.com/logs/unsub)
 
-如需查看[退订记录](https://app.rainyun.com/logs/unsub)，可以点击左上角进入。
+在[这里(点击打开)](https://app.rainyun.com/logs/unsub)，可以点击左上角进入。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701425434_31a516b694cdd9843ad864fae01b84a7)
 
-|类别|ID|时间|产品|产品ID|金额|
-|:---|:------|:------|:---------|:------|:------|
-|说明|记录的ID|退订的时间|您退订的产品名称|产品的ID|退订的金额|
-
-
 ## [充值记录](https://app.rainyun.com/logs/pay)
-在这里，您可以查看到您的充值记录，里面包含了所有在雨云上的充值记录。
+在[这里(点击打开)](https://app.rainyun.com/logs/pay)，您可以查看到您的充值记录，里面包含了所有在雨云上的充值记录。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701425562_0b31300bb7b177747ed08773e8365d24)
