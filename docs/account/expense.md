@@ -11,16 +11,36 @@ sidebar_position: 4
 
 您在这里可以进行充值操作，您可以在后续的购买中使用余额进行支付。
 
-目前只支持微信，支付宝支付，如果使用国际借记卡/信用卡的话建议使用微信支付，单次付款200元以上微信需要收取手续费。
+目前只支持**支付宝**，**微信**，**云闪付**，**WeChatPAY HK**，**Alipay HK**充值，最低**0.01**元起充，如果使用**国际借记卡/信用卡**的话建议**使用微信支付**，单次付款200元以上微信需要收取手续费。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/04/20240409143335_b2028c531e41346ab158a17aeb2fa594.png)
 
 在左侧余额栏，您可以查到目前可用余额，在雨云上购买任何服务都可以使用余额进行支付。<br/>
 
-在右侧您可以为您的雨云账号充值，我们支持**支付宝**，**微信**充值，最低**0.01**元起充。
-您也可以选择固定金额进行充值。确定好您的支付方式与金额后，点击立即充值，进行支付，即可完成充值操作。
+### Visa/Master Card
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240320120816_6a8f0ce9a439a4968ad287ce059e1746.jpg)
+使用国际卡付款可以在微信绑定该卡后直接扫描微信二维码付款，超过200元微信将会收取服务费。
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704164151_3196a0747bf7536a52997f51e10f3458.png)
+
+
+### 云闪付付款
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704164322_0635744f24ef6e7ae5651c7cc698587b.png)
+
+如需**使用云闪付付款**，需要点击**其他充值方式**，然后选择任一收款方式，付款后**提交工单并提交你的付款订单截图**由人工客服为你充值。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704163739_85e5f32b42a9505687192f9d75014aaa.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704163837_d957826a096e45a983f25e93bf8e9436.png)
+
+### WeChatPAY HK
+如果你是香港客户使用WeChatPAY HK支付，可以直接使用微信支付，然后微信会自动转换成HKD支付。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704163950_6e2c5cf9e076b3d082b148e517099dd4.png)
+
+### Alipay HK
+如果你是香港客户使用Alipay HK支付，可以直接使用支付宝支付，然后支付宝会自动转换成HKD支付。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704164019_2d438eb5294b67f29c0594d00f4a3139.png)
 
 
 ## [消费记录](https://app.rainyun.com/logs/cost)
