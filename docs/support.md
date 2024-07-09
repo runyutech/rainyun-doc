@@ -140,16 +140,42 @@ flush privileges;
 右键任务栏右边，屏幕右下角的网络图标，打开网络与共享中心->更改适配器选项，找到以太网卡右键配置，IPv4配置，更改DNS服务器为8.8.8.8即可
 
 ### 硬盘扩容后，空间还是显示原来的大小
-如果扩容后硬盘还是与原来的大小一样，可以参考下方教程解决。
 
-#### Windows:
+#### Windows
+
+:::tps
+如果是新加的硬盘需要右键硬盘然后点击联机
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709113353_145cc45eafba9a1f969135bcdf23de67.png)
+:::
+
+##### 扩容硬盘
 
 进入**计算机管理**，磁盘管理，找到要扩展的分区，右键扩展卷，按提示完成操作即可。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240229102129_2a3d92054b6611a0a1f0654d764608ef.png)
 
+##### 增加一个分区
 
-#### CentOS 7 / CentOS 8 / RockyLinux 8 / RockyLinux 9:
+如果需要新**增加一个分区**，可以右键未分配的空间，新建卷，按提示完成操作即可。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709111930_693df968c0ad4a9db02592d8fe9685c1.png)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709112428_91f9f447ab8048f3cd4fae9954229db4.png)
+
+#### Linux
+如果是Linux需要操作，因为各个系统不同，可以参考以下步骤：
+
+##### 扩容硬盘
+**使用 `fdisk -l `命令根据大小及其他信息查看要扩容的云盘**，本例子中要扩容的分区为/dev/sda 1
+
+输入命令请确保命令正确，部分命令需要输入空格部分不需要
+
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709114226_b0d9e5ddf3524ad1553054c827bad4a0.png)
+
+
+###### CentOS 7 / CentOS 8 / RockyLinux 8 / RockyLinux 9:
 
 SSH进入服务器后执行以下命令：
 
@@ -157,38 +183,57 @@ SSH进入服务器后执行以下命令：
 yum install cloud-utils-growpart gdisk xfsprogs e2fsprogs
 ```
 
-使用 `fdisk -l `命令根据大小及其他信息查看要扩容的云盘，本例子中要扩容的分区为/dev/sda·1
-
 ``` shell
 growpart /dev/sda 1
 ```
-##### centos 7 使用
+###### centos 7 使用
 ``` shell
 resize2fs /dev/sda1
 ```
-##### centos 8 / rockylinux 8 / rockylinux 9 使用
+###### centos 8 / rockylinux 8 / rockylinux 9 使用
+
 ``` shell
 xfsprogs  /dev/sda1 或者 xfs_growfs /dev/sda1
 ```
 
-#### Ubuntu/Debian：
+##### Ubuntu/Debian：
 
 ```shell
 apt install cloud-guest-utils
 apt install xfsprogs
-```
-使用 `fdisk -l `命令根据大小及其他信息查看要扩容的云盘，本例子中要扩容的分区为/dev/sda1
 
-执行命令：
-```shell
 growpart /dev/sda 1
 resize2fs /dev/sda1
 ```
-
 :::tip
 注意：如果您把系统设置成了中文，在运行growpart命令之前必须先运行：LANG=en_US.UTF-8
 ，否则会报错如： unexpected output in sfdisk --version
+
+由于win硬盘格式ntfs,win的盘换系统到ubuntu后,可能会产生一定识别问题
 :::
+
+#### 新增硬盘并挂载
+
+**使用 `fdisk -l `命令根据大小及其他信息查看要新增的云盘**，本例子中要新建的加的硬盘为 /dev/sdb
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709145058_5ffbab9e30555f143144d1c04f1fc699.png)
+
+1. 输入命令`fdisk /dev/sdb`
+2. 到这个页面后输入**N**，然后所有全部选项按回车默认即可
+   ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709145556_0441d3f0476eb0c215c517c5a4d428d4.png)
+   3.回到上图界面后输入**W**
+
+操作完成后输入`fdisk -l`即可看到新加的设备，
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709150053_15bbbe3246ae3e9e0ed6bd27b6189a05.png)
+
+然后输入`mkfs.xfs /dev/sdb1`格式化。
+
+格式化之后就可以使用命令`mount 硬盘 挂载的路径`挂载硬盘到指定的路径
+
+如需机器开机默认挂载可以修改**/etc/fstab**文件
+
+
 
 ### Windows系统无法远程链接
 #### 如果您的主机有公网IP：
