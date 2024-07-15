@@ -79,7 +79,7 @@ const config = {
                     src: 'img/img_3.png',
                 },
                 items: [
-                    {to:'/docs',label: '📚 文档', position: 'left'},
+                    {to:'/docs',label: '📚 文档中心', position: 'left'},
                     {to:'/docs/guide',label: '📖 指南', position: 'left'},
                     {to: '/blog', label: '🧬 技术博客', position: 'left'},
                     {to: 'https://github.com/runyutech/rainyun-doc', label: '🐙 GitHub ', position: 'left'},

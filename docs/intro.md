@@ -4,6 +4,8 @@ slug: /
 id: intro
 sidebar_position: 0
 sidebar_label: 概述
+toc_min_heading_level: 2
+toc_max_heading_level: 2
 ---
 
 # 概述

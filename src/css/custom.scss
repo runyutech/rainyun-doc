@@ -112,6 +112,15 @@ ul > .menu__list-item{
   border-left: 1px solid #000;
 }
 
+.theme-doc-sidebar-item-link-level-1 > .menu__link{
+  padding: 10px 12px;
+  border-radius: 0;
+  margin-left: 0.6rem;
+}
+.theme-doc-sidebar-item-link-level-1 > .menu__link--active{
+  border-left: 1px solid #000;
+}
+
 .theme-doc-sidebar-item-link-level-3 > .menu__link{
   padding: 10px 12px;
   border-radius: 0;
