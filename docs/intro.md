@@ -24,11 +24,11 @@ toc_max_heading_level: 2
 
 雨云都可以满足您多样的需求，并同时享受超高速和超实惠的绝佳体验。
 
-* [虚拟主机](/docs/rvh)
-* [云服务器](/docs/rcs)
-* [游戏云服务器](/docs/rgs)
-* [域名服务](/docs/domain/introduce)
-* [对象存储](/docs/ros/introduce)
+* [虚拟主机](/docs/category/rvh)
+* [云服务器](/docs/category/rcs)
+* [游戏云服务器](/docs/category/rgs)
+* [域名服务](/docs/domain/buy/introduce)
+* [对象存储](/docs/category/domain)
 * 云盾CDN(暂未上线)
 
 ## 如何选择

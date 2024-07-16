@@ -3,7 +3,7 @@ title: 购买指南
 description: 不知道买什么套餐?看这里就好
 sidebar_position: 2
 ---
-如果您不太了解我们的云服务器产品，建议先查看[产品介绍](/docs/rcs/)。
+如果您不太了解我们的云服务器产品，建议先查看[产品介绍](/docs/rcs/buy/rcs)。
 
 ## 区域对比
 

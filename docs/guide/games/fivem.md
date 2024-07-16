@@ -5,7 +5,7 @@
 [雨云游戏云VPS服务器(点击进入购买)](https://app.rainyun.com/apps/rgs/buy)
 
 ## 1.远程连接到服务器
-连接到Windows服务器可以参考[连接到游戏云服务器](/docs/rgs/connect)。
+连接到Windows服务器可以参考[连接到游戏云服务器](/docs/rgs/detail/connect)。
 
 ## 2.安装环境
 

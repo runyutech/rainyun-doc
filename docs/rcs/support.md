@@ -180,7 +180,7 @@ chmod -R 777 /www/wwwroot/网站目录
 ```
 
 ### 1panel获取不到密码
-如图这种情况可以SSH连接到服务器输入`1pctl update password`更新密码。连接服务器方式可以看[这里](/docs/rcs/connect)。
+如图这种情况可以SSH连接到服务器输入`1pctl update password`更新密码。连接服务器方式可以看[这里](/docs/rcs/detail/connect)。
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240118144312_8eba0107aace2bbef2db883044fb01ef.png)
 
 ### 宝塔无法获取ssl证书

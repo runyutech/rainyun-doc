@@ -13,7 +13,7 @@ sidebar_position: 4
 虚拟主机均采用包年包月预付费(先付后用)计费，具体价格下文所示。
 
 :::info
-套餐内免费版机器需使用[积分兑换](/docs/reward/points).
+套餐内免费版机器需使用[积分兑换](/docs/account/reward/shop).
 :::
 
 * [宝塔面板](#宝塔面板)
