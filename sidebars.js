@@ -20,7 +20,7 @@ const sidebars = {
         'intro',
         {
             "type": "link",
-            "label": "账号相关",
+            "label": "用户相关",
             "className": "icon-account",
             "href": "/docs/category/account",
         },
