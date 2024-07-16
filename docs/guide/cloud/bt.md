@@ -33,7 +33,7 @@ if [ -f /usr/bin/curl ];then curl -sSO https://download.bt.cn/install/install_pa
 
 复制脚本后，连接到服务器，运行后访问给出的连接地址，输入账号密码，然后绑定宝塔面板即可。
 
-连接服务器可以参考[连接服务器](/docs/rcs/connect).
+连接服务器可以参考[连接服务器](/docs/rcs/detail/connect).
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240109155553_76318aac553d369b45be124fb92b840f.png)
 

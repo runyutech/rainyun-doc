@@ -16,7 +16,7 @@
 
 ## 步骤二：连接到服务器
 
-连接服务器教程可以参考[Windows服务器连接教程](/docs/rgs/connect#连接到windows服务器)。
+连接服务器教程可以参考[Windows服务器连接教程](/docs/rgs/detail/connect#连接到windows服务器)。
 
 ## 步骤三：下载雾锁王国服务器
 

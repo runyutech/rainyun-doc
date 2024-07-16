@@ -18,7 +18,7 @@ LinuxGSM是一个开源的脚本，可以在Linux上部署和管理游戏服务�
 
 ## 安装LinuxGSM
 
-我们需要连接到服务器之后才可以安装LinuxGSM。你可以使用SSH工具连接到服务器，详细连接方法以及连接工具可以参考[连接到游戏云服务器](/docs/rgs/connect)。
+我们需要连接到服务器之后才可以安装LinuxGSM。你可以使用SSH工具连接到服务器，详细连接方法以及连接工具可以参考[连接到游戏云服务器](/docs/rgs/detail/connect)。
 
 连接到服务器之后，我们需要安装一些依赖，以便LinuxGSM可以正常工作。安装的依赖需要访问[LinuxGSM支持游戏列表](https://linuxgsm.com/servers/)，
 找到需要部署的游戏服务器，点击进入，然后点击`Dependencies`，选择自己的系统并将命令复制到服务器执行。

@@ -36,7 +36,7 @@
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701155248_e638ef1e2a7b5ac34f7f0c64b3f8f94e)
 
 :::tip
-密钥信息可以在信息与监控找到，详细可以看[凭证信息](/docs/ros/manage#信息监控)
+密钥信息可以在信息与监控找到，详细可以看[凭证信息](/docs/ros/detail/manage#信息监控)
 :::
 
 如果链接成功，资源管理器，并且可以看到存储桶里面的文件。

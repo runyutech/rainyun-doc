@@ -82,7 +82,7 @@ sidebar_position: 4
 | 已用流量 | 存储桶已用流量，统计范围上次重置期到现在     | 1.00GB   |
 
 :::tip
-如果列表为空，可以参考[快速开始](/docs/ros/quickstart)创建存储桶。
+如果列表为空，可以参考[快速开始](/docs/ros/buy/quickstart)创建存储桶。
 :::
 
 ### 存储桶详情
