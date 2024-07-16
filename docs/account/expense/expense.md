@@ -1,5 +1,5 @@
 ---
-title: 费用中心
+title: 充值中心
 description: 跟钱有关系的都在这里
 sidebar_position: 4
 ---
@@ -41,19 +41,6 @@ sidebar_position: 4
 如果你是香港客户使用Alipay HK支付，可以直接使用支付宝支付，然后支付宝会自动转换成HKD支付。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704164019_2d438eb5294b67f29c0594d00f4a3139.png)
-
-
-## [消费记录](https://app.rainyun.com/logs/cost)
-
-在[这里(点击打开)](https://app.rainyun.com/logs/cost)，您可以查看到您的消费记录，里面包含了所有在雨云上的消费记录。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240704165329_ee42356a289f86b014690b7a15a56a43.png)
-
-### [退订记录](https://app.rainyun.com/logs/unsub)
-
-在[这里(点击打开)](https://app.rainyun.com/logs/unsub)，可以点击左上角进入。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701425434_31a516b694cdd9843ad864fae01b84a7)
 
 ## [充值记录](https://app.rainyun.com/logs/pay)
 在[这里(点击打开)](https://app.rainyun.com/logs/pay)，您可以查看到您的充值记录，里面包含了所有在雨云上的充值记录。
