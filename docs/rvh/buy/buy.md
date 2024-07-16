@@ -126,6 +126,6 @@ EP和宝塔的区别请见：[EP主机和宝塔主机](/docs/rvh/buy/rvh#ep还�
 
 
 [购买虚拟主机]: https://app.rainyun.com/apps/rvh/buy
-[7天无理由退订退款]: /docs/rvh/buy/plan
+[7天无理由退订退款]: /docs/account/expense/refund
 [积分商城]:https://app.rainyun.com/account/reward/store
-[弹性补差价升级]: /docs/rvh/buy/plan
+[弹性补差价升级]: /docs/rvh/detail/plan
