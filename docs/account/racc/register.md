@@ -1,5 +1,5 @@
 ---
-title: 注册
+title: 账号注册
 description: 快速在雨云注册账号
 sidebar_position: 1
 ---
