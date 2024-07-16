@@ -1,5 +1,5 @@
 ---
-title: 选购指南
+title: 购买指南
 description: 不知道买什么套餐?看这里就好
 sidebar_position: 2
 ---
