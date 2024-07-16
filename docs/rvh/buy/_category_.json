@@ -1,8 +1,7 @@
 {
-  "label": "用户相关",
+  "label": "购买指南",
   "position": 1,
   "link": {
     "type": "generated-index"
-  },
-  "className": "icon-account"
+  }
 }

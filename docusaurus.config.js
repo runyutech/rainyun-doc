@@ -137,15 +137,15 @@ const config = {
                         items: [
                             {
                                 label: '虚拟主机',
-                                href: '/docs/rcs',
+                                href: '/docs/category/rvh',
                             },
                             {
                                 label: '云服务器',
-                                href: '/docs/rvh',
+                                href: '/docs/category/rcs',
                             },
                             {
                                 label: '游戏云（MC服）',
-                                href: '/docs/rgs',
+                                href: '/docs/category/rgs',
                             },
                             // {
                             //   label: '高防CDN',

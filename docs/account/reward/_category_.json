@@ -1,9 +1,8 @@
 {
   "label": "积分与推广",
-  "position": 4,
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "查看和积分、推广相关的一切指南。"
-  },
-  "className": "icon-reward"
+  }
 }
