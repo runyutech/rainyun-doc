@@ -36,12 +36,6 @@ sidebar_position: 4
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701937114_befe187f56277471c822191918972c57)
 
-### IP、域名设置
-
-在这里可以设置服务器端口映射，添加修改更换公网IP，绑定域名等。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701661988_3f0b4e2e213d316cacfc74053f87aa69)
-
 ### 性能监控
 
 在这里可以查看服务器的实时性能信息，包括CPU、内存、硬盘、网络等。<br/>

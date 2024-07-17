@@ -40,6 +40,10 @@ sidebar_position: 10
 您可以在[退订记录]处查看退订历史。
 
 退订完成之后，如果您需要退回您在雨云账户内的款项，可以在[页面(点击打开)](https://app.rainyun.com/expense/other)进行订单退款，操作后余额会原路退回到充值渠道。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240717093926_c54cee79e00fc445c2aee01b3fff3ca3.png)
+
+
 :::info
 为了资金安全，雨云仅支持退款到原充值渠道。
 :::

@@ -5,6 +5,9 @@ sidebar_position: 98
 slug: support
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 这里整理了许多用户常见的问题，如果您在使用我们的产品时遇到困难，建议您首先在这里查找可能的解决方法。您可以方便地使用**搜索功能**`CTRL+F、Command+F`来寻找特定问题的解决方案。如果在此处**找不到**您遇到的问题，可以根据您的产品类型**进入相应的二级类目**并尝试找到解决方案。如果问题仍未解决，请发工单联系我们，我们将协助解决您的问题。
 
 ### 我的服务器访问不了宝塔面板 
@@ -174,29 +177,35 @@ flush privileges;
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709114226_b0d9e5ddf3524ad1553054c827bad4a0.png)
 
-
-###### CentOS 7 / CentOS 8 / RockyLinux 8 / RockyLinux 9:
-
+<Tabs>
+ <TabItem value="CentOS 7" label="CentOS 7" default>
 SSH进入服务器后执行以下命令：
 
 ```shell
 yum install cloud-utils-growpart gdisk xfsprogs e2fsprogs
-```
 
-``` shell
 growpart /dev/sda 1
-```
-###### centos 7 使用
-``` shell
+
 resize2fs /dev/sda1
 ```
-###### centos 8 / rockylinux 8 / rockylinux 9 使用
 
-``` shell
+</TabItem>
+
+ <TabItem value="centos 8 / rockylinux 8 / rockylinux 9" label="centos 8 / rockylinux 8 / rockylinux 9" default>
+SSH进入服务器后执行以下命令：
+
+```shell
+yum install cloud-utils-growpart gdisk xfsprogs e2fsprogs
+
+growpart /dev/sda 1
+
 xfsprogs  /dev/sda1 或者 xfs_growfs /dev/sda1
 ```
 
-##### Ubuntu/Debian：
+</TabItem>
+
+ <TabItem value="Ubuntu/Debian" label="Ubuntu/Debian" default>
+SSH进入服务器后执行以下命令：
 
 ```shell
 apt install cloud-guest-utils
@@ -205,6 +214,10 @@ apt install xfsprogs
 growpart /dev/sda 1
 resize2fs /dev/sda1
 ```
+
+</TabItem>
+
+</Tabs>
 :::tip
 注意：如果您把系统设置成了中文，在运行growpart命令之前必须先运行：LANG=en_US.UTF-8
 ，否则会报错如： unexpected output in sfdisk --version
