@@ -25,26 +25,54 @@ import TabItem from '@theme/TabItem';
 
 <Tabs>
   <TabItem value="Ubuntu / Debian" label="Ubuntu / Debian" default>
+1. 添加docker软件源
 ```shell
 sudo apt-get update
-sudo apt-get install docker.io
+sudo apt-get install ca-certificates curl
+sudo install -m 0755 -d /etc/apt/keyrings
+sudo curl -fsSL https://mirrors.cloud.tencent.com/docker-ce/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo chmod a+r /etc/apt/keyrings/docker.asc
+echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://mirrors.cloud.tencent.com/docker-ce/linux/ubuntu/ \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
 ```
+2. 安装docker
+```shell
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```
+3. 运行 Docker。
+```shell
+systemctl start docker
+```
+4. 检查安装结果。
+```shell
+docker info
+```
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718110333_f3160f4bbf5e5edb44aa0bc6876e4903.png)
+
   </TabItem>
   <TabItem value="Centos / RockyLinux" label="Centos / RockyLinux">
+1. 添加 Docker 软件源。
 ```shell
-sudo yum install docker
+yum-config-manager --add-repo=https://mirrors.cloud.tencent.com/docker-ce/linux/centos/docker-ce.repo
 ```
+2. 安装 Docker。
+```shell
+yum install -y docker-ce
+```
+3. 运行 Docker。
+```shell
+systemctl start docker
+```
+4. 检查安装结果。
+```shell
+docker info
+```
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718110333_f3160f4bbf5e5edb44aa0bc6876e4903.png)
+
   </TabItem>
 </Tabs>
 
-
-输入指令后，输入Y
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240717111817_4f1d461833beb18580d39bbd37921a0a.png)
-
-等待安装完成后，输入`docker`，如果出现提示即安装完成。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240717113430_ac4a6b81960c215256c2158583d78652.png)
 
 ## 配置Hub镜像
 
