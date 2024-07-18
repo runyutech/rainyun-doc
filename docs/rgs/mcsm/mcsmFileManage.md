@@ -1,6 +1,6 @@
 ---
-title: MCSM文件管理
-description: MCSM文件管理
+title: 文件管理
+description: 文件管理
 sidebar_position: 6
 ---
 

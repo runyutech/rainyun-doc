@@ -1,5 +1,5 @@
 ---
-title: MCSM
+title: mcsm面板
 description: 一键开服
 sidebar_position: 5
 ---
@@ -52,27 +52,31 @@ MCSManager GitHub：https://github.com/MCSManager/MCSManager
 
 进入面板后输入获取到的账号密码，点击登陆即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219162054_f9647977a87bb0c66ecc234007bd4be7.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143257_a26f9bf6b5181817e0e6a0ddb7305c7e.png)
 
-看到一下信息即为登陆成功。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219162207_8f1ddf7c06ffc108d77075f81bcc6857.png)
+看到以下信息即为登陆成功。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143333_5e24f020b6712b9db9dd7aef650eedca.png)
 
 ### 管理服务器
 
 登陆服务器后，点击红色框的管理键
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219162456_4f8127c2ddd127ccf47f12405d8370c8.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143422_69eeb08cb033be4fc7ecded124e97036.png)
+
 
 来到这个界面即可管理您的服务器
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219162905_35df209528e53dd5f65fd8fa3b86cc03.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143705_9915373d2bbb8510b2a8af4f401c882d.png)
+
 
 ### 开启服务器
 
 如果服务器配置一切正常，点击开启实例即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163245_f8b1bb0bd6f82b4a5fa70714140f78ec.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143722_45f58c73c663dbbfa221d823bd445323.png)
+
 
 开启后等待一段时间，如果控制台提示Done等字样即为开启成功
 
@@ -81,16 +85,19 @@ MCSManager GitHub：https://github.com/MCSManager/MCSManager
 ### 关闭服务器
 如果需要关闭服务器，点击关闭实例即可，如果无法关闭，可以使用强制关闭。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163555_b8625aa47c10572dd8fc501063d67996.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143744_bec459e30875f85c2ed6df2b59108bc5.png)
+
 
 ### 服务器配置
 如果需要配置服务器，点击服务端配置文件，找到需要配置的文件直接配置即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163701_f662f40577cac46b67e05446c948207e.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143805_9a8301bb49adad28d17f42122dd80140.png)
+
 
 找到需要配置的文件。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163721_d49e16f86d9d3efc56d15311753fae57.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143829_8a04d390f13c111fdec582549a62be8a.png)
+
 
 
 ### 文件管理
@@ -99,11 +106,13 @@ MCSManager GitHub：https://github.com/MCSManager/MCSManager
 
 点击文件管理，进入服务器文件列表。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163857_101d8b38ca62c90e02194dde30c542ed.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143847_eff6b560c1fa35fe41bf1f8ac1485abc.png)
+
 
 获取到文件之后自行操作即可。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231219163918_c4119ba0134d291b241b1eb907d49205.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143903_cc0d8e4bd10c13ed372b83909015151a.png)
+
 
 除了mcsm自带的文件管理外，我们还支持使用SFTP协议进行文件管理，可以使用`FileZilla`等软件进行连接。
 
