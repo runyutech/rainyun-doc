@@ -85,6 +85,7 @@ sidebar_position: 3
 
 ## 动态令牌
 
-除了邮箱/手机号外，动态令牌也能很好的保护您的账号,在[账号设置](https://app.rainyun.com/account/settings)页面点击账号密码与令牌，点击绑定即可。
+除了邮箱/手机号外，动态令牌也能很好的保护您的账号,在[账号设置](https://app.rainyun.com/account/settings)页面点击**账号密码&令牌**，点击绑定即可。<br/>
+这里有[绑定动态令牌](/docs/account/guide/totp#动态令牌)更详细的说明哦。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240716152319_f4bee1ce527e3627405fcdbcc3ef9271.png)
