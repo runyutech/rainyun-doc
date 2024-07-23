@@ -146,7 +146,7 @@ flush privileges;
 
 #### Windows
 
-:::tps
+:::tip
 如果是新加的硬盘需要右键硬盘然后点击联机
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709113353_145cc45eafba9a1f969135bcdf23de67.png)
@@ -219,8 +219,7 @@ resize2fs /dev/sda1
 
 </Tabs>
 :::tip
-注意：如果您把系统设置成了中文，在运行growpart命令之前必须先运行：LANG=en_US.UTF-8
-，否则会报错如： unexpected output in sfdisk --version
+注意：如果您把系统设置成了中文，在运行growpart命令之前必须先运行：LANG=en_US.UTF-8，否则会报错如： unexpected output in sfdisk --version
 
 由于win硬盘格式ntfs,win的盘换系统到ubuntu后,可能会产生一定识别问题
 :::
