@@ -20,7 +20,7 @@ sidebar_position: 98
 ### 为什么我的会员等级超过100%
 如果您等级目前是2级的话，有可能是您的账号尚未实名，需要实名后才可以升级。
 
-### 怎么原有服务器的时长转移到新服务器上
+### 怎么将原有服务器的时长转移到新服务器上
 雨云支持这样的操作，可访问[迁移页面](https://app.rainyun.com/expense/other)后按以下步骤操作。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/img_1701851501_ae4e6c9544b126072901b6e0c0abb1ce)
