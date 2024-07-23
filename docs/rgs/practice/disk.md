@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 ## Windows
 
-:::tps
+:::tip
 如果是新加的硬盘需要右键硬盘然后点击联机
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240709113353_145cc45eafba9a1f969135bcdf23de67.png)
