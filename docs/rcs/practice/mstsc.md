@@ -1,15 +1,15 @@
 ---
-title: windows系统上传/下载文件到Windows服务器
-description: windows系统上传/下载文件到Windows服务器
+title: Windows系统上传/下载文件到Windows服务器
+description: Windows系统上传/下载文件到Windows服务器
 sidebar_position: 5
 ---
 
-windows服务器系统自带远程桌面服务，用户可以通过mstcs远程连接服务器，从而上传/下载文件。
+Windows服务器系统自带远程桌面服务，用户可以通过mstcs远程连接服务器，从而上传/下载文件。
 
 
 ## Windows系统上传/下载文件到Windows服务器
 
-1. 打开windows远程桌面连接，配置好连接信息
+1. 打开Windows远程桌面连接，配置好连接信息
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718114345_41ac02f72dd33dcd6abc6923f99c7ff8.png)
 

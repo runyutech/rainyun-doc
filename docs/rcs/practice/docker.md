@@ -30,9 +30,9 @@ import TabItem from '@theme/TabItem';
 sudo apt-get update
 sudo apt-get install ca-certificates curl
 sudo install -m 0755 -d /etc/apt/keyrings
-sudo curl -fsSL https://mirrors.cloud.tencent.com/docker-ce/linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
+sudo curl -fsSL https://mirrors.cloud.tencent.com/docker-ce/Linux/ubuntu/gpg -o /etc/apt/keyrings/docker.asc
 sudo chmod a+r /etc/apt/keyrings/docker.asc
-echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://mirrors.cloud.tencent.com/docker-ce/linux/ubuntu/ \
+echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.asc] https://mirrors.cloud.tencent.com/docker-ce/Linux/ubuntu/ \
   $(. /etc/os-release && echo "$VERSION_CODENAME") stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 sudo apt-get update
 ```
@@ -54,7 +54,7 @@ docker info
   <TabItem value="Centos / RockyLinux" label="Centos / RockyLinux">
 1. 添加 Docker 软件源。
 ```shell
-yum-config-manager --add-repo=https://mirrors.cloud.tencent.com/docker-ce/linux/centos/docker-ce.repo
+yum-config-manager --add-repo=https://mirrors.cloud.tencent.com/docker-ce/Linux/centos/docker-ce.repo
 ```
 2. 安装 Docker。
 ```shell

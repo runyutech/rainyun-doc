@@ -27,7 +27,7 @@ import TabItem from '@theme/TabItem';
 该链接可在宝塔内点击跳转数据库管理时获得），假如还是无法访问，请在宝塔软件商店内**升级phpmyadmin**到5.2版本并设置其php版本为7.4
 
 ### 服务器无法远程访问MYSQL
-如果您的机器**没有公网**ip，可以在管理页面中nat端口映射中添加3306端口，然后使用对外地址进行连接。<br/>
+如果您的机器**没有公网**ip，可以在管理页面中NAT端口映射中添加3306端口，然后使用对外地址进行连接。<br/>
 如果您的机器**拥有公网**ip,可以使用[itdog]测试服务器是否可以正常连通，如果无法连通，请检查防火墙规则是否有误，如果有误，请删除防火墙规则，然后重启服务器，等待几分钟后再次测试。<br/>
 
 如果还是无法连接，先检查宝塔面板是否已经放行端口。
@@ -191,7 +191,7 @@ resize2fs /dev/sda1
 
 </TabItem>
 
- <TabItem value="centos 8 / rockylinux 8 / rockylinux 9" label="centos 8 / rockylinux 8 / rockylinux 9" default>
+ <TabItem value="centos 8 / rockyLinux 8 / rockyLinux 9" label="centos 8 / rockyLinux 8 / rockyLinux 9" default>
 SSH进入服务器后执行以下命令：
 
 ```shell

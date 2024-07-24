@@ -4,7 +4,7 @@
 
 ## WindowsGSM是什么
 
-[WindowsGSM](https://windowsgsm.com/)是一个用于管理游戏服务器的强大工具。它提供了一个用户友好的界面，允许您在Windows机器上安装、配置和管理游戏服务器。
+[WindowsGSM](https://Windowsgsm.com/)是一个用于管理游戏服务器的强大工具。它提供了一个用户友好的界面，允许您在Windows机器上安装、配置和管理游戏服务器。
 
 ## 前提准备
 由于是在雨云部署PalWorld服务器，所以你需要有一个雨云账号，并且账号完成实名认证，否则无法使用。详细教程如下：
@@ -19,11 +19,11 @@
 
 ## 步骤二：连接到服务器
 
-连接服务器教程可以参考[Windows服务器连接教程](/docs/rgs/detail/connect#连接到windows服务器)。
+连接服务器教程可以参考[Windows服务器连接教程](/docs/rgs/detail/connect#连接到Windows服务器)。
 
 ## 步骤三：下载WindowsGSM
 
-点击这里下载[WindowsGSM](https://windowsgsm.com/products/windowsgsm-desktop)
+点击这里下载[WindowsGSM](https://Windowsgsm.com/products/Windowsgsm-desktop)
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240314165344_db4fde8d05cd048562942615b0fbe124.png)
 
@@ -31,7 +31,7 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240318144520_f9ac82ec0f7f90f29181560c12724c1e.png)
 
-来到这个界面后，我们还需要自行[下载PalWorld的开服插件](https://github.com/ohmcodes/WindowsGSM.Palworld/releases/tag/1.1.1)，如果需要选择其他游戏的开服插件可以访问[官方插件列表](https://windowsgsm.com/products/windowsgsm-plugins)。
+来到这个界面后，我们还需要自行[下载PalWorld的开服插件](https://github.com/ohmcodes/WindowsGSM.Palworld/releases/tag/1.1.1)，如果需要选择其他游戏的开服插件可以访问[官方插件列表](https://Windowsgsm.com/products/Windowsgsm-plugins)。
 
 
 ## 步骤四：部署游戏服务器

@@ -130,7 +130,7 @@ Typecho文档：https://docs.typecho.org/doku.php
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/image-20231114230247490_7a4601d09764193903a7dd65a83a7e3a.png)
 
-我这里用windows的终端
+我这里用Windows的终端
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/image-20231224155409873_982f2fecb7a7d46f6ce98ebd4d62bbe6.png)
 

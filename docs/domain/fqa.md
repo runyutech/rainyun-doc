@@ -17,3 +17,9 @@ sidebar_position: 100
 - 警企协作通报域名解锁：https://www.west.cn/faq/list.asp?unid=2287
 - .xyz域名注册局关停申请解锁：https://gen.xyz/account/submitticket.php?action=unsuspend
 - .icu域名注册局关停请清除滥用解析后发送邮件至 abuse@nic.icu 申请解锁
+
+## 免费二级域名申请失败如何解决
+
+如果二级域名申请时显示如下图的提示，可以尝试更换主域名。
+
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240724152809_75f09a66440d33d3823a1460c365704d.png)

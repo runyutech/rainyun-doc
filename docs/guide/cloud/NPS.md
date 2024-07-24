@@ -43,7 +43,7 @@ NPS官方中文文档：[https://ehang-io.github.io/nps/#/](https://ehang-io.git
 ### 特点
 
 - 协议支持全面，兼容几乎所有常用协议，例如tcp、udp、http(s)、socks5、p2p、http代理...
-- 全平台兼容(linux、windows、macos、群辉等)，支持一键安装为系统服务
+- 全平台兼容(Linux、Windows、Macos、群辉等)，支持一键安装为系统服务
 - 控制全面，同时支持服务端和客户端控制
 - https集成，支持将后端代理和web服务转成https，同时支持多证书
 - 操作简单，只需简单的配置即可在web ui上完成其余操作
@@ -253,7 +253,7 @@ docker restart nps
 
 github下载地址：[https://github.com/yisier/nps/releases](https://github.com/yisier/nps/releases)
 
-雨云ROS下载地址：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/windows_amd64_client.tar.gz](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/windows_amd64_client.tar.gz)
+雨云ROS下载地址：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/Windows_amd64_client.tar.gz](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/Windows_amd64_client.tar.gz)
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/image-20231115002039348_2fe8000fcbf3365beaa669c4d947929f.png)
 
@@ -307,7 +307,7 @@ docker logs npc
 
 ```shell
 # 安装wget并且下载NPC服务端并重命名为 npc.tar.gz ，可根据自己系统将apt替换为yum或其他
-apt install -y wget && wget --no-check-certificate -O npc.tar.gz https://github.com/yisier/nps/releases/download/v0.26.16.1/linux_arm64_client.tar.gz
+apt install -y wget && wget --no-check-certificate -O npc.tar.gz https://github.com/yisier/nps/releases/download/v0.26.16.1/Linux_arm64_client.tar.gz
 
 # 创建一个名为npc的目录并且解压NPC服务端文件到此目录下，并且进入到npc这个目录下
 mkdir /opt/npc && tar -zxvf npc.tar.gz -C /opt/npc && cd /opt/npc

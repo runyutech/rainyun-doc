@@ -44,7 +44,7 @@ GPT4All模型是一个3GB - 8GB的文件，您可以下载并插入GPT4All开源
 
 ## 连接服务器
 
-在自己电脑上打开windows自带的远程桌面软件（RDP）
+在自己电脑上打开Windows自带的远程桌面软件（RDP）
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/image-20240106171755387_7402a777a8520fb05de84c72159472b4.png)
 

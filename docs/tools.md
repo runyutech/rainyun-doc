@@ -35,7 +35,7 @@ Apple Store国区未上架
 
 [1panel](https://1panel.cn/docs/)
 
-[宝塔面板](https://www.bt.cn/new/product_linux.html)
+[宝塔面板](https://www.bt.cn/new/product_Linux.html)
 
 ## 远程连接
 
@@ -83,10 +83,10 @@ Apple Store国区未上架
 
 ## 游戏云相关依赖
 
-[Microsoft Visual C++ Redistributable](https://learn.microsoft.com/zh-tw/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
+[Microsoft Visual C++ Redistributable](https://learn.microsoft.com/zh-tw/cpp/Windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022)
 
 [DirectX修复工具](https://soft.3dmgame.com/down/148077.html)
 
-[Xbox手柄驱动](https://xbox-360-controller-for-windows.en.lo4d.com/download)
+[Xbox手柄驱动](https://xbox-360-controller-for-Windows.en.lo4d.com/download)
 
 [远程虚拟手柄驱动](https://github.com/nefarius/ViGEmBus/releases/tag/setup-v1.17.333)

@@ -76,7 +76,6 @@ sidebar_position: 99
 ### 对象存储设置referer后无法访问
 问题正在处理，暂时需要在防盗链配置白名单app.rainyun.com，之后可以正常访问。
 
-
 ###  修改套餐后多久生效
 修改后实时生效。
 
@@ -87,6 +86,9 @@ plain。
 二者不一致，所有无法正常生效。
 
 解决：给所有js请求，主动设置Content-Type为js
+
+### 对象存储如何生成临时url给用户下载/上传
+雨云对象存储都是兼容s3协议的，可以直接参考[S3 SDK](https://github.com/awsdocs/aws-doc-sdk-examples)进行操作
 
     
 

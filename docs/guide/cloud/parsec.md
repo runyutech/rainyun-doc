@@ -54,7 +54,7 @@
 
 ### 下载驱动
 
-> [Xbox手柄驱动](https://xbox-360-controller-for-windows.en.lo4d.com/download)<br/ >
+> [Xbox手柄驱动](https://xbox-360-controller-for-Windows.en.lo4d.com/download)<br/ >
 > [远程虚拟手柄驱动](https://github.com/nefarius/ViGEmBus/releases/tag/setup-v1.17.333)
 
 ### 安装驱动

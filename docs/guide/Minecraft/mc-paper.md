@@ -105,7 +105,7 @@ apt update && apt install wget && apt install git
 wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup_cn.sh | bash
 ```
 
-- 脚本仅适用于 AMD64 架构 Ubuntu/Centos/Debian/Archlinux）
+- 脚本仅适用于 AMD64 架构 Ubuntu/Centos/Debian/ArchLinux）
 - 执行完成后，使用 `systemctl start mcsm-{daemon,web}` 即可启动面板服务。
 - 使用 `systemctl enable mcsm-{daemon,web}.service` 来开启开机自启
 - 面板代码与运行环境自动安装在 `/opt/mcsmanager/` 目录下。
@@ -142,12 +142,12 @@ wget -qO- https://gitee.com/mcsmanager/script/raw/master/setup_cn.sh | bash
 # 切换到安装目录，没有此目录请执行 mkdir /opt/
 cd /opt/
 # 下载运行环境（已有 Node 14+ 可忽略）
-wget https://npm.taobao.org/mirrors/node/v14.17.6/node-v14.17.6-linux-x64.tar.gz
+wget https://npm.taobao.org/mirrors/node/v14.17.6/node-v14.17.6-Linux-x64.tar.gz
 # 解压文件
-tar -zxvf node-v14.17.6-linux-x64.tar.gz
+tar -zxvf node-v14.17.6-Linux-x64.tar.gz
 # 链接程序到环境变量中
-ln -s /opt/node-v14.17.6-linux-x64/bin/node /usr/bin/node
-ln -s /opt/node-v14.17.6-linux-x64/bin/npm /usr/bin/npm
+ln -s /opt/node-v14.17.6-Linux-x64/bin/node /usr/bin/node
+ln -s /opt/node-v14.17.6-Linux-x64/bin/npm /usr/bin/npm
 
 # 准备安装目录
 mkdir /opt/mcsmanager/

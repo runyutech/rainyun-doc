@@ -1,11 +1,11 @@
 # 使用LinuxGSM搭建Palworld服务器
 
 ## 介绍
-[LinuxGSM](https://linuxgsm.com/servers)是一个用于下载安装管理游戏服务器的脚本，支持多款游戏搭建服务器。本文将介绍如何使用LinuxGSM搭建Palworld服务器。
+[LinuxGSM](https://Linuxgsm.com/servers)是一个用于下载安装管理游戏服务器的脚本，支持多款游戏搭建服务器。本文将介绍如何使用LinuxGSM搭建Palworld服务器。
 
 ## 1. 安装LinuxGSM
 
-Linux支持多款游戏，而每款游戏脚本依赖以及安装方式大同小异，这边以Palworld为例，我们需要进入[LinuxGSM官网](https://linuxgsm.com/servers)，找到需要部署的游戏服务器
+Linux支持多款游戏，而每款游戏脚本依赖以及安装方式大同小异，这边以Palworld为例，我们需要进入[LinuxGSM官网](https://Linuxgsm.com/servers)，找到需要部署的游戏服务器
 ，点击进入，然后按图示操作，将对应系统的安装依赖命令复制到终端执行即可。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240228150019_8f9dbf403054bc38cd385d0723efa5d6.png)
@@ -24,7 +24,7 @@ Linux支持多款游戏，而每款游戏脚本依赖以及安装方式大同小
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240228152757_1b278b960a18eaddbf5943d7823fb205.png)
 
-启动成功后我们可以使用`./pwserver details`查看服务器信息，详细的命令而已早linuxGSM上找到。
+启动成功后我们可以使用`./pwserver details`查看服务器信息，详细的命令而已早LinuxGSM上找到。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/02/20240228152857_cb79a52be68fbe84f95d726e086dcfe5.png)
 

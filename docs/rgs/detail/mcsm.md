@@ -1,5 +1,5 @@
 ---
-title: mcsm面板
+title: MCSM面板
 description: 一键开服
 sidebar_position: 5
 ---
@@ -114,7 +114,7 @@ MCSManager GitHub：https://github.com/MCSManager/MCSManager
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240718143903_cc0d8e4bd10c13ed372b83909015151a.png)
 
 
-除了mcsm自带的文件管理外，我们还支持使用SFTP协议进行文件管理，可以使用`FileZilla`等软件进行连接。
+除了MCSM自带的文件管理外，我们还支持使用SFTP协议进行文件管理，可以使用`FileZilla`等软件进行连接。
 
 
 :::tip

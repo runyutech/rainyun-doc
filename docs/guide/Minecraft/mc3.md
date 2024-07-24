@@ -54,7 +54,7 @@ banner官网：[https://new.mohistmc.com/software/mohist](https://new.mohistmc.c
 
 ## 连接服务器
 
-在自己电脑上打开windows自带的远程桌面软件（RDP）
+在自己电脑上打开Windows自带的远程桌面软件（RDP）
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/image-20240106171755387_7402a777a8520fb05de84c72159472b4.png)
 
@@ -112,7 +112,7 @@ banner官网：[https://new.mohistmc.com/software/mohist](https://new.mohistmc.c
 
 Dragonwell17下载地址：[https://github.com/dragonwell-project/dragonwell17/wiki/Mirrors-for-download-(下载镜像)](https://github.com/dragonwell-project/dragonwell17/wiki/Mirrors-for-download-(下载镜像))
 
-Alibaba_Dragonwell_Standard_jdk-17.0.8.0.8+7_x64_windows版 雨云[ROS](https://forum.rainyun.com/t/topic/5573)下载地址（如果上面链接打不开可以直接使用此链接下载）：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/Alibaba_Dragonwell_Standard_17.0.8.0.8.7_x64_windows_d94cd0f46d2ba43d97cd085d98f6cca1.zip](https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/Alibaba_Dragonwell_Standard_17.0.8.0.8.7_x64_windows_d94cd0f46d2ba43d97cd085d98f6cca1.zip)
+Alibaba_Dragonwell_Standard_jdk-17.0.8.0.8+7_x64_Windows版 雨云[ROS](https://forum.rainyun.com/t/topic/5573)下载地址（如果上面链接打不开可以直接使用此链接下载）：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/Alibaba_Dragonwell_Standard_17.0.8.0.8.7_x64_Windows_d94cd0f46d2ba43d97cd085d98f6cca1.zip](https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/Alibaba_Dragonwell_Standard_17.0.8.0.8.7_x64_Windows_d94cd0f46d2ba43d97cd085d98f6cca1.zip)
 
 Adoptium JDK下载地址：[https://mirrors.tuna.tsinghua.edu.cn/Adoptium/](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/)
 

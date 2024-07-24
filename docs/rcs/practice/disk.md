@@ -57,7 +57,7 @@ resize2fs /dev/sda1
 
 </TabItem>
 
- <TabItem value="centos 8 / rockylinux 8 / rockylinux 9" label="centos 8 / rockylinux 8 / rockylinux 9" default>
+ <TabItem value="centos 8 / rockyLinux 8 / rockyLinux 9" label="centos 8 / rockyLinux 8 / rockyLinux 9" default>
 SSH进入服务器后执行以下命令：
 
 ```shell

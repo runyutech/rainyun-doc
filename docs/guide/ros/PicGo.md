@@ -64,7 +64,7 @@ picgo下载链接：[https://github.com/Molunerfinn/PicGo/releases](https://gith
 
 山东大学镜像站：[https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo/](https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo/)
 
-我下载的是beta版本，测试版，相对正式版不稳定。windows系统的就选择这种exe后缀的。
+我下载的是beta版本，测试版，相对正式版不稳定。Windows系统的就选择这种exe后缀的。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/10/32ee0c33368428d1432345b12eede732.png)
 

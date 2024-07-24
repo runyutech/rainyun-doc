@@ -14,6 +14,8 @@ import TabItem from '@theme/TabItem';
 如需要在服务器上安装宝塔，可以前往[宝塔官网](https://www.bt.cn/new/download.html)，选择Linux版本，
 然后找到适合您的系统版本，复制命令到SSH运行即可。
 
+目前宝塔兼容性排序:Debian-12>Ubuntu-22>Centos 9>0penCloud 9
+
 <Tabs>
  <TabItem value="CentOS" label="CentOS" >
 ```shell

@@ -46,11 +46,11 @@ rclone 的配置简单，可以使用命令行或者配置文件来配置。使�
 
 Rclone官方下载地址：https://rclone.org/downloads/
 
-window版雨云对象存储下载地址：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/rclone-v1.65.0-windows-amd64_f23f79a27f93b504a2c9b4938c376e6e.zip](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/rclone-v1.65.0-windows-amd64_f23f79a27f93b504a2c9b4938c376e6e.zip)
+window版雨云对象存储下载地址：[https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/rclone-v1.65.0-Windows-amd64_f23f79a27f93b504a2c9b4938c376e6e.zip](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/rclone-v1.65.0-Windows-amd64_f23f79a27f93b504a2c9b4938c376e6e.zip)
 
-本篇教程用windows版，如果你会Linux也可以用Linux，rclone指令都是一样的。
+本篇教程用Windows版，如果你会Linux也可以用Linux，rclone指令都是一样的。
 
-将下载的windows版压缩包解压到你要安装的目录，然后将这个目录路径添加到系统环境变量中，如下图所示。
+将下载的Windows版压缩包解压到你要安装的目录，然后将这个目录路径添加到系统环境变量中，如下图所示。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/12/image-20231210023526702_67442c6f784c9cf093eb35d9fb76a05f.png)
 
