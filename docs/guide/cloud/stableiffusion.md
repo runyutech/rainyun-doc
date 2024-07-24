@@ -48,7 +48,7 @@ Stable Diffusion使用来自LAION-5B数据库子集的512x512图像进行训练�
 
 ## 连接服务器
 
-在自己电脑上打开windows自带的远程桌面软件（RDP）
+在自己电脑上打开Windows自带的远程桌面软件（RDP）
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2024/01/image-20240106171755387_7402a777a8520fb05de84c72159472b4.png)
 

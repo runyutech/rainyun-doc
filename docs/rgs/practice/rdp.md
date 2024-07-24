@@ -1,13 +1,13 @@
 ---
-title: macos系统上传/下载文件到Windows服务器
-description: macos系统上传/下载文件到Windows服务器
+title: Macos系统上传/下载文件到Windows服务器
+description: Macos系统上传/下载文件到Windows服务器
 sidebar_position: 5
 ---
 
-mac系统如果需要方便的上传和下载windows系统的文件，可以通过微软官方提供的[Remote desktop](https://aka.ms/rdmacbeta)软件操作。
+mac系统如果需要方便的上传和下载Windows系统的文件，可以通过微软官方提供的[Remote desktop](https://aka.ms/rdmacbeta)软件操作。
 
 
-## macos系统上传/下载文件到Windows服务器
+## Macos系统上传/下载文件到Windows服务器
 
 1. 打开安装好的RDP软件，点击+号，选择Add PC，添加连接信息。
 

@@ -23,9 +23,9 @@ Bug未知，请自行测试
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240126163923_79e56ae6fcdeb7e17fc0be692664b303.png)
 
 
-#### linux/面板
-下载linux文件，替换下面路径的**PalServer-Linux-Test**<br/>
-`pal\pal\binaries\linux\`
+#### Linux/面板
+下载Linux文件，替换下面路径的**PalServer-Linux-Test**<br/>
+`pal\pal\binaries\Linux\`
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240126163646_96e36adf6716d78a2170c3bd7dbf041c.png)
 

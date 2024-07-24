@@ -30,7 +30,7 @@ sidebar_position: 1
 
 #### VPS
 
-VPS是基于KVM技术创建的云服务器，支持window、linux系统。
+VPS是基于KVM技术创建的云服务器，支持window、Linux系统。
 
 可以远程进入，并且像家用电脑一样进行服务端搭建。
 

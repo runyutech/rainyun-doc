@@ -4,7 +4,7 @@
 
 如果转出数据的机器与转入机器的内网可以相通，那我们可以使用局域网高效传输数据而不用经过互联网。
 
-局域网传输文件等，我们可以使用[LocalSend](https://localsend.org/#/)传输文件，windows环境下我们可以直接下载安装，然后直接打开。
+局域网传输文件等，我们可以使用[LocalSend](https://localsend.org/#/)传输文件，Windows环境下我们可以直接下载安装，然后直接打开。
 
 :::tip
 如果无法打开可以尝试安装Visual Basic/C++ Redistributable 运行库
@@ -27,7 +27,7 @@
 
 这边推荐使用[alist](https://alist.nn.ci/zh/guide/)搭建。
 
-我们来到[下载页面](https://github.com/alist-org/alist/releases)，选择对应系统版本的程序，这边我们使用windows演示则选择Windows。
+我们来到[下载页面](https://github.com/alist-org/alist/releases)，选择对应系统版本的程序，这边我们使用Windows演示则选择Windows。
 
 下载后我们使用命令行运行，输入`alist.exe server`即可。
 
@@ -52,7 +52,7 @@
 然后我们接收服务器即可访问http://公网地址:5244 下载我们的文件。
 
 :::tip
-如果机器上nat机器，需要设置nat端口映射将5244映射到任意公网端口然后使用，`http://nat地址:端口访问`
+如果机器上NAT机器，需要设置NAT端口映射将5244映射到任意公网端口然后使用，`http://NAT地址:端口访问`
 :::
 
 

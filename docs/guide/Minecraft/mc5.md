@@ -21,7 +21,7 @@
 
 ## 4.开启服务器
 
-进入mcsm服务器后，找到自己的机器，点击右边管理，进入后点击开启实例。
+进入MCSM服务器后，找到自己的机器，点击右边管理，进入后点击开启实例。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240321115649_0ce84727f38fd3a4b9fdede91e28ea79.png)
 
@@ -29,7 +29,7 @@
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240321120811_3e021c19a77e472cc884e6f4ba79723a.png)
 
-然后我们回到雨云管理页面，右边找到nat地址，复制地址，然后游戏内访问这个地址即可。
+然后我们回到雨云管理页面，右边找到NAT地址，复制地址，然后游戏内访问这个地址即可。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/03/20240321121010_b18ff97c6112d182c2fa548155e79afe.png)
 

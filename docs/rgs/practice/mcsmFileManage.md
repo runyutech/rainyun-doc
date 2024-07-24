@@ -1,10 +1,10 @@
 ---
-title: 文件管理
+title: MCSM面板文件管理
 description: 文件管理
 sidebar_position: 6
 ---
 
-## mcsm文件管理
+## MCSM文件管理
 
 需要配置服务器文件，例如上传mod、存档等操作，可以使用文件管理功能。
 
@@ -20,7 +20,7 @@ sidebar_position: 6
 上传的压缩包需要是`ZIP格式`才可以在线解压。
 :::
 
-除了mcsm自带的文件管理外，我们还支持使用SFTP协议进行文件管理。
+除了MCSM自带的文件管理外，我们还支持使用SFTP协议进行文件管理。
 
 ## 使用SFTP管理MCSM面板
 
@@ -32,7 +32,7 @@ sidebar_position: 6
 
 > * 服务器地址：`sftp://******` 使用这里的地址连接
 > * 用户名：使用图上自己管理页面所展示的用户名
-> * 密码：密码和你的mcsm面板访问密码一致
+> * 密码：密码和你的MCSM面板访问密码一致
 > * 端口：22
 
 ### WINSCP
@@ -54,7 +54,7 @@ sidebar_position: 6
 ### forklift
 如果你的机器是其他系统，可能无法使用WINSCP，我们可以使用forklift等软件进行连接。
 
-我们使用forklift为例，按照下方填入你的连接信息，点击connect，提示证书问题再次点击连接即可连接到你的mcsm面板文件。
+我们使用forklift为例，按照下方填入你的连接信息，点击connect，提示证书问题再次点击连接即可连接到你的MCSM面板文件。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/05/20240528121724_f7d2fb44bc3b5b413f30c64a3c033b36.png)
 

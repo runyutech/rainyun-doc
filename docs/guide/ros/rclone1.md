@@ -9,7 +9,7 @@
 1. [准备环境](/docs/guide/ros/rclone1#准备环境)
 2. [配置Rclone](/docs/guide/ros/rclone1#配置rclone)
 3. [测试运行](/docs/guide/ros/rclone1#测试运行)
-4. [Linux环境下部署](/docs/guide/ros/rclone1#linux环境下部署)
+4. [Linux环境下部署](/docs/guide/ros/rclone1#Linux环境下部署)
 
 ### 准备环境
 
