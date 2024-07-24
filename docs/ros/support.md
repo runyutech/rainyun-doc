@@ -88,7 +88,7 @@ plain。
 解决：给所有js请求，主动设置Content-Type为js
 
 ### 对象存储如何生成临时url给用户下载/上传
-雨云对象存储都是兼容s3协议的，可以直接参考[S3 SDK](https://github.com/awsdocs/aws-doc-sdk-examples)进行操作
+雨云对象存储都是兼容s3协议的，可以[直接参考](https://github.com/awsdocs/aws-doc-sdk-examples/blob/main/javascriptv3/example_code/s3/scenarios/presigned-url-upload.js)进行操作
 
     
 
