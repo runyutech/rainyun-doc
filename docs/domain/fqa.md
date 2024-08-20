@@ -23,3 +23,8 @@ sidebar_position: 100
 如果二级域名申请时显示如下图的提示，可以尝试更换主域名。
 
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/07/20240724152809_75f09a66440d33d3823a1460c365704d.png)
+
+## 购买域名时遇到的错误
+
+### 创建cnnic ID失败：500 Parameter value policy error：contact code is in blacklist
+注册者在cnnic注册局黑名单中，当前注册者已不能创建实名模板，建议更换其他注册人创建实名模板
