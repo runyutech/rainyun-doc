@@ -19,6 +19,7 @@ sidebar_position: 1
 - 采用专用高主频CPU
   - IntelI9 14900KF
   - IntelI9 13900KF
+  - Ryzen 9950X
   - Ryzen 7950X
   - Ryzen 5900X
   - Gold 6146
