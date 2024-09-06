@@ -28,18 +28,18 @@ sidebar_position: 4
 ### 样品实物图
 使用优质印刷技术，不易掉色，布料结实耐用。 容量大，可以放入14寸 MacBook Pro 和其他日常用品。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/2024/04/7215ebc2d9f592cbce9bf5c00469bd9b.JPG)
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_1376%203.JPG)
 
-![](https://cn-sy1.rains3.com/rainyun-assets/2024/04/33c81fb3391b42ed8974c2af211bfe97.JPG)
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_1378%202.JPG)
 
-![](https://cn-sy1.rains3.com/rainyun-assets/2024/04/8a4f8accdeacfa753c5b884503cbffdb.jpg)
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_1386%202.jpg)
 
 
-![](https://cn-sy1.rains3.com/rainyun-assets/2024/04/b2ee8164c05b81e4d30bd4a111a6dc4d.JPG)
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_1384%203.JPG)
 
 ### 模特图
 
-![](https://cn-sy1.rains3.com/rainyun-assets/2024/04/b1fe0d1ca60dc6456e2a48a1fdfeb5d0.jpg)
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_1381%202.jpg)
 
 
 ### 赠品钥匙扣
@@ -55,6 +55,46 @@ sidebar_position: 4
 在 [积分商城](https://app.rainyun.com/account/reward/store) 以 **50000** 积分兑换，预计 **4月22号** 开始发货，后续会上架到淘宝官方店。
 
 更多周边产品正在筹备中，敬请期待！
+
+## 周边雨伞
+
+### 简介
+在雨云6周年之际，我们设计了一把周边雨伞，印有象征雨云雨滴的图案和雨云的图标，色彩低调优雅，可以给您的雨天带来不一样的色彩和乐趣。
+
+#### 设计图
+
+![设计图](https://cn-sy1.rains3.com/rainyun-assets/product/b31e4ed7555bdff57d84e08d0d6b8da0.jpg)
+
+#### 实物图
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_3113%202.jpg)
+
+![](https://cn-sy1.rains3.com/rainyun-assets/product/IMG_3114%202.jpg)
+
+### 规格参数
+- 尺寸：8骨21寸手动黑胶三折伞
+- 伞下直径：约95cm
+- 折叠长度：约25cm
+- 展开高度：约65cm
+- 适用人数：1-2人
+
+### 产品特点
+1. 黑胶涂层：有效阻挡紫外线，提供全方位防护
+2. 轻便易携：折叠后仅25cm长，方便随身携带
+3. 防风设计：采用坚固骨架，抗风性能出色
+4. 速干伞面：特殊材质设计，甩干后即可收纳
+
+### 材质说明
+- 伞面：高密度拒水碰撞布，配以黑胶涂层
+- 伞骨：采用耐用碳素钢
+- 手柄：舒适磨砂材质
+
+这把雨伞不仅实用美观，还代表了雨云的精神。不管是大晴天还是下雨天，它都能给你遮风挡雨，就像雨云一直在默默保护用户的数据和服务那样。
+
+### 获取方式
+
+这把超酷的雨伞正在赶工中，预计9月中旬就能和大家见面啦！到时候我们会在 [积分商城](https://app.rainyun.com/account/reward/store) 上架，只需 **70000** 积分就能带回家。具体什么时候上架，怎么兑换，我们会在官方公告里告诉大家，记得常来看看哦！
+
+别担心积分不够，我们还准备了其他花样让你们拿到雨伞。比如参加问卷调查、看直播都有机会抽到。更多有意思的活动还在路上……
 
 ## 旧款润雨无声帆布袋(已下架)
 
