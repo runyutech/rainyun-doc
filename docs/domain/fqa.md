@@ -31,3 +31,6 @@ sidebar_position: 100
 
 ### 创建cnnic ID失败：500 Parameter value policy error：contact code is in blacklist
 注册者在cnnic注册局黑名单中，当前注册者已不能创建实名模板，建议更换其他注册人创建实名模板
+
+## 为什么域名证书所有人显示为"刘吉会"？
+当域名处于冻结状态时，会暂时显示"刘吉会"作为所有人。这是一种临时状态，当域名状态恢复正常时，所有人信息就会显示为实际注册人的信息。
