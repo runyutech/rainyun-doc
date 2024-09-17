@@ -1,6 +1,6 @@
 ---
-title: 管理套餐
-description: 管理套餐
+title: 套餐管理
+description: 套餐管理
 sidebar_position: 5
 ---
 ## 升级套餐

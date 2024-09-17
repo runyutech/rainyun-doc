@@ -1,11 +1,11 @@
 ---
-title: 独立ip
-description: 独立ip
+title: 服务器IP
+description: 服务器IP
 sidebar_position: 5
 
 ---
 
-# 独立ip
+# 服务器ip
 
 在管理页面，你可以看到你的服务器的公网IP地址，这个IP地址是你的服务器的唯一标识，你可以通过这个IP地址访问你的服务器。
 
