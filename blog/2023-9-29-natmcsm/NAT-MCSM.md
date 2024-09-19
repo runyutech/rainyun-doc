@@ -27,7 +27,7 @@ tags: [技术干货]
 
 **雨云官网地址：**[https://www.rainyun.com/zeruns_](https://www.rainyun.com/zeruns_)
 
-**优惠码：zeruns**
+**优惠码：ryy**
 
 **通过上面的链接注册账号可获得一张5元无门槛优惠券，以及消费最高返利20%。**
 
