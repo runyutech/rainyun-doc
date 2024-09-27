@@ -5,7 +5,7 @@ sidebar_position: 100
 # 常见问题
 
 ## 支持域名备案吗？
-您可以在此进行备案：https://app.rainyun.com:8080/apps/domain/list/record
+您可以在此进行备案：https://app.rainyun.com/apps/domain/list/record
 
 注：试用产品不支持备案
 
