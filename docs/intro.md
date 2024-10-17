@@ -29,7 +29,7 @@ toc_max_heading_level: 2
 * [游戏云服务器](/docs/category/rgs)
 * [域名服务](/docs/domain/buy/introduce)
 * [对象存储](/docs/category/domain)
-* 云盾CDN(暂未上线)
+* [云盾CDN](/docs/category/cdn)
 
 ## 如何选择
 

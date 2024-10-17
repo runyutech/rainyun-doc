@@ -51,7 +51,7 @@ const sidebars = {
         {
             "type": "link",
             "label": "雨盾CDN",
-            "className": "icon-ros",
+            "className": "icon-cdn",
             "href": "/docs/category/cdn",
         },
         {
