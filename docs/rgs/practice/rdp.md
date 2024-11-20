@@ -1,6 +1,6 @@
 ---
-title: Macos系统上传/下载文件到Windows服务器
-description: Macos系统上传/下载文件到Windows服务器
+title: Mac系统上传/下载文件到Windows服务器
+description: Mac系统上传/下载文件到Windows服务器
 sidebar_position: 5
 ---
 
