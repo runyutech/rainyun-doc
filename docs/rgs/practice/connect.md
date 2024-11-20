@@ -1,6 +1,6 @@
 ---
-title: 远程连接到服务器
-description: 连接到服务器
+title: 远程连接到VPS服务器
+description: 远程连接到VPS服务器
 sidebar_position: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: 硬盘扩容
-description: 硬盘扩容
+title: VPS机器操作硬盘扩容
+description: VPS机器操作硬盘扩容
 sidebar_position: 3
 ---
 

@@ -1,4 +1,4 @@
-# 在MCSM上安装任意版本的Minecraft 基岩版本
+# 在MCSM上安装任意版本的Minecraft基岩服务端
 
 ## 下载对应的基岩服务端
 
