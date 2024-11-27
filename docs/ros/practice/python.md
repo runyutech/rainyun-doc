@@ -7,7 +7,7 @@ description: 使用AWS SDK for Python连接到对象存储
 
 有时候我们需要使用代码控制使用对象存储，比如上传、下载文件等。如需要使用Python控制对象存储，我们可以使用Boto3框架操作。
 
-有关更多Boto3框架的操作可以参考[AWS SDK for Python (Boto3)](hhttps://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+有关更多Boto3框架的操作可以参考[AWS SDK for Python (Boto3)](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 
 
 首先我们需要在Python项目安装并引入bob3包：
