@@ -20,19 +20,19 @@ pip install boto3
 然后我们可以使用以下代码来连接到对象存储：
 
 ```python
-        import boto3
-        endpoint_url = 'https://cn-sy1.rains3.com'
-        access_key = '填入雨云对象存储的AccessKey'
-        secret_key = '填入雨云对象存储的SecretKey'
-        
-        s3 = boto3.client('s3',
-                          endpoint_url=endpoint_url,
-                          aws_access_key_id=access_key,
-                          aws_secret_access_key=secret_key)
-        #列出所有的存储桶名
-        responses = s3.list_buckets()
-        buckets = [bucket['Name'] for bucket in responses['Buckets']]
-        print(buckets)
+import boto3
+endpoint_url = 'https://cn-sy1.rains3.com'
+access_key = '填入雨云对象存储的AccessKey'
+secret_key = '填入雨云对象存储的SecretKey'
+
+s3 = boto3.client('s3',
+                  endpoint_url=endpoint_url,
+                  aws_access_key_id=access_key,
+                  aws_secret_access_key=secret_key)
+#列出所有的存储桶名
+responses = s3.list_buckets()
+buckets = [bucket['Name'] for bucket in responses['Buckets']]
+print(buckets)
 ```
 
 配置好对象存储的key后，直接运行代码，如果配置正确并且网络通畅，你将会看到输出的存储桶名。
