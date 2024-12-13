@@ -111,7 +111,7 @@ sudo apt-get upgrade
 默认情况下，NAT服务器或者是有独立IP的服务器，防火墙规则都是不用去动的。
 有独立IP的话，所有端口（除了部分机房限制外）都是开放着的。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112857_36e5371ad91c9d2d09e9d7c0e76055db.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211102935_36e5371ad91c9d2d09e9d7c0e76055db.png)
 
 无需新建任何防火墙规则,如果有新建的话，请把他删除(删除后，建议重启一下服务器，然后等几分钟)。
 
@@ -134,13 +134,13 @@ NAT服务器：使用对外地址进行测试。
 
 2. 使用服务器面板自带的远程工具 VNC 进来连接。
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112857_7ac69cf2e1141a19ecc0355519d41d43.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215105544_f089a47dd53d63b6921b65d5b7e2bc25.png)
 
 如果觉得每次使用VNC不方便，可以在服务器安装一下向日葵远程连接工具。
 
 ##### 方法2.更换IP
 
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231211112858_957b527bcfbad2e80f58d20683931435.png)
+![](https://cn-sy1.rains3.com/rainyun-assets/Pic/2023/11/img_1701243981_a99390b999c13d435a63afb94dbe878b)
 
 :::caution
 这个方法，只限于有独立IP的服务器。
