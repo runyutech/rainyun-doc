@@ -7,13 +7,13 @@
 提供常用资源的高速下载服务，点击下方链接访问  
 [https://mirrors.rainyun.com](https://mirrors.rainyun.com)
 
-## TOTP 常见实现工具
+## OTP/TOTP 常见实现工具
 
 ### Microsoft Authenticator
 
 [Google Play 下载](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
-[Apple Store 下载](https://apps.apple.com/cn/app/id983156458)
+[Apple Store 下载](https://apps.apple.com/cn/app/microsoft-authenticator/id983156458)
 
 ### Google Authenticator
 
@@ -75,7 +75,7 @@
 
 [Android](https://microsoft-corporation-com-microsoft-rdc-androidx.en.uptodown.com/android)
 
-[IOS](https://apps.apple.com/cn/app/id714464092)
+[IOS](https://apps.apple.com/cn/app/windows-app-mobile/id714464092)
 
 ### VNC
 
@@ -135,7 +135,7 @@
 
 [Google Play 下载](https://play.google.com/store/apps/details?id=com.android.chrome)
 
-[Apple Store 下载](https://apps.apple.com/cn/app/id535886823)
+[Apple Store 下载](https://apps.apple.com/cn/app/google-chrome/id535886823)
 
 ### Microsoft Edge
 
@@ -143,7 +143,7 @@
 
 [Google Play 下载](https://play.google.com/store/apps/details?id=com.microsoft.emmx)
 
-[Apple Store 下载](https://apps.apple.com/cn/app/id1288723196)
+[Apple Store 下载](https://apps.apple.com/cn/app/microsoft-edge-%E5%BE%AE%E8%BD%AF%E5%87%BA%E5%93%81%E6%B5%8F%E8%A7%88%E5%99%A8/id1288723196)
 
 ### Mozilla Firefox
 
@@ -151,4 +151,4 @@
 
 [Google Play 下载](https://play.google.com/store/apps/details?id=org.mozilla.firefox)
 
-[Apple Store 下载](https://apps.apple.com/cn/app/id989804926)
+[Apple Store 下载](https://apps.apple.com/cn/app/firefox-%E7%81%AB%E7%8B%90%E6%B5%8F%E8%A7%88%E5%99%A8/id989804926)
