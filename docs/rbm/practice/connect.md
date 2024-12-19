@@ -87,33 +87,7 @@ sidebar_position: 5
 ![](https://cn-sy1.rains3.com/rainyun-assets/pic/2024/01/20240108150411_04114355939e09d0cafdb08cec001ab2.png)
 
 
-## 连接到MacOS服务器
-
-### 使用SSH连接
-
-我们可以通过SSH的方式连接到MacOS服务器，常用工具有Xshell、putty，Termius，系统终端等，这里以系统终端为例。
-
-我们打开系统终端，输入`ssh rainyun@IP地址`，回车后会提示输入密码，输入密码即可连接到服务器。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215110421_c8d96f7bc2d5626fee0a2fc2dfadc6cb.png)
-
-### 使用VNC连接
-
-除了SSH外，我们可以用VNC的方式连接。
-
-#### 使用访达
-如果您的电脑也是**Mac OS**，可以使用**访达**直接连接到远程Mac OS服务器。
-
-打开访达，状态栏点击`前往`，`连接服务器`，输入`vnc://IP地址`，点击连接，输入用户名和密码即可连接到服务器。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215111001_afa9e9d4774d1d79f2a4921e0d2558bf.png)
-
-#### 使用VNC工具
-如果您的电脑**不是Mac OS**，可以使用**VNC工具**连接到远程Mac OS服务器，这边使用VNC VIEW演示。
-
-![](https://cn-sy1.rains3.com/rainyun-assets/pic/2023/12/20231215111740_db170980ffffa19ba8e57c69163a83c6.png)
-
-#### 使用网页版VNC
+### 网页版VNC
 
 我们还可以使用控制页面的NO VNC连接，我们可以在[云服务器](https://app.rainyun.com/apps/rcs/list)页面找到，点击管理，点击远程连接（VNC），等待加入后，按照页面提示，输入信息即可连接到服务器。
 
