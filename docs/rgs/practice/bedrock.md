@@ -14,7 +14,7 @@
 
 ##  上传服务端到MCSM的根目录。
 
-    上传文件方法可以[参考文档操作](https://www.rainyun.com/docs/rgs/practice/MCSMFileManage)。
+    上传文件方法可以[参考文档操作](https://www.rainyun.com/docs/rgs/practice/mcsmFileManage)。
 
 ## 解压服务端
 
