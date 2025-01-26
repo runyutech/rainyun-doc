@@ -17,7 +17,7 @@
 
 ##  上传核心到MCSM的根目录。
 
-    上传文件方法可以[参考文档操作](https://www.rainyun.com/docs/rgs/practice/MCSMFileManage)。
+    上传文件方法可以[参考文档操作](https://www.rainyun.com/docs/rgs/practice/mcsmFileManage)。
 
 ## 配置启动脚本并运行
 
