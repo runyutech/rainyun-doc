@@ -219,10 +219,16 @@ resize2fs /dev/sda1
 </TabItem>
 
 </Tabs>
-:::tip
-注意：如果您把系统设置成了中文，在运行growpart命令之前必须先运行：LANG=en_US.UTF-8，否则会报错如： unexpected output in sfdisk --version
 
-由于win硬盘格式ntfs,win的盘换系统到ubuntu后,可能会产生一定识别问题
+:::tip
+运行growpart命令时，如果提示unexpected output in sfdisk --version [sfdisk，来自 util-linux x.x.x]
+
+这是因为中文版操作系统使用了非en_US.UTF-8的字符编码类型，请在执行前运行下方命令
+```
+LANG=en_US.UTF-8
+```
+
+由于win硬盘格式ntfs，win的盘换系统到ubuntu后，可能会产生一定识别问题
 :::
 
 #### 新增硬盘并挂载
