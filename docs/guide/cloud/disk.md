@@ -85,6 +85,17 @@ resize2fs /dev/sda1
 
 </Tabs>
 
+:::tip
+运行growpart命令时，如果提示unexpected output in sfdisk --version [sfdisk，来自 util-linux x.x.x]
+
+这是因为中文版操作系统使用了非en_US.UTF-8的字符编码类型，请在执行前运行下方命令
+```
+LANG=en_US.UTF-8
+```
+
+由于win硬盘格式ntfs，win的盘换系统到ubuntu后，可能会产生一定识别问题
+:::
+
 ### 新增硬盘并挂载
 
 **使用 `fdisk -l `命令根据大小及其他信息查看要新增的云盘**，本例子中要新建的加的硬盘为 /dev/sdb
