@@ -47,13 +47,14 @@ toc_max_heading_level: 2 //目录最大标题级别，默认是2
 ```
 
 #### 插入视频
+
 如果需要插入视频，可以使用以下代码：
 
 ```html
 <video class="iframe_video" controls src="外链"/>
 ```
-需要插入哔哩哔哩视频，可以在哔哩哔哩视频下方点击分享按钮，选择复制嵌入代码，然后粘贴到文档中，并且在代码内添加类 `class="iframe_video"` 即可。
 
+需要插入哔哩哔哩视频，可以在哔哩哔哩视频下方点击分享按钮，选择复制嵌入代码，然后粘贴到文档中，并且在代码内添加类 `class="iframe_video"` 即可。
 
 ### 侧边栏
 
@@ -97,6 +98,7 @@ rpc: [{
 ```
 
 配置后还需要在对应的文件夹下添加名为`_category_.json`的文件并编辑以下内容：
+
 ```json
 {
   "label": "裸金属物理机", //侧边栏名称
@@ -112,8 +114,8 @@ rpc: [{
 配置后可以在`docs/rbm`目录下添加文档，文档的文件名为`*.md`，例如`index.md`。
 并且还需要在`icon.scss`上配置对应的图标，具体可以参考下方的`样式主题`部分。
 
-
 #### 配置二级侧边栏
+
 二级侧边栏的配置方法和第一级侧边栏类似，但`不需要配置sidebars.js`文件，只需要新建一个文件夹并且配置`_category_.json`文件，配置后放入对应的文档即可。
 例如需要在`裸金属物理机`下添加一个`购买指南`的目录，可以在`docs/rbm`目录下新建一个`购买指南`的文件夹，并在该文件夹下添加一个名为`_category_.json`的文件，内容如下：
 
@@ -126,15 +128,19 @@ rpc: [{
   }
 }
 ```
+
 然后在该文件夹下添加文档即可。
 
 ### 样式主题
+
 修改网站的样式主题，可以在`src/css/custom.css`文件中添加样式，或者在`docusaurus.config.js`文件中修改主题配置。
 
 #### 侧边栏图标
-侧边栏图片一般存放在`src/css/icon.css`文件内，图标可以使用base64或者svg，图标库为[font-awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free)。
+
+侧边栏图片一般存放在`src/css/icon.css`文件内，图标可以使用base64或者svg，目前主题图标浅色为：`#706E7D`，图标库为[font-awesome](https://fontawesome.com/icons?d=gallery&p=2&m=free)。
 
 图标需要按照以下css选择器配置,xxxxxx为在`_category_.json`或`sidebars.js`配置的类名：
+
 ```css
 li.xxxxxx>a:before{
     content: "url()";
@@ -144,4 +150,5 @@ li.xxxxxx>.menu__list-item-collapsible>.menu__link--sublist:before {
     content: "url()";
 }
 ```
+
 为了适配深色模式，图标需要配置两种颜色的图标，深色图标需要在`[data-theme='dark']`上添加。
