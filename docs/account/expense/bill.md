@@ -37,11 +37,10 @@ sidebar_position: 12
 
 ## 开票主体与收款主体不一致，怎么处理？
 如果您发现开票主体与收款主体不一致，可下载雨云一方产品、雨云三方产品关联公司的证明文件，用于辅助财务工作，方便您报销等。
-雨云官网（www.rainyun.com）提供多种云产品服务，为方便客户的付款，雨云以广州润雨科技有限公司提供专属账户，代为以下关联公司收款，并提供以下关联公司证明文件。
+雨云官网（[www.rainyun.com](https://www.rainyun.com)）提供多种云产品服务，为方便客户的付款，雨云以广州润雨科技有限公司提供专属账户，代为以下关联公司收款，并提供以下关联公司证明文件。
 
 | 关联公司名称        | 关联公司证明文件下载       | 
 |-------------|--------------|
-| 广州幻雨科技有限公司  | [点击下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2025/07/20250729170855_90f92b09626e612c0abb6567fe10cca2.pdf) | 
+| 广州幻雨科技有限公司  | [点击下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2025/07/20250729171338_416cd4aaf9e714ad9d5ae104bdfe580c.pdf) | 
 | 广州淋雨科技有限公司  | [点击下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2025/07/20250729171307_c50ef74dce74138d308a64678ab0595a.pdf) |
-| 广州雨云云计算有限公司 | [点击下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2025/07/20250729171338_416cd4aaf9e714ad9d5ae104bdfe580c.pdf) | 
-
+| 广州雨云云计算有限公司 | [点击下载](https://cn-sy1.rains3.com/rainyun-assets/pic/2025/07/20250729170855_90f92b09626e612c0abb6567fe10cca2.pdf) | 
