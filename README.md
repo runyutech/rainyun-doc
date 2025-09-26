@@ -1,3 +1,9 @@
+# ⚠️ ⚠️ 项目移动公告
+我们正在移动此项目，github上的项目已归档。
+请关注后续移动至新的仓库目录的公告：
+https://www.rainyun.com/docs/
+
+---
 # 雨云文档
 
 这里是雨云文档的存储库，基于[docusaurus](https://docusaurus.io/zh-CN/docs/category/guides)编写，欢迎修改然后发起PR，感谢贡献！
